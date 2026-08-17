@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_nena_yo_princesa_2021",
+  "title": "Yo nena, yo princesa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110426678",
+    "imdb": "tt14566464",
+    "tmdb": 812491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 120
+}

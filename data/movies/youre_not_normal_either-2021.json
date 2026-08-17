@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_not_normal_either_2021",
+  "title": "You'Re Not Normal, Either!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597851",
+    "imdb": "tt14354276",
+    "tmdb": 768797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-19"
+}

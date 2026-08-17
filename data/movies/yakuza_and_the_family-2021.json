@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yakuza_and_the_family_2021",
+  "title": "Yakuza and the Family",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100886621",
+    "imdb": "tt13356884",
+    "tmdb": 736146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-29"
+}

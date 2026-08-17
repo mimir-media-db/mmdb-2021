@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_sulphur_sky_2021",
+  "title": "Yellow Sulphur Sky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109374616",
+    "imdb": "tt11837886",
+    "tmdb": 664382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-05"
+}

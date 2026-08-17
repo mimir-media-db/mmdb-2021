@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_dragons_village_2021",
+  "title": "Yellow Dragon's Village",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333304",
+    "imdb": "tt21799750",
+    "tmdb": 811086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yanagawa_2021",
+  "title": "Yanagawa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89073980",
+    "imdb": "tt11569670",
+    "tmdb": 661337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-12",
+  "runtime_minutes": 113
+}

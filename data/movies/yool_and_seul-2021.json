@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yool_and_seul_2021",
+  "title": "Yool and Seul",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841602",
+    "imdb": "tt14223588",
+    "tmdb": 799348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-08"
+}

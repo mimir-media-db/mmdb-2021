@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_of_the_everlasting_storm_2021",
+  "title": "The Year of the Everlasting Storm",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107304176",
+    "imdb": "tt14773990",
+    "tmdb": 832189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 115
+}

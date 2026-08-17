@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yoonyools_vip_salon_2021",
+  "title": "Yoon-Yool's VIP Salon",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841435",
+    "tmdb": 1016088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-02"
+}
