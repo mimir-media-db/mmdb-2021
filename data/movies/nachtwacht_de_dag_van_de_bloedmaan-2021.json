@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nachtwacht_de_dag_van_de_bloedmaan_2021",
+  "title": "Nachtwacht: De dag van de bloedmaan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138112718",
+    "imdb": "tt16410776",
+    "tmdb": 916041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-11"
+}

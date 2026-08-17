@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninna_sanihake_2021",
+  "title": "Ninna Sanihake",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892245",
+    "imdb": "tt10873536",
+    "tmdb": 677047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

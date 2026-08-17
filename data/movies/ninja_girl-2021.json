@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninja_girl_2021",
+  "title": "Ninja Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109597099",
+    "imdb": "tt15053108",
+    "tmdb": 860429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nerealnyi_kopets_2021",
+  "title": "Nerealnyi KOPets",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573825",
+    "imdb": "tt13188590",
+    "tmdb": 802750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-04",
+  "runtime_minutes": 115
+}

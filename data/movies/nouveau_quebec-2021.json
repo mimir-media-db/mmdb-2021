@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nouveau_quebec_2021",
+  "title": "Nouveau Québec",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110419277",
+    "imdb": "tt14668028",
+    "tmdb": 858388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-09"
+}

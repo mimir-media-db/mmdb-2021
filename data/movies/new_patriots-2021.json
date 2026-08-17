@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_patriots_2021",
+  "title": "The New Patriots",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105319877",
+    "imdb": "tt14309530",
+    "tmdb": 1616886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-11",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_of_berlin_2021",
+  "title": "Notes of Berlin",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101932690",
+    "imdb": "tt4565586",
+    "tmdb": 776793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09",
+  "runtime_minutes": 105
+}

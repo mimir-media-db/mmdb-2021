@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_from_a_women_salesman_2021",
+  "title": "Notes from a Women Salesman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108570894",
+    "imdb": "tt11854240",
+    "tmdb": 647740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-25",
+  "runtime_minutes": 125
+}

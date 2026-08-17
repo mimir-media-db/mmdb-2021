@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notebook_2021",
+  "title": "Notebook",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109240330",
+    "imdb": "tt15258248",
+    "tmdb": 857169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-27",
+  "runtime_minutes": 82
+}

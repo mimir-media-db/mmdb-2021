@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nomadland_2021",
+  "title": "Nomadland",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61740820",
+    "imdb": "tt9770150",
+    "tmdb": 581734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-20",
+  "runtime_minutes": 107
+}

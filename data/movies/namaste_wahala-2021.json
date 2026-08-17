@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_namaste_wahala_2021",
+  "title": "Namaste Wahala",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105582487",
+    "imdb": "tt12423052",
+    "tmdb": 796649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-14",
+  "runtime_minutes": 106
+}

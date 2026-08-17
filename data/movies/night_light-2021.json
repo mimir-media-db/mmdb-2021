@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_light_2021",
+  "title": "Night Light",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105699121",
+    "imdb": "tt9643074",
+    "tmdb": 718577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-04"
+}

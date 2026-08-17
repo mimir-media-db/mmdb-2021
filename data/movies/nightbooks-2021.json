@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightbooks_2021",
+  "title": "Nightbooks",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106570651",
+    "imdb": "tt10521144",
+    "tmdb": 739990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-15",
+  "runtime_minutes": 120
+}

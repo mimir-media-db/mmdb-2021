@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_wind_2021",
+  "title": "The North Wind",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105380802",
+    "imdb": "tt12552912",
+    "tmdb": 579879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-03",
+  "runtime_minutes": 122
+}

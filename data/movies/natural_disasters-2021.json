@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natural_disasters_2021",
+  "title": "Natural Disasters",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110118348",
+    "imdb": "tt9730822",
+    "tmdb": 802119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-05"
+}

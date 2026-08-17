@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nirbhaya_2021",
+  "title": "Nirbhaya",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109775186",
+    "imdb": "tt15731032"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-12"
+}
