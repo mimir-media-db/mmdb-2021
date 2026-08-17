@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvels_behind_the_mask_2021",
+  "title": "Marvel's Behind the Mask",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112184576",
+    "imdb": "tt13885628",
+    "tmdb": 787923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12",
+  "runtime_minutes": 65
+}

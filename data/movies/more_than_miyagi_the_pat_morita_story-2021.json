@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_more_than_miyagi_the_pat_morita_story_2021",
+  "title": "More Than Miyagi: The Pat Morita Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116250775",
+    "imdb": "tt5805904",
+    "tmdb": 439213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05",
+  "runtime_minutes": 89
+}

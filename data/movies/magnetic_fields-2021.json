@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magnetic_fields_2021",
+  "title": "Magnetic Fields",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119155376",
+    "imdb": "tt15747042",
+    "tmdb": 891024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 78
+}

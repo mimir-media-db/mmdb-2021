@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_grandpa_is_an_alien_2021",
+  "title": "My Grandpa is an Alien",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60536766",
+    "imdb": "tt7662644",
+    "tmdb": 506517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-02",
+  "runtime_minutes": 77
+}

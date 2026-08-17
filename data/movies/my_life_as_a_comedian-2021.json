@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_as_a_comedian_2021",
+  "title": "My Life as a Comedian",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72987866",
+    "imdb": "tt8425516",
+    "tmdb": 621728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-20",
+  "runtime_minutes": 92
+}

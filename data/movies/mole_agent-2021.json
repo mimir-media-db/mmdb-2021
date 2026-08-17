@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mole_agent_2021",
+  "title": "The Mole Agent",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245192",
+    "imdb": "tt11394298",
+    "tmdb": 653756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 90
+}

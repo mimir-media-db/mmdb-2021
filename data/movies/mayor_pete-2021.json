@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayor_pete_2021",
+  "title": "Mayor Pete",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105883095",
+    "imdb": "tt13622180",
+    "tmdb": 782310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

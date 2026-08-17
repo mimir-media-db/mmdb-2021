@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madam_chief_minister_2021",
+  "title": "Madam Chief Minister",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85783030",
+    "imdb": "tt13773882",
+    "tmdb": 782848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22"
+}

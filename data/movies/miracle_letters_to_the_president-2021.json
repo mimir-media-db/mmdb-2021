@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_letters_to_the_president_2021",
+  "title": "Miracle: Letters to the President",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106614348",
+    "imdb": "tt14490546",
+    "tmdb": 730823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-15",
+  "runtime_minutes": 117
+}

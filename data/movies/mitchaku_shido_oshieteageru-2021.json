@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitchaku_shido_oshieteageru_2021",
+  "title": "Mitchaku shidô: Oshieteageru",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333296",
+    "imdb": "tt16021212",
+    "tmdb": 1274264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-05"
+}

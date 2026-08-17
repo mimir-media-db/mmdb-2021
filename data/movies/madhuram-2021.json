@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhuram_2021",
+  "title": "Madhuram",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110264154",
+    "imdb": "tt13671922",
+    "tmdb": 829830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

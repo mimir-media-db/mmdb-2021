@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_myth_of_love_2021",
+  "title": "Myth of Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110355903",
+    "imdb": "tt16606348",
+    "tmdb": 902478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-24",
+  "runtime_minutes": 112
+}

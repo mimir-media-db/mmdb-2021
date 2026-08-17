@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mamas_girl_2021",
+  "title": "Mama’s Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122354908",
+    "imdb": "tt14384290",
+    "tmdb": 563110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-13",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marilyns_eyes_2021",
+  "title": "Marilyn's Eyes",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109003170",
+    "imdb": "tt13313408",
+    "tmdb": 776328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 114
+}

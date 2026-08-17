@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mimi_2021",
+  "title": "Mimi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85785582",
+    "imdb": "tt10895576",
+    "tmdb": 653457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

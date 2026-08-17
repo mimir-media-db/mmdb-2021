@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mayday_2021",
+  "title": "Mayday",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96392364",
+    "imdb": "tt11271800",
+    "tmdb": 672521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-31",
+  "runtime_minutes": 100
+}

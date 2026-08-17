@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahasamudram_2021",
+  "title": "Mahasamudram",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104834767",
+    "imdb": "tt13131798",
+    "tmdb": 755431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14"
+}

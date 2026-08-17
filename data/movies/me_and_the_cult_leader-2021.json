@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_the_cult_leader_2021",
+  "title": "Me and the Cult Leader",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101033424",
+    "imdb": "tt5149620",
+    "tmdb": 713637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-20"
+}

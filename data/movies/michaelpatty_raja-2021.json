@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_michaelpatty_raja_2021",
+  "title": "Michaelpatty Raja",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107242019",
+    "imdb": "tt14229558",
+    "tmdb": 1498138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-19"
+}

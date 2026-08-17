@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_hunter_legends_of_the_guild_2021",
+  "title": "Monster Hunter: Legends of the Guild",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107611495",
+    "imdb": "tt9174358",
+    "tmdb": 851281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 58
+}

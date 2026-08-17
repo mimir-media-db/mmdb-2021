@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_misfit_eres_o_te_haces_2021",
+  "title": "Misfit, eres o te haces",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123942247",
+    "imdb": "tt13936582",
+    "tmdb": 893941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

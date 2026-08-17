@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madison_a_fast_friendship_2021",
+  "title": "Madison: A Fast Friendship",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107011785",
+    "imdb": "tt10397306",
+    "tmdb": 753236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-16"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_willoughby_and_the_haunted_bookshop_2021",
+  "title": "Miss Willoughby and the Haunted Bookshop",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117456000",
+    "imdb": "tt12825632",
+    "tmdb": 734442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

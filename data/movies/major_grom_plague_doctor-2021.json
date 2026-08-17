@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_major_grom_plague_doctor_2021",
+  "title": "Major Grom: Plague Doctor",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43295469",
+    "imdb": "tt7601480",
+    "tmdb": 529106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-01",
+  "runtime_minutes": 137
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mccurry_the_pursuit_of_color_2021",
+  "title": "McCurry: the Pursuit of Color",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125707251",
+    "imdb": "tt11226218",
+    "tmdb": 890841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

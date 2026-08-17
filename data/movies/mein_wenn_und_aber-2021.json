@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_wenn_und_aber_2021",
+  "title": "Mein Wenn und Aber",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361228",
+    "imdb": "tt14350762",
+    "tmdb": 933881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

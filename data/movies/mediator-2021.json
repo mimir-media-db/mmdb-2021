@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mediator_2021",
+  "title": "Mediator",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132317736",
+    "imdb": "tt13576014",
+    "tmdb": 775697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

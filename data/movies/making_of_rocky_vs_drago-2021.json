@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_of_rocky_vs_drago_2021",
+  "title": "The Making of \"Rocky vs. Drago\"",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737536",
+    "imdb": "tt15840228",
+    "tmdb": 895595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moxie_2021",
+  "title": "Moxie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73543906",
+    "imdb": "tt6432466",
+    "tmdb": 583689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-03"
+}

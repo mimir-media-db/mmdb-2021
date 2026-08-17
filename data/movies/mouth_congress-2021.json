@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mouth_congress_2021",
+  "title": "Mouth Congress",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107481687",
+    "imdb": "tt5594012",
+    "tmdb": 849300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-12"
+}

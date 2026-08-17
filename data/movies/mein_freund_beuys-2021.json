@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_freund_beuys_2021",
+  "title": "Mein Freund Beuys",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129256337",
+    "imdb": "tt30981188"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

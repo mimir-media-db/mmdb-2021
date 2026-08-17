@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machinery_of_dreams_2021",
+  "title": "The Machinery of Dreams",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126845103",
+    "imdb": "tt7092846",
+    "tmdb": 881901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-15",
+  "runtime_minutes": 94
+}

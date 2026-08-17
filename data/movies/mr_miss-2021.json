@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_miss_2021",
+  "title": "Mr & Miss",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105045644",
+    "imdb": "tt13618240",
+    "tmdb": 725224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-29"
+}

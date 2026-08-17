@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_amanda_2021",
+  "title": "My Amanda",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107548407",
+    "imdb": "tt13136084",
+    "tmdb": 843808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 89
+}

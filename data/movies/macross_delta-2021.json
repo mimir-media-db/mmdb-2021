@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macross_delta_2021",
+  "title": "Macross Delta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131549879",
+    "imdb": "tt13898164",
+    "tmdb": 749401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30"
+}

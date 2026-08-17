@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_indian_boyfriend_2021",
+  "title": "My Indian Boyfriend",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106899270",
+    "imdb": "tt14764886",
+    "tmdb": 834350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-27"
+}

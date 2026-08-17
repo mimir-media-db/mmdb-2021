@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_bachmann_and_his_class_2021",
+  "title": "Mr. Bachmann and His Class",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105441224",
+    "imdb": "tt14035048",
+    "tmdb": 795812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-01",
+  "runtime_minutes": 217
+}

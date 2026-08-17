@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motherly_2021",
+  "title": "Motherly",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111915353",
+    "imdb": "tt11464730",
+    "tmdb": 768447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

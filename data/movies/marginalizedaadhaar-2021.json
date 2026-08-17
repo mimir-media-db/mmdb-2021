@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marginalizedaadhaar_2021",
+  "title": "MarginalizedAadhaar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130366105",
+    "imdb": "tt14546228"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 69
+}
