@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zaketa_na_pareis",
+  "title": "Zaketa Na Pareis",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107063285",
+    "imdb": "tt14339392",
+    "tmdb": 121954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 38
+}

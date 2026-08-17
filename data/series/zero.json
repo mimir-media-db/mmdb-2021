@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zero",
+  "title": "Zero",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105744409",
+    "imdb": "tt10619486",
+    "tmdb": 119861
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
