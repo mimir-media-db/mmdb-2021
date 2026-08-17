@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_furia",
+  "title": "Furia",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109575020",
+    "imdb": "tt11204154",
+    "tmdb": 130219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

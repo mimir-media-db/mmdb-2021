@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_from_cradle_to_stage",
+  "title": "From Cradle to Stage",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107637143",
+    "imdb": "tt8755836",
+    "tmdb": 124510
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

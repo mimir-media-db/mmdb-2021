@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fantasy_island",
+  "title": "Fantasy Island",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q107751095",
+    "imdb": "tt13784584",
+    "tmdb": 125116
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_first_yaya",
+  "title": "First Yaya",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q96377988",
+    "imdb": "tt14241412",
+    "tmdb": 218984
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 78
+}

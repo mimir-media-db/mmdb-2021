@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fboy_island",
+  "title": "FBOY Island",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107883085",
+    "imdb": "tt14825858",
+    "tmdb": 129481
+  },
+  "last_updated": "2026-08-17"
+}

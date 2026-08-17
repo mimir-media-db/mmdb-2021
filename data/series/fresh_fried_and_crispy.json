@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fresh_fried_and_crispy",
+  "title": "Fresh, Fried and Crispy",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107366510",
+    "imdb": "tt14644428",
+    "tmdb": 125629
+  },
+  "last_updated": "2026-08-17"
+}

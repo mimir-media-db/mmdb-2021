@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_faulkner_focus",
+  "title": "The Faulkner Focus",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106511645",
+    "imdb": "tt13852906"
+  },
+  "last_updated": "2026-08-17"
+}
