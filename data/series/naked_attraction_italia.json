@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_naked_attraction_italia",
+  "title": "Naked Attraction Italia",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110464212",
+    "imdb": "tt21360366",
+    "tmdb": 118421
+  },
+  "last_updated": "2026-08-17"
+}

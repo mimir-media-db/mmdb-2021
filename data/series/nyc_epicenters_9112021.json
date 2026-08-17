@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nyc_epicenters_9112021",
+  "title": "NYC Epicenters 9/11→2021½",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108485942",
+    "imdb": "tt14324128",
+    "tmdb": 131139
+  },
+  "last_updated": "2026-08-17"
+}

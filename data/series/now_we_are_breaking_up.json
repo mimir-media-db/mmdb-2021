@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_now_we_are_breaking_up",
+  "title": "Now, We Are Breaking Up",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106375214",
+    "imdb": "tt14408016",
+    "tmdb": 129887
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

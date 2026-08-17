@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_new_heights",
+  "title": "New Heights",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111782652",
+    "imdb": "tt15393644",
+    "tmdb": 135022
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

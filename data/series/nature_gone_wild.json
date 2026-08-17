@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nature_gone_wild",
+  "title": "Nature Gone Wild",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104872627",
+    "imdb": "tt13654726",
+    "tmdb": 116136
+  },
+  "last_updated": "2026-08-17"
+}

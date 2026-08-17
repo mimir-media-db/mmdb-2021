@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nine_perfect_strangers",
+  "title": "Nine Perfect Strangers",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q98315446",
+    "imdb": "tt8760932",
+    "tmdb": 88989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

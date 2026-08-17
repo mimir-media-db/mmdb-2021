@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nastya_cheer_up",
+  "title": "Nastya, Cheer Up!",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q106695148",
+    "imdb": "tt13265366",
+    "tmdb": 110617
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nick_cannon",
+  "title": "Nick Cannon",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111184443",
+    "imdb": "tt11083488"
+  },
+  "last_updated": "2026-08-17"
+}
