@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_why_did_you_kill_me_2021",
+  "title": "Why Did You Kill Me?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106670257",
+    "imdb": "tt14318430",
+    "tmdb": 810731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 83
+}

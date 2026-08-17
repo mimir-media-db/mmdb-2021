@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_proposal_2021",
+  "title": "Wedding Proposal",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106644924",
+    "imdb": "tt14534402",
+    "tmdb": 800424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_were_all_fruit_salad_the_wiggles_greatest_hits_2021",
+  "title": "We're All Fruit Salad! The Wiggles' Greatest Hits",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110436898",
+    "imdb": "tt23134844",
+    "tmdb": 928229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

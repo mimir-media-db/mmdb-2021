@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_weird_double_life_2021",
+  "title": "Weird Double Life",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841589",
+    "tmdb": 938152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-27"
+}

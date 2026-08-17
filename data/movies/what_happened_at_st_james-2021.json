@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_what_happened_at_st_james_2021",
+  "title": "What Happened at St James",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113326148",
+    "imdb": "tt16163368"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

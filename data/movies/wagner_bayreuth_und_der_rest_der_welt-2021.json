@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wagner_bayreuth_und_der_rest_der_welt_2021",
+  "title": "Wagner, Bayreuth und der Rest der Welt",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108381557",
+    "imdb": "tt15355802",
+    "tmdb": 892277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-28",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_will_summer_bring_2021",
+  "title": "What Will Summer Bring",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107294707",
+    "imdb": "tt14134116",
+    "tmdb": 795914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

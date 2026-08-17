@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_nirvana_came_to_britain_2021",
+  "title": "When Nirvana Came to Britain",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108795498",
+    "imdb": "tt15454310",
+    "tmdb": 875620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-18"
+}

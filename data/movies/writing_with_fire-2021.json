@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_writing_with_fire_2021",
+  "title": "Writing with Fire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110281432",
+    "imdb": "tt13630174",
+    "tmdb": 776557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

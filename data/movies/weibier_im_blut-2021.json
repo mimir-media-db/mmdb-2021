@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weibier_im_blut_2021",
+  "title": "Weißbier im Blut",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106942529",
+    "imdb": "tt14104436",
+    "tmdb": 822772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-27",
+  "runtime_minutes": 96
+}

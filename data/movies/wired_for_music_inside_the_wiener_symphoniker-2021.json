@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wired_for_music_inside_the_wiener_symphoniker_2021",
+  "title": "Wired for Music - Inside the Wiener Symphoniker",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99343609",
+    "imdb": "tt13523262",
+    "tmdb": 743155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-08",
+  "runtime_minutes": 90
+}

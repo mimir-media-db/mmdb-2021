@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_made_a_beautiful_bouquet_2021",
+  "title": "We Made a Beautiful Bouquet",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85883356",
+    "imdb": "tt11219254",
+    "tmdb": 695932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-29"
+}

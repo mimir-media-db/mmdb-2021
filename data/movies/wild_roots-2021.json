@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_roots_2021",
+  "title": "Wild Roots",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106676961",
+    "imdb": "tt12719846",
+    "tmdb": 852470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15"
+}

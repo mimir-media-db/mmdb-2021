@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_gets_the_dog_2021",
+  "title": "Who Gets the Dog?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958314",
+    "imdb": "tt1949605",
+    "tmdb": 415766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walchensee_forever_2021",
+  "title": "Walchensee Forever",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84116433",
+    "imdb": "tt11496264",
+    "tmdb": 656299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-21",
+  "runtime_minutes": 110
+}

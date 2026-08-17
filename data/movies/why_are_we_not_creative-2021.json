@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_why_are_we_not_creative_2021",
+  "title": "Why Are We (Not) Creative?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107804679",
+    "imdb": "tt15000630",
+    "tmdb": 876000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-07",
+  "runtime_minutes": 86
+}

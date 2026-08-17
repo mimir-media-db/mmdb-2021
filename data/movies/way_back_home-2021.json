@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_way_back_home_2021",
+  "title": "Way Back Home",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109456193",
+    "imdb": "tt11627120",
+    "tmdb": 635124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-08"
+}

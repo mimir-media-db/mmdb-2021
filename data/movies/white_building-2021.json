@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_building_2021",
+  "title": "White Building",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108649382",
+    "imdb": "tt11813228",
+    "tmdb": 796157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

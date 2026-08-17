@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_woman_1984_2021",
+  "title": "Wonder Woman 1984",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33408623",
+    "imdb": "tt7126948",
+    "tmdb": 464052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-17",
+  "runtime_minutes": 151
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_rain_2021",
+  "title": "Waiting for Rain",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106612798",
+    "imdb": "tt14540764",
+    "tmdb": 656159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-28",
+  "runtime_minutes": 117
+}

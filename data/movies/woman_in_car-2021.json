@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_in_car_2021",
+  "title": "Woman in Car",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111169359",
+    "imdb": "tt10197632",
+    "tmdb": 811894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

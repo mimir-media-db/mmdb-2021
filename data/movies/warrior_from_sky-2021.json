@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_warrior_from_sky_2021",
+  "title": "The Warrior from Sky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136735505",
+    "imdb": "tt20772084",
+    "tmdb": 847735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-04"
+}

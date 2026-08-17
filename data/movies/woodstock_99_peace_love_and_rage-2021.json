@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woodstock_99_peace_love_and_rage_2021",
+  "title": "Woodstock 99: Peace, Love, and Rage",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107618695",
+    "imdb": "tt15004156",
+    "tmdb": 848562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-23"
+}

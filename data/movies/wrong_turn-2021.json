@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_turn_2021",
+  "title": "Wrong Turn",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67718320",
+    "imdb": "tt9110170",
+    "tmdb": 630586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-26",
+  "runtime_minutes": 109
+}

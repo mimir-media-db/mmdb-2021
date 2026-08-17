@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_happened_to_mr_cha_2021",
+  "title": "What Happened to Mr. Cha?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102315344",
+    "imdb": "tt13667212",
+    "tmdb": 629277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 106
+}

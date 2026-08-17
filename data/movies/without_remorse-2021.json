@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_without_remorse_2021",
+  "title": "Without Remorse",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65156762",
+    "imdb": "tt0499097",
+    "tmdb": 567189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-30",
+  "runtime_minutes": 109
+}

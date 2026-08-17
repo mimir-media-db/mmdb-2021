@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wars_2021",
+  "title": "Wars",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108370601",
+    "imdb": "tt14951014",
+    "tmdb": 845961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

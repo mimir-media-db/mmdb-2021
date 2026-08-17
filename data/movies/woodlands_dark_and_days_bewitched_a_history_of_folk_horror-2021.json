@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woodlands_dark_and_days_bewitched_a_history_of_folk_horror_2021",
+  "title": "Woodlands Dark and Days Bewitched: A History of Folk Horror",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106689204",
+    "imdb": "tt13938338",
+    "tmdb": 614637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-16",
+  "runtime_minutes": 194
+}

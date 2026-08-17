@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_jack_ethereal_pilgrim_2021",
+  "title": "Wicked Jack: Ethereal Pilgrim",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131448392",
+    "imdb": "tt11774716",
+    "tmdb": 1040101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_without_2021",
+  "title": "A World Without",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109119000",
+    "imdb": "tt15484488",
+    "tmdb": 877372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_without_everything_2021",
+  "title": "Without Everything",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105554610",
+    "imdb": "tt13971916",
+    "tmdb": 799894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-15"
+}

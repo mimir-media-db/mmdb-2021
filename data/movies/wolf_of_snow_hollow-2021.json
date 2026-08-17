@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_of_snow_hollow_2021",
+  "title": "The Wolf of Snow Hollow",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245207",
+    "imdb": "tt11140488",
+    "tmdb": 652004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 83
+}
