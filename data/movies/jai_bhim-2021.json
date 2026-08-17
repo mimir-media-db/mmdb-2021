@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_bhim_2021",
+  "title": "Jai Bhim",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108376991",
+    "imdb": "tt15097216",
+    "tmdb": 855400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-02",
+  "runtime_minutes": 164
+}

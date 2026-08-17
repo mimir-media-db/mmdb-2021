@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jim_carrey_america_unmasked_2021",
+  "title": "Jim Carrey, America Unmasked",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136308211",
+    "imdb": "tt15427912",
+    "tmdb": 869944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 52
+}

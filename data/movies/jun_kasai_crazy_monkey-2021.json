@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jun_kasai_crazy_monkey_2021",
+  "title": "Jun Kasai Crazy Monkey",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109296645",
+    "imdb": "tt15367184",
+    "tmdb": 825524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 107
+}

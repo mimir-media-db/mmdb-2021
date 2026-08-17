@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janggae_the_foreigner_2021",
+  "title": "Jang-Gae: The Foreigner",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131442277",
+    "imdb": "tt11442852",
+    "tmdb": 747986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24",
+  "runtime_minutes": 107
+}

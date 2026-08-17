@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_june_kopi_2021",
+  "title": "June & Kopi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105091126",
+    "imdb": "tt13728764",
+    "tmdb": 780632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-28",
+  "runtime_minutes": 90
+}

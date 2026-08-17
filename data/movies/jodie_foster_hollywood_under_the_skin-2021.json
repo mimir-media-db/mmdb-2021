@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jodie_foster_hollywood_under_the_skin_2021",
+  "title": "Jodie Foster: Hollywood Under the Skin",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107520760",
+    "imdb": "tt14811056",
+    "tmdb": 837550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-13",
+  "runtime_minutes": 53
+}

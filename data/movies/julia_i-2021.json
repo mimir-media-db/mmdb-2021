@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_julia_i_2021",
+  "title": "Julia & I",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108441041",
+    "imdb": "tt14552724",
+    "tmdb": 816429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-10"
+}

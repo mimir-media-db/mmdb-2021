@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jie_da_huan_xi_2021",
+  "title": "Jie da huan xi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125354374",
+    "imdb": "tt13886682",
+    "tmdb": 778443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}
