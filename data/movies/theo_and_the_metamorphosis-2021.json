@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theo_and_the_metamorphosis_2021",
+  "title": "Theo and the Metamorphosis",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111170791",
+    "imdb": "tt14043896",
+    "tmdb": 795779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

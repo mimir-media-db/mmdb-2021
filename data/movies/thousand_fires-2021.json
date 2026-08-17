@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thousand_fires_2021",
+  "title": "A Thousand Fires",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112340550",
+    "imdb": "tt14868480",
+    "tmdb": 846890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

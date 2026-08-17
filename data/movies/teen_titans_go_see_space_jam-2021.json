@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_titans_go_see_space_jam_2021",
+  "title": "Teen Titans Go! See Space Jam",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107311093",
+    "imdb": "tt14851194",
+    "tmdb": 834404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 83
+}

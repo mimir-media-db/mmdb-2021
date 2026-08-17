@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_things_2021",
+  "title": "True Things",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107739861",
+    "imdb": "tt10310074",
+    "tmdb": 682533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

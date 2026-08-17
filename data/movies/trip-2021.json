@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_2021",
+  "title": "The Trip",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107687566",
+    "imdb": "tt13109952",
+    "tmdb": 760747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_2021",
+  "title": "Taste",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105675163",
+    "imdb": "tt6551842",
+    "tmdb": 795757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-01"
+}

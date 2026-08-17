@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_a_toy_horse_2021",
+  "title": "Tales of a Toy Horse",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575589",
+    "imdb": "tt14043522",
+    "tmdb": 791396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12",
+  "runtime_minutes": 76
+}

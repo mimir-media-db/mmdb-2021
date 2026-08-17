@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_the_sleeping_giant_2021",
+  "title": "Tale of the Sleeping Giant",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98726001",
+    "imdb": "tt11460832",
+    "tmdb": 659707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03"
+}

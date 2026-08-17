@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_the_high_jumper_2021",
+  "title": "Thomas the High Jumper",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107077576",
+    "imdb": "tt14709478",
+    "tmdb": 818941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 92
+}

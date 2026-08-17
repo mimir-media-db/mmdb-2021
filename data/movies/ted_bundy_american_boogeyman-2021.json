@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ted_bundy_american_boogeyman_2021",
+  "title": "Ted Bundy: American Boogeyman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108372702",
+    "imdb": "tt14538850",
+    "tmdb": 835112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-16"
+}

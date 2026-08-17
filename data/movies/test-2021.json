@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_test_2021",
+  "title": "The Test",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110368881",
+    "imdb": "tt14236348",
+    "tmdb": 880728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-29",
+  "runtime_minutes": 79
+}

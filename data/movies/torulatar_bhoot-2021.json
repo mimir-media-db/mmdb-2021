@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_torulatar_bhoot_2021",
+  "title": "Torulatar Bhoot",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109875419",
+    "imdb": "tt15405082",
+    "tmdb": 940290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24"
+}

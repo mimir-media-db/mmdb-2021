@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_games_called_murder_2021",
+  "title": "This Game's Called Murder",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122976526",
+    "imdb": "tt11311754",
+    "tmdb": 812666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03",
+  "runtime_minutes": 106
+}

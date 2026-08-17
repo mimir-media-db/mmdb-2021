@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_2021",
+  "title": "Time",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106673968",
+    "imdb": "tt14713814",
+    "tmdb": 806443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15"
+}

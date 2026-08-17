@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taoist_priest_2021",
+  "title": "Taoist Priest",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333308",
+    "imdb": "tt14715744",
+    "tmdb": 799263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-01"
+}

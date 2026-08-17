@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tony_parker_the_final_shot_2021",
+  "title": "Tony Parker: The Final Shot",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104857699",
+    "imdb": "tt13696668",
+    "tmdb": 782973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-06",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarantella_2021",
+  "title": "Tarantella",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29569602",
+    "imdb": "tt6195444",
+    "tmdb": 486194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

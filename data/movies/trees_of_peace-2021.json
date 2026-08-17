@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trees_of_peace_2021",
+  "title": "Trees of Peace",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117275278",
+    "imdb": "tt11316680",
+    "tmdb": 763073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

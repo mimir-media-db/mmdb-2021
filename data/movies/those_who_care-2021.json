@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_care_2021",
+  "title": "Those Who Care",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108340337",
+    "imdb": "tt15170082",
+    "tmdb": 818608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-13",
+  "runtime_minutes": 85
+}
