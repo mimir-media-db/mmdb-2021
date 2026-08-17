@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_before_pintus",
+  "title": "Before Pintus",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140319741",
+    "imdb": "tt14497980",
+    "tmdb": 123798
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

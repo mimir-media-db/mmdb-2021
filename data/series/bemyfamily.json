@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bemyfamily",
+  "title": "#bemyfamily",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107752635",
+    "imdb": "tt16493912",
+    "tmdb": 126991
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bislett_bnb",
+  "title": "Bislett bnb",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109659659",
+    "imdb": "tt15381724",
+    "tmdb": 131910
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

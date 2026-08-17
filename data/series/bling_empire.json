@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bling_empire",
+  "title": "Bling Empire",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104857110",
+    "imdb": "tt13660962",
+    "tmdb": 116250
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

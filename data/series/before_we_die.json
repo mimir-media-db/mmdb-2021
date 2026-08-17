@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_before_we_die",
+  "title": "Before We Die",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121436484",
+    "imdb": "tt13125694",
+    "tmdb": 126441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

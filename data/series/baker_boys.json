@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_baker_boys",
+  "title": "Baker Boys",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109567682",
+    "imdb": "tt13662218",
+    "tmdb": 122013
+  },
+  "last_updated": "2026-08-17"
+}

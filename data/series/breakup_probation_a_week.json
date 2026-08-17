@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breakup_probation_a_week",
+  "title": "Breakup Probation, A Week",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116251584",
+    "imdb": "tt14043128",
+    "tmdb": 114124
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_buku_harian_seorang_istri",
+  "title": "Buku Harian Seorang Istri",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104775746"
+  },
+  "last_updated": "2026-08-17"
+}

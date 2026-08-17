@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bortfrt",
+  "title": "Bortført",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106538713",
+    "imdb": "tt13968792",
+    "tmdb": 121241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

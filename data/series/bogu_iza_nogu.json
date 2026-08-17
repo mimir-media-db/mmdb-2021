@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bogu_iza_nogu",
+  "title": "Bogu iza nogu",
+  "start_year": 2021,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q111076707",
+    "imdb": "tt15381618",
+    "tmdb": 138907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 41
+}

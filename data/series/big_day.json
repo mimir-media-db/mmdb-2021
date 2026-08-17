@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_day",
+  "title": "The Big Day",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105582467",
+    "imdb": "tt13887518",
+    "tmdb": 118754
+  },
+  "last_updated": "2026-08-17"
+}

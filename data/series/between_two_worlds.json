@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_between_two_worlds",
+  "title": "Between Two Worlds",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109784445",
+    "imdb": "tt13168588",
+    "tmdb": 152446
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

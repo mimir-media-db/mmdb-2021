@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bridge_and_tunnel",
+  "title": "Bridge and Tunnel",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106639521",
+    "imdb": "tt13409770",
+    "tmdb": 111750
+  },
+  "last_updated": "2026-08-17"
+}

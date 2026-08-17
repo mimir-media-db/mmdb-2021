@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_borderless",
+  "title": "Borderless",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111370618",
+    "imdb": "tt42369080",
+    "tmdb": 120291
+  },
+  "last_updated": "2026-08-17"
+}

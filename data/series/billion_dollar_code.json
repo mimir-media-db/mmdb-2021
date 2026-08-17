@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_billion_dollar_code",
+  "title": "The Billion Dollar Code",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108824520",
+    "imdb": "tt15392100",
+    "tmdb": 133357
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_benaam",
+  "title": "Benaam",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110643881",
+    "imdb": "tt16961230"
+  },
+  "last_updated": "2026-08-17"
+}

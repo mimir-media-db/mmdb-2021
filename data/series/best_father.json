@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_best_father",
+  "title": "The best father",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118352023",
+    "tmdb": 121639
+  },
+  "last_updated": "2026-08-17"
+}

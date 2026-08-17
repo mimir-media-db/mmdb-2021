@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blame_it_on_rousseau",
+  "title": "Blame It on Rousseau",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109042239",
+    "imdb": "tt13830544",
+    "tmdb": 118692
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bloodlands",
+  "title": "Bloodlands",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105626187",
+    "imdb": "tt11285548",
+    "tmdb": 119191
+  },
+  "last_updated": "2026-08-17"
+}
