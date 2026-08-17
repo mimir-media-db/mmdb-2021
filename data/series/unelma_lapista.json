@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unelma_lapista",
+  "title": "Unelma Lapista",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105546726",
+    "imdb": "tt14045760",
+    "tmdb": 279905
+  },
+  "last_updated": "2026-08-17"
+}

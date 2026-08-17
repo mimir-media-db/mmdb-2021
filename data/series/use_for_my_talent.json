@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_use_for_my_talent",
+  "title": "Use For My Talent",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97188230",
+    "imdb": "tt14747972",
+    "tmdb": 125255
+  },
+  "last_updated": "2026-08-17"
+}

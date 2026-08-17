@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_unusual_suspects",
+  "title": "Unusual Suspects",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q99763720",
+    "imdb": "tt9270752",
+    "tmdb": 125309
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
