@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stolthet_og_forfall",
+  "title": "Stolthet og forfall",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105741005",
+    "imdb": "tt13729876",
+    "tmdb": 115533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

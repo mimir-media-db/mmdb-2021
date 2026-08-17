@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_surviving_death",
+  "title": "Surviving Death",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104762281",
+    "imdb": "tt13649692",
+    "tmdb": 115391
+  },
+  "last_updated": "2026-08-17"
+}

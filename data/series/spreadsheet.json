@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spreadsheet",
+  "title": "Spreadsheet",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107645973",
+    "imdb": "tt14949642",
+    "tmdb": 136794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

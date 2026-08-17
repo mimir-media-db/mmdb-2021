@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_skitsamma",
+  "title": "Skitsamma",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107094062",
+    "imdb": "tt14509386",
+    "tmdb": 128526
+  },
+  "last_updated": "2026-08-17"
+}

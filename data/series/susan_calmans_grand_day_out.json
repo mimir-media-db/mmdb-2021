@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_susan_calmans_grand_day_out",
+  "title": "Susan Calman's Grand Day Out",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106582874",
+    "imdb": "tt13809880",
+    "tmdb": 116260
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 13
+}

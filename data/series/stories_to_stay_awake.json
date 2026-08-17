@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stories_to_stay_awake",
+  "title": "Stories to Stay Awake",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109059171",
+    "imdb": "tt14881288",
+    "tmdb": 128030
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

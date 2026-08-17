@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_september_mornings",
+  "title": "September Mornings",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107352439",
+    "imdb": "tt14532744",
+    "tmdb": 118102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_school_of_chocolate",
+  "title": "School of Chocolate",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110223832",
+    "imdb": "tt15172154",
+    "tmdb": 137584
+  },
+  "last_updated": "2026-08-17"
+}

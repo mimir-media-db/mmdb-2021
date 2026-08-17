@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sky_rojo",
+  "title": "Sky Rojo",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q101208208",
+    "imdb": "tt8690776",
+    "tmdb": 117023
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

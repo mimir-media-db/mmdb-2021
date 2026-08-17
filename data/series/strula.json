@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strula",
+  "title": "Strula",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117476760",
+    "imdb": "tt22688206",
+    "tmdb": 219802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 60
+}

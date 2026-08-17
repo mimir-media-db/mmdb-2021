@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_small_town_news_kpvm_pahrump",
+  "title": "Small Town News: KPVM Pahrump",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107980623",
+    "imdb": "tt14903810",
+    "tmdb": 128966
+  },
+  "last_updated": "2026-08-17"
+}

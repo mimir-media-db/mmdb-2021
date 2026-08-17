@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_squid_game",
+  "title": "Squid Game",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q106582931",
+    "imdb": "tt10919420",
+    "tmdb": 93405
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

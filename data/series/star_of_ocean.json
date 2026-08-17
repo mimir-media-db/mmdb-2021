@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_star_of_ocean",
+  "title": "Star of Ocean",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117810762",
+    "imdb": "tt15778956",
+    "tmdb": 137599
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shadow_and_bone",
+  "title": "Shadow and Bone",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q85800564",
+    "imdb": "tt2403776",
+    "tmdb": 85720
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seni_cok_bekledim",
+  "title": "Seni Çok Bekledim",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105205181",
+    "imdb": "tt12694080",
+    "tmdb": 117578
+  },
+  "last_updated": "2026-08-17"
+}

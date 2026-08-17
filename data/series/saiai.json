@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_saiai",
+  "title": "Saiai",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108103333",
+    "imdb": "tt15835776",
+    "tmdb": 135730
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

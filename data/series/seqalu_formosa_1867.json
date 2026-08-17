@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seqalu_formosa_1867",
+  "title": "Seqalu: Formosa 1867",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q85875488",
+    "imdb": "tt15207176",
+    "tmdb": 119154
+  },
+  "last_updated": "2026-08-17"
+}

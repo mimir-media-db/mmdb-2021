@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sell_your_haunted_house",
+  "title": "Sell Your Haunted House",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105943258",
+    "imdb": "tt14223310",
+    "tmdb": 121695
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sasmos",
+  "title": "Sasmos",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q108721807",
+    "imdb": "tt15162022",
+    "tmdb": 132982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 496
+}
