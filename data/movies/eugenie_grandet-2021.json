@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eugenie_grandet_2021",
+  "title": "Eugénie Grandet",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84608187",
+    "imdb": "tt10196108",
+    "tmdb": 749386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eatnameamet_our_silent_struggle_2021",
+  "title": "Eatnameamet - Our silent struggle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107452739",
+    "imdb": "tt14129638",
+    "tmdb": 784404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-19",
+  "runtime_minutes": 74
+}

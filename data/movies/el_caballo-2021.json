@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_caballo_2021",
+  "title": "El Caballo",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113015339",
+    "imdb": "tt14333348",
+    "tmdb": 891586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 76
+}

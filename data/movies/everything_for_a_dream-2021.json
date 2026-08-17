@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_for_a_dream_2021",
+  "title": "Everything for a Dream",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575619",
+    "imdb": "tt13075648",
+    "tmdb": 791057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 82
+}

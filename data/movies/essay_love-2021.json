@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_essay_love_2021",
+  "title": "Essay Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109464245",
+    "tmdb": 848779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-01"
+}

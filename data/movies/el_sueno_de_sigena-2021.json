@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sueno_de_sigena_2021",
+  "title": "El sueño de Sigena",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135778596",
+    "imdb": "tt15826376"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 106
+}

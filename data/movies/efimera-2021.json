@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_efimera_2021",
+  "title": "Efímera",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126878008",
+    "imdb": "tt15185560",
+    "tmdb": 863063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 87
+}

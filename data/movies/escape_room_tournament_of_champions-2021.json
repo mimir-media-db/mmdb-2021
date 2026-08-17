@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_room_tournament_of_champions_2021",
+  "title": "Escape Room: Tournament of Champions",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64027971",
+    "imdb": "tt9844522",
+    "tmdb": 585216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 88
+}

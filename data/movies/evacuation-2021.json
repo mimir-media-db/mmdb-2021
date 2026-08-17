@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evacuation_2021",
+  "title": "Evacuation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573790",
+    "imdb": "tt15439584",
+    "tmdb": 875002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11"
+}

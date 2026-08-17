@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_breath_you_take_2021",
+  "title": "Every Breath You Take",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73549152",
+    "imdb": "tt2231874",
+    "tmdb": 803923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-02",
+  "runtime_minutes": 102
+}

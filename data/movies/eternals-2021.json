@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternals_2021",
+  "title": "Eternals",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23894629",
+    "imdb": "tt9032400",
+    "tmdb": 524434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-03",
+  "runtime_minutes": 156
+}

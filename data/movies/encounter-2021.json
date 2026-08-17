@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encounter_2021",
+  "title": "Encounter",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104876552",
+    "imdb": "tt12800524",
+    "tmdb": 728526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03",
+  "runtime_minutes": 108
+}
