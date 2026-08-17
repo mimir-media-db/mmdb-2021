@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_in_colour_with_david_attenborough",
+  "title": "Life in Colour with David Attenborough",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106437023",
+    "imdb": "tt11053426",
+    "tmdb": 119815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_largados_e_pelados_brasil",
+  "title": "Largados e Pelados Brasil",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q110414333",
+    "imdb": "tt16174892",
+    "tmdb": 137940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

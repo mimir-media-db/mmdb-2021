@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_espabilados",
+  "title": "Los espabilados",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105071231",
+    "imdb": "tt10990110",
+    "tmdb": 112543
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

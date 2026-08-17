@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_otros_libertadores",
+  "title": "Los otros libertadores",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106827971",
+    "imdb": "tt16548124",
+    "tmdb": 207109
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

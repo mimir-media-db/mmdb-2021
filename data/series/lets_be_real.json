@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_be_real",
+  "title": "Let's Be Real",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106824399",
+    "imdb": "tt13102370",
+    "tmdb": 123570
+  },
+  "last_updated": "2026-08-17"
+}

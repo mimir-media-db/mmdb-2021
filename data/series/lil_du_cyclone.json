@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lil_du_cyclone",
+  "title": "L'Œil du cyclone",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137944580",
+    "imdb": "tt17736604",
+    "tmdb": 112829
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 64
+}

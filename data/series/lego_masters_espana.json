@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lego_masters_espana",
+  "title": "LEGO Masters España",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q110097835",
+    "imdb": "tt15467116",
+    "tmdb": 153287
+  },
+  "last_updated": "2026-08-17"
+}

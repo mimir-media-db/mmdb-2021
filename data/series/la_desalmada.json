@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_desalmada",
+  "title": "La desalmada",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105966650",
+    "imdb": "tt14414246",
+    "tmdb": 128794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 85
+}

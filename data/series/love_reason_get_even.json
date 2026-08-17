@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_reason_get_even",
+  "title": "Love, Reason, Get Even",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107693427",
+    "imdb": "tt14814006",
+    "tmdb": 127588
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 42
+}

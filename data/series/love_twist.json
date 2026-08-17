@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_twist",
+  "title": "Love Twist",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109286670",
+    "imdb": "tt16432936",
+    "tmdb": 135753
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 103
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lou_dobbs_tonight",
+  "title": "Lou Dobbs Tonight",
+  "start_year": 2021,
+  "end_year": 1979,
+  "external_ids": {
+    "wikidata": "Q6685481",
+    "imdb": "tt0382449",
+    "tmdb": 2820
+  },
+  "last_updated": "2026-08-17"
+}

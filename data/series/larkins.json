@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_larkins",
+  "title": "The Larkins",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108899283",
+    "imdb": "tt13678304",
+    "tmdb": 136137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_true",
+  "title": "Love is True",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112334830",
+    "imdb": "tt12458186",
+    "tmdb": 129420
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luce_dei_tuoi_occhi",
+  "title": "Luce dei tuoi occhi",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108352558",
+    "imdb": "tt15004918",
+    "tmdb": 134785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

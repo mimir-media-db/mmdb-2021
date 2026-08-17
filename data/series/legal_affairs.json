@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legal_affairs",
+  "title": "Legal Affairs",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q110189527",
+    "imdb": "tt13443332",
+    "tmdb": 153861
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lifes_a_glitch",
+  "title": "Life’s a Glitch",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108654431",
+    "imdb": "tt14839616",
+    "tmdb": 134366
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

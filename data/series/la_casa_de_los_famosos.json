@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_casa_de_los_famosos",
+  "title": "La casa de los famosos",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107736764",
+    "imdb": "tt16022138",
+    "tmdb": 137228
+  },
+  "last_updated": "2026-08-17"
+}

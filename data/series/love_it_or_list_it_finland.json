@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_it_or_list_it_finland",
+  "title": "Love It or List It Finland",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108696719",
+    "imdb": "tt15321432",
+    "tmdb": 209892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}
