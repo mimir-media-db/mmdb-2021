@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_marziano_di_nome_ennio_2021",
+  "title": "Un marziano di nome Ennio",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110462394",
+    "imdb": "tt15004948",
+    "tmdb": 945776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-01",
+  "runtime_minutes": 80
+}

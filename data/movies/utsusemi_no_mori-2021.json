@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_utsusemi_no_mori_2021",
+  "title": "Utsusemi no mori",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109360822",
+    "imdb": "tt3153776",
+    "tmdb": 1424467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05"
+}

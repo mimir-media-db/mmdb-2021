@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_claus_2021",
+  "title": "Uncle Claus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122844497",
+    "imdb": "tt16294850",
+    "tmdb": 903581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26",
+  "runtime_minutes": 119
+}

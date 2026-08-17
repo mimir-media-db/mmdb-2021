@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_open_sky_2021",
+  "title": "Under the Open Sky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106969761",
+    "imdb": "tt12801374",
+    "tmdb": 728882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-11",
+  "runtime_minutes": 126
+}

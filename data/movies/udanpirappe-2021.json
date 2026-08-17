@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_udanpirappe_2021",
+  "title": "Udanpirappe",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108864745",
+    "imdb": "tt15175418",
+    "tmdb": 858333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14"
+}

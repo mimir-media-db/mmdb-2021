@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_tumba_para_tres_2021",
+  "title": "Una tumba para tres",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106142593",
+    "imdb": "tt13933600",
+    "tmdb": 788462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-28",
+  "runtime_minutes": 77
+}

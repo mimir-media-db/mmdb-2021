@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_loco_matrimonio_en_cuarentena_2021",
+  "title": "Un loco matrimonio en cuarentena",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109255005",
+    "imdb": "tt18548396"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

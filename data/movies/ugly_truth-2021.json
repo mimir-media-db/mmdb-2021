@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ugly_truth_2021",
+  "title": "The Ugly Truth",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139770096",
+    "imdb": "tt11681234",
+    "tmdb": 883784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 101
+}
