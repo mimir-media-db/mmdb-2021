@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lansky_2021",
+  "title": "Lansky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85853743",
+    "imdb": "tt5078852",
+    "tmdb": 693827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-25"
+}

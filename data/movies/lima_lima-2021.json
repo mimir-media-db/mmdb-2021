@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lima_lima_2021",
+  "title": "Lima, Lima",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123707550",
+    "imdb": "tt16846946",
+    "tmdb": 766239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luigi_proietti_detto_gigi_2021",
+  "title": "Luigi Proietti detto Gigi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116859858",
+    "imdb": "tt17009248",
+    "tmdb": 889629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

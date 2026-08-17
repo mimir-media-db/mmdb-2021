@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loin_de_vous_jai_grandi_2021",
+  "title": "Loin de vous j'ai grandi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106519063",
+    "imdb": "tt12545598",
+    "tmdb": 718093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-17",
+  "runtime_minutes": 102
+}

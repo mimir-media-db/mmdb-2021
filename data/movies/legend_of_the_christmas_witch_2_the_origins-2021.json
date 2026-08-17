@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_christmas_witch_2_the_origins_2021",
+  "title": "The Legend of the Christmas Witch 2: The Origins",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110324091",
+    "imdb": "tt13920702",
+    "tmdb": 811050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-30",
+  "runtime_minutes": 116
+}

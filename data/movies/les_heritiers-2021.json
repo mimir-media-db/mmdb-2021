@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_heritiers_2021",
+  "title": "Les héritiers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108913963",
+    "imdb": "tt15417412",
+    "tmdb": 865611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 95
+}

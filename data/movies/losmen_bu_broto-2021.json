@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_losmen_bu_broto_2021",
+  "title": "Losmen Bu Broto",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107483545",
+    "imdb": "tt13353184",
+    "tmdb": 757902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18"
+}

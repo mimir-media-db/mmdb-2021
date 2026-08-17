@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_mont_fuji_vu_dun_train_en_marche_2021",
+  "title": "Le mont Fuji vu d'un train en marche",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109042880",
+    "imdb": "tt14498690",
+    "tmdb": 831750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 81
+}

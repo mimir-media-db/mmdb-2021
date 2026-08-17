@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loving_amanda_2021",
+  "title": "Loving Amanda",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113234094",
+    "imdb": "tt19716990",
+    "tmdb": 1007357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

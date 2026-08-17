@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laal_moroger_jhuti_2021",
+  "title": "Laal Moroger Jhuti",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110203898",
+    "imdb": "tt16480216",
+    "tmdb": 914897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-10"
+}

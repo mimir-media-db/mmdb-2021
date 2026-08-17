@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ou_le_temps_sest_arrete_2021",
+  "title": "Là, où le temps s'est arrêté",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108621688",
+    "imdb": "tt15497988",
+    "tmdb": 861583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-22"
+}

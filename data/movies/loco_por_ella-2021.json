@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loco_por_ella_2021",
+  "title": "Loco por ella",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104145479",
+    "imdb": "tt11698630",
+    "tmdb": 778730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

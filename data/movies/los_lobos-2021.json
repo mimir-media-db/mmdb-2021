@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_lobos_2021",
+  "title": "Los Lobos",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87772231",
+    "imdb": "tt9057808",
+    "tmdb": 586351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 95
+}

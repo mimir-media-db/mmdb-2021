@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_trapos_sucios_se_lavan_en_casa_2021",
+  "title": "Los trapos sucios se lavan en casa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125446600",
+    "imdb": "tt11568324",
+    "tmdb": 638983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 82
+}

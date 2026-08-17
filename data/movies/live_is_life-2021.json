@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_is_life_2021",
+  "title": "Live Is life",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107145806",
+    "imdb": "tt12923028",
+    "tmdb": 800855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-13",
+  "runtime_minutes": 109
+}

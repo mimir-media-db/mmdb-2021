@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_with_imperfection_2021",
+  "title": "Living with Imperfection",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109449613",
+    "imdb": "tt14550704",
+    "tmdb": 805940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

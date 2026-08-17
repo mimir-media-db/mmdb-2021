@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_paradise_2021",
+  "title": "Lost in Paradise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898263",
+    "imdb": "tt10595006",
+    "tmdb": 852042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 75
+}

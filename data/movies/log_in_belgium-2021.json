@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_log_in_belgium_2021",
+  "title": "Log in Belgium",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109849610",
+    "imdb": "tt15298728",
+    "tmdb": 863313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-01",
+  "runtime_minutes": 65
+}

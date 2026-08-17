@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_line_of_attack_2021",
+  "title": "The Line of Attack",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575577",
+    "imdb": "tt16124402",
+    "tmdb": 1540751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-25"
+}

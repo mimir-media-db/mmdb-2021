@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_estrella_roja_2021",
+  "title": "La estrella roja",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118323573",
+    "imdb": "tt14220864",
+    "tmdb": 619325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 75
+}

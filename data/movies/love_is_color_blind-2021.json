@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_color_blind_2021",
+  "title": "Love Is Color Blind",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110129528",
+    "imdb": "tt15979132",
+    "tmdb": 778278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-09"
+}

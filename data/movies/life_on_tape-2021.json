@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_on_tape_2021",
+  "title": "Life on Tape",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108799943",
+    "imdb": "tt12945990",
+    "tmdb": 829372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-05",
+  "runtime_minutes": 78
+}

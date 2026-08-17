@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_letreinte_2021",
+  "title": "L'Étreinte",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106653737",
+    "imdb": "tt10868508",
+    "tmdb": 660949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-19"
+}

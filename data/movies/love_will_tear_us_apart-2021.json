@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_will_tear_us_apart_2021",
+  "title": "Love Will Tear Us Apart",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110607986",
+    "imdb": "tt14546082",
+    "tmdb": 830938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

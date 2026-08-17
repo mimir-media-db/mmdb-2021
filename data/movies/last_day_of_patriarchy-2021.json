@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_day_of_patriarchy_2021",
+  "title": "The Last Day of Patriarchy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108296372",
+    "imdb": "tt15122182",
+    "tmdb": 855842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01",
+  "runtime_minutes": 16
+}

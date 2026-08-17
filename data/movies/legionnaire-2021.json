@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legionnaire_2021",
+  "title": "The Legionnaire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051285",
+    "imdb": "tt13767266",
+    "tmdb": 846800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 82
+}

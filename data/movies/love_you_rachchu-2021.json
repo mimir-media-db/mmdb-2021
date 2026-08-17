@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_rachchu_2021",
+  "title": "Love You Rachchu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111169707",
+    "imdb": "tt15478268",
+    "tmdb": 916958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31"
+}

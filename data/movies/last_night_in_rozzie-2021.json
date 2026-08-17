@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_night_in_rozzie_2021",
+  "title": "Last Night in Rozzie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109255586",
+    "imdb": "tt9363502",
+    "tmdb": 823346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-17"
+}

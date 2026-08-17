@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chica_nueva_2021",
+  "title": "La chica nueva",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119025486",
+    "imdb": "tt14443248",
+    "tmdb": 802567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 79
+}

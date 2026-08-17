@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mirada_incendiada_2021",
+  "title": "La Mirada Incendiada",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110971077",
+    "imdb": "tt13083220",
+    "tmdb": 804239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_bus_2021",
+  "title": "The Last Bus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108470673",
+    "imdb": "tt9410034",
+    "tmdb": 642546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-27",
+  "runtime_minutes": 86
+}

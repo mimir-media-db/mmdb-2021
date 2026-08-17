@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_paradiso_2021",
+  "title": "The Last Paradiso",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105321213",
+    "imdb": "tt11428926",
+    "tmdb": 746422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05",
+  "runtime_minutes": 107
+}

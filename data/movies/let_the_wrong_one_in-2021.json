@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_wrong_one_in_2021",
+  "title": "Let the Wrong One In",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108944913",
+    "imdb": "tt13188064",
+    "tmdb": 757916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

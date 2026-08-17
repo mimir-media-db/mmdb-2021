@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_luz_de_masao_nakagawa_2021",
+  "title": "La luz de Masao Nakagawa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140385363",
+    "imdb": "tt14850706",
+    "tmdb": 834170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lili_alone_2021",
+  "title": "Lili Alone",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134440354",
+    "imdb": "tt14812814",
+    "tmdb": 837749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_reyes_2021",
+  "title": "Los Reyes",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106624750",
+    "imdb": "tt8819180",
+    "tmdb": 560153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-08",
+  "runtime_minutes": 77
+}

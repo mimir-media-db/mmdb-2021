@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_journey_2021",
+  "title": "The Last Journey",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106888339",
+    "imdb": "tt6435934",
+    "tmdb": 754765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-19",
+  "runtime_minutes": 87
+}

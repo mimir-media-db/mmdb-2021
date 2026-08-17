@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_contemplation_du_mystere_2021",
+  "title": "La Contemplation du mystère",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110269385",
+    "imdb": "tt11690402",
+    "tmdb": 736657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 101
+}

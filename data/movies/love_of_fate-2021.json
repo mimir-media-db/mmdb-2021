@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_of_fate_2021",
+  "title": "Love of Fate",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109438730",
+    "imdb": "tt31851982",
+    "tmdb": 892534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19"
+}

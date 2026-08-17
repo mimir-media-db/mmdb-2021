@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_grande_guerra_del_salento_2021",
+  "title": "La Grande Guerra del Salento",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051412",
+    "imdb": "tt14844304",
+    "tmdb": 965715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lobster_soup_2021",
+  "title": "Lobster Soup",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108294392",
+    "imdb": "tt13626436",
+    "tmdb": 750321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-03",
+  "runtime_minutes": 95
+}
