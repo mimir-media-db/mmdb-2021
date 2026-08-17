@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_desert_rose",
+  "title": "Desert Rose",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106306943",
+    "imdb": "tt15274706",
+    "tmdb": 209755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 105
+}

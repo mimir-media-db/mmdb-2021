@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dolsing_fourmen",
+  "title": "Dolsing Fourmen",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107615147",
+    "tmdb": 129047
+  },
+  "last_updated": "2026-08-17"
+}

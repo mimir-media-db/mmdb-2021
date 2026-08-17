@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daughter_from_another_mother",
+  "title": "Daughter from Another Mother",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105069680",
+    "imdb": "tt11937732",
+    "tmdb": 115857
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_direktor_svemira",
+  "title": "Direktor svemira",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133896542",
+    "imdb": "tt18397116",
+    "tmdb": 153408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_delilah",
+  "title": "Delilah",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105658342",
+    "imdb": "tt12979412",
+    "tmdb": 120447
+  },
+  "last_updated": "2026-08-17"
+}

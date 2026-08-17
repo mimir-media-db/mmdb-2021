@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dreamworks_dragons_the_nine_realms",
+  "title": "DreamWorks Dragons: The Nine Realms",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110516852",
+    "imdb": "tt15758116",
+    "tmdb": 136322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 32
+}

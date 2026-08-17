@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dan_browns_the_lost_symbol",
+  "title": "Dan Brown’s The Lost Symbol",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q97577197",
+    "imdb": "tt10478054",
+    "tmdb": 120452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

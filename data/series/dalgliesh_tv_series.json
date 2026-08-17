@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dalgliesh_tv_series",
+  "title": "Dalgliesh (TV series)",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108470894",
+    "imdb": "tt13430420",
+    "tmdb": 137127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

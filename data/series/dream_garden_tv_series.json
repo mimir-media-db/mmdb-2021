@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_garden_tv_series",
+  "title": "Dream Garden (TV series)",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112913154",
+    "imdb": "tt14496552",
+    "tmdb": 152674
+  },
+  "last_updated": "2026-08-17"
+}

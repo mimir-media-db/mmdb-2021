@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dough",
+  "title": "Dough",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109350017",
+    "imdb": "tt8852066",
+    "tmdb": 131719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

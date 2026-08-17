@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_drugdealer",
+  "title": "Drugdealer",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108309782",
+    "imdb": "tt14710628",
+    "tmdb": 133290
+  },
+  "last_updated": "2026-08-17"
+}

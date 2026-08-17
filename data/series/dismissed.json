@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dismissed",
+  "title": "Dismissed",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q106196390",
+    "imdb": "tt14426644",
+    "tmdb": 126745
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

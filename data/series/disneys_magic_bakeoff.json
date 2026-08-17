@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_disneys_magic_bakeoff",
+  "title": "Disney's Magic Bake-Off",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q116947974",
+    "imdb": "tt14539670",
+    "tmdb": 128127
+  },
+  "last_updated": "2026-08-17"
+}

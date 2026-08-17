@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_decoupled",
+  "title": "Decoupled",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110323803",
+    "imdb": "tt14167338",
+    "tmdb": 138328
+  },
+  "last_updated": "2026-08-17"
+}
