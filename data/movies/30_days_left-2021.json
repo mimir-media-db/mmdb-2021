@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_days_left_2021",
+  "title": "30 Days Left",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97152456",
+    "imdb": "tt11206302",
+    "tmdb": 613377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09",
+  "runtime_minutes": 90
+}
