@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_erityiset",
+  "title": "Erityiset",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119155592",
+    "imdb": "tt15311522",
+    "tmdb": 281995
+  },
+  "last_updated": "2026-08-17"
+}

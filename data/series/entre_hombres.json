@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_entre_hombres",
+  "title": "Entre hombres",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105096728",
+    "imdb": "tt11811868",
+    "tmdb": 100354
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

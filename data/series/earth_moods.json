@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_earth_moods",
+  "title": "Earth Moods",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106436975",
+    "imdb": "tt14260676",
+    "tmdb": 120907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

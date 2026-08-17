@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ewtn_news_in_depth",
+  "title": "EWTN News In Depth",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127867335",
+    "imdb": "tt14257354"
+  },
+  "last_updated": "2026-08-17"
+}
