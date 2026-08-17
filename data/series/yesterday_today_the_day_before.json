@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yesterday_today_the_day_before",
+  "title": "Yesterday, Today & The Day Before",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106920744",
+    "imdb": "tt14643516",
+    "tmdb": 127975
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yentl_en_de_boer_de_serie",
+  "title": "Yentl en de Boer de Serie",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108403154",
+    "imdb": "tt15151652",
+    "tmdb": 131284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

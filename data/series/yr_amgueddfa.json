@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yr_amgueddfa",
+  "title": "Yr Amgueddfa",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107017683",
+    "imdb": "tt14551712",
+    "tmdb": 128011
+  },
+  "last_updated": "2026-08-17"
+}

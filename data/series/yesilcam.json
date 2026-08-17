@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_yesilcam",
+  "title": "Yeşilçam",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106772756",
+    "imdb": "tt13671294"
+  },
+  "last_updated": "2026-08-17"
+}

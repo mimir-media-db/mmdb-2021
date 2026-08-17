@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_rock",
+  "title": "Young Rock",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105459622",
+    "imdb": "tt11639952",
+    "tmdb": 97754
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 37
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_lady_and_gentleman",
+  "title": "Young Lady and Gentleman",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107029730",
+    "imdb": "tt15514606",
+    "tmdb": 129473
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}
