@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coup_2021",
+  "title": "Coup",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99776574",
+    "imdb": "tt13577178",
+    "tmdb": 676477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 81
+}

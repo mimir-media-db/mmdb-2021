@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_camellia_garden_2021",
+  "title": "Camellia Garden",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361806",
+    "imdb": "tt14611846",
+    "tmdb": 746950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_centervagt_2021",
+  "title": "Centervagt",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106595937",
+    "imdb": "tt13914260",
+    "tmdb": 826989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-10",
+  "runtime_minutes": 85
+}

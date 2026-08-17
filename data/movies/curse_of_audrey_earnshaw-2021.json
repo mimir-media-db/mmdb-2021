@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_audrey_earnshaw_2021",
+  "title": "The Curse of Audrey Earnshaw",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107936435",
+    "imdb": "tt7157146",
+    "tmdb": 688343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-17"
+}

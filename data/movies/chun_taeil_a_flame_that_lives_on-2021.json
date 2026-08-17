@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chun_taeil_a_flame_that_lives_on_2021",
+  "title": "Chun Tae-il: A Flame That Lives On",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110117937",
+    "imdb": "tt16159984",
+    "tmdb": 658210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 99
+}

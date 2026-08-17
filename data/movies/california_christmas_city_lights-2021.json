@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_california_christmas_city_lights_2021",
+  "title": "A California Christmas: City Lights",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110174142",
+    "imdb": "tt13701962",
+    "tmdb": 882096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-16",
+  "runtime_minutes": 106
+}

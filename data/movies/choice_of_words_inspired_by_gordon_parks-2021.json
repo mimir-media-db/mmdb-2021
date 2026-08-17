@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_choice_of_words_inspired_by_gordon_parks_2021",
+  "title": "A Choice of Words: Inspired by Gordon Parks",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107210113",
+    "imdb": "tt14495394",
+    "tmdb": 822100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chomu_ya_zhyvyy_2021",
+  "title": "Chomu ya zhyvyy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573768",
+    "imdb": "tt15193236",
+    "tmdb": 858022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-04",
+  "runtime_minutes": 120
+}

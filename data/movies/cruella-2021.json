@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cruella_2021",
+  "title": "Cruella",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24284363",
+    "imdb": "tt3228774",
+    "tmdb": 337404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-27",
+  "runtime_minutes": 134
+}

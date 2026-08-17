@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chorani_2021",
+  "title": "Chorani",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109855673",
+    "imdb": "tt16219968"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-28",
+  "runtime_minutes": 168
+}

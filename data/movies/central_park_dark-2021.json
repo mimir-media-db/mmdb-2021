@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_central_park_dark_2021",
+  "title": "Central Park Dark",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105905547",
+    "imdb": "tt3716996",
+    "tmdb": 713883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

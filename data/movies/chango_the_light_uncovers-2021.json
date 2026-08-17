@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chango_the_light_uncovers_2021",
+  "title": "Chango: The Light Uncovers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140032739",
+    "imdb": "tt17736612",
+    "tmdb": 898015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 84
+}

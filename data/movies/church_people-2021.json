@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_church_people_2021",
+  "title": "Church People",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140611449",
+    "imdb": "tt3717822",
+    "tmdb": 561757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-31",
+  "runtime_minutes": 96
+}

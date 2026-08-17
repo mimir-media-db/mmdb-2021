@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_un_poisson_dans_lair_2021",
+  "title": "Comme un poisson dans l'air",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109018803",
+    "imdb": "tt14866844",
+    "tmdb": 839345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

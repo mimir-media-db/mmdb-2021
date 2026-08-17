@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_classic_horror_story_2021",
+  "title": "A Classic Horror Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106958533",
+    "imdb": "tt12877640",
+    "tmdb": 768334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-14",
+  "runtime_minutes": 95
+}

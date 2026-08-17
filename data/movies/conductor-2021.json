@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conductor_2021",
+  "title": "The Conductor",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117707189",
+    "imdb": "tt14622994",
+    "tmdb": 822079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

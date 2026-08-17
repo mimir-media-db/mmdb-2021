@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_caminos_2021",
+  "title": "Caminos",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123707546",
+    "tmdb": 1055146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

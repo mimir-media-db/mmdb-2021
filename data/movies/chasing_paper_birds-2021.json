@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_paper_birds_2021",
+  "title": "Chasing Paper Birds",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109441601",
+    "imdb": "tt3778640",
+    "tmdb": 433984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-04",
+  "runtime_minutes": 123
+}

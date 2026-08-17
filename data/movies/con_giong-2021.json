@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_con_giong_2021",
+  "title": "Cơn giông",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136214632"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-22"
+}

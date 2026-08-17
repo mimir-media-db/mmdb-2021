@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cronica_de_una_tormenta_2021",
+  "title": "Crónica de una tormenta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104520916",
+    "imdb": "tt10471804",
+    "tmdb": 679886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-30",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cost_of_deception_2021",
+  "title": "The Cost of Deception",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108570875",
+    "imdb": "tt14723224",
+    "tmdb": 876671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-21",
+  "runtime_minutes": 127
+}

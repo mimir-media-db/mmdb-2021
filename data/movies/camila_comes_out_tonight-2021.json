@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camila_comes_out_tonight_2021",
+  "title": "Camila Comes Out Tonight",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111199802",
+    "imdb": "tt15061856",
+    "tmdb": 812089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captains_heart_2021",
+  "title": "Captain's Heart",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311005",
+    "imdb": "tt18411832",
+    "tmdb": 950890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 94
+}

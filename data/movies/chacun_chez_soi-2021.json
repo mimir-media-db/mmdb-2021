@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chacun_chez_soi_2021",
+  "title": "Chacun Chez Soi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103738993",
+    "imdb": "tt11013468",
+    "tmdb": 613583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-02",
+  "runtime_minutes": 83
+}
