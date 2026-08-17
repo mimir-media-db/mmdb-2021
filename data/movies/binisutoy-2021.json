@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_binisutoy_2021",
+  "title": "Binisutoy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110640026",
+    "imdb": "tt12183886",
+    "tmdb": 718116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-20"
+}

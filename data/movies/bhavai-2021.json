@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhavai_2021",
+  "title": "Bhavai",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108522103",
+    "imdb": "tt8591792",
+    "tmdb": 826178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barajas_2021",
+  "title": "Barajas",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127393295",
+    "imdb": "tt21036048",
+    "tmdb": 850482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 63
+}

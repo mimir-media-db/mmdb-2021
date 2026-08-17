@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_natural_the_untold_story_of_alice_guyblache_2021",
+  "title": "Be Natural: The Untold Story of Alice Guy-Blaché",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56886861",
+    "imdb": "tt3146022",
+    "tmdb": 520270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-05",
+  "runtime_minutes": 103
+}

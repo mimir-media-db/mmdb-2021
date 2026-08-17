@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_headlines_2021",
+  "title": "Behind The Headlines",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105962778",
+    "imdb": "tt14507178",
+    "tmdb": 816355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-05",
+  "runtime_minutes": 90
+}

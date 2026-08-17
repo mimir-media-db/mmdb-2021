@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boulevard_a_hollywood_story_2021",
+  "title": "Boulevard! A Hollywood Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109448243",
+    "imdb": "tt8437164",
+    "tmdb": 584308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

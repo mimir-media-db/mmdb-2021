@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bergman_island_2021",
+  "title": "Bergman Island",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59065557",
+    "imdb": "tt6910282",
+    "tmdb": 477044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-12",
+  "runtime_minutes": 105
+}

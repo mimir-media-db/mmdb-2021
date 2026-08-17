@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bruma_2021",
+  "title": "Bruma",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123707543",
+    "tmdb": 1336323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 70
+}

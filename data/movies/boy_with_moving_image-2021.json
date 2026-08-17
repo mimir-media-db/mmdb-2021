@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_with_moving_image_2021",
+  "title": "The Boy with Moving Image",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083927",
+    "imdb": "tt12242980",
+    "tmdb": 753870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-16"
+}

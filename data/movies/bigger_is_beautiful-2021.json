@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bigger_is_beautiful_2021",
+  "title": "Bigger Is Beautiful",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110458258",
+    "imdb": "tt14017174",
+    "tmdb": 756594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-22",
+  "runtime_minutes": 103
+}

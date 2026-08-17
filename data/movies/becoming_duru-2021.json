@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_duru_2021",
+  "title": "Becoming Duru",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105695199",
+    "imdb": "tt12651512",
+    "tmdb": 798422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-19",
+  "runtime_minutes": 91
+}

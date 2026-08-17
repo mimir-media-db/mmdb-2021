@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoka_2021",
+  "title": "Bhoka",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110060367",
+    "imdb": "tt15722990"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-11"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_bisarjan_2021",
+  "title": "Bisarjan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109519717"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-07"
+}

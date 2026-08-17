@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_slide_2021",
+  "title": "Black Slide",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115648214",
+    "imdb": "tt15181604",
+    "tmdb": 885865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

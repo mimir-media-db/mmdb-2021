@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babusha_forest_farm_2021",
+  "title": "Babusha Forest Farm",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354127",
+    "imdb": "tt16277072",
+    "tmdb": 1332407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bang_dream_film_live_2nd_stage_2021",
+  "title": "Bang Dream! Film Live 2Nd Stage",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109461444",
+    "imdb": "tt14264308",
+    "tmdb": 745115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-20"
+}

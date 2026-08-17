@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_of_paradise_2021",
+  "title": "Birds of Paradise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85747355",
+    "imdb": "tt11771006",
+    "tmdb": 667969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24"
+}

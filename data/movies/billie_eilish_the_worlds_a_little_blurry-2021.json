@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_billie_eilish_the_worlds_a_little_blurry_2021",
+  "title": "Billie Eilish: The World's a Little Blurry",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99695342",
+    "imdb": "tt11459366",
+    "tmdb": 654754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-26"
+}

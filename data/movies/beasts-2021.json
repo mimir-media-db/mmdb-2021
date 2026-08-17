@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beasts_2021",
+  "title": "Beasts",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108321280",
+    "imdb": "tt12440750",
+    "tmdb": 714017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-25"
+}

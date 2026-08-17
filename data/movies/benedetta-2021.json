@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benedetta_2021",
+  "title": "Benedetta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55595776",
+    "imdb": "tt6823148",
+    "tmdb": 454527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-09",
+  "runtime_minutes": 127
+}

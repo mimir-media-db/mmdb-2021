@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_man_who_did_not_want_to_see_titanic_2021",
+  "title": "The Blind Man Who Did Not Want to See Titanic",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108547258",
+    "imdb": "tt13328824",
+    "tmdb": 716855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-10",
+  "runtime_minutes": 82
+}

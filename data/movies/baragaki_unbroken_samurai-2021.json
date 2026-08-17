@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baragaki_unbroken_samurai_2021",
+  "title": "Baragaki: Unbroken Samurai",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106958852",
+    "imdb": "tt11487698",
+    "tmdb": 726894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buck_breaking_2021",
+  "title": "Buck Breaking",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131856703",
+    "imdb": "tt14266534",
+    "tmdb": 820833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

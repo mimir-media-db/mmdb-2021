@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_block_island_sound_2021",
+  "title": "The Block Island Sound",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105979701",
+    "imdb": "tt8747160",
+    "tmdb": 731740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_2021",
+  "title": "Brother",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597774",
+    "tmdb": 878026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balloon_2021",
+  "title": "Balloon",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79421148",
+    "imdb": "tt10703752",
+    "tmdb": 618243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-30",
+  "runtime_minutes": 102
+}

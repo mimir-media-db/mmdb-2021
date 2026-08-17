@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bisikan_arwah_mantan_2021",
+  "title": "Bisikan Arwah Mantan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107559991",
+    "imdb": "tt15059274",
+    "tmdb": 803636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 102
+}

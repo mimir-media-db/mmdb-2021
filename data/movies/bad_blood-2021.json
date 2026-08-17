@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_blood_2021",
+  "title": "Bad Blood",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110046018",
+    "imdb": "tt12653060",
+    "tmdb": 865561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-24"
+}

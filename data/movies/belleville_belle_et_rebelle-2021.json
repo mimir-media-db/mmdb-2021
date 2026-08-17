@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belleville_belle_et_rebelle_2021",
+  "title": "Belleville, belle et rebelle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113643599",
+    "imdb": "tt15444298",
+    "tmdb": 879965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-04",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balnyy_korol_2021",
+  "title": "Balnyy korol",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576081",
+    "imdb": "tt14212070",
+    "tmdb": 804447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-18",
+  "runtime_minutes": 62
+}

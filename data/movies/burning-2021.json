@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_2021",
+  "title": "Burning",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110772639",
+    "imdb": "tt14671620",
+    "tmdb": 858058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26",
+  "runtime_minutes": 86
+}
