@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_100_foot_wave",
+  "title": "100 Foot Wave",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107324517",
+    "imdb": "tt14126234",
+    "tmdb": 121481
+  },
+  "last_updated": "2026-08-17"
+}
