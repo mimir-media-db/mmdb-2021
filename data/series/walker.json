@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_walker",
+  "title": "Walker",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q96419634",
+    "imdb": "tt11006642",
+    "tmdb": 99121
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 69
+}

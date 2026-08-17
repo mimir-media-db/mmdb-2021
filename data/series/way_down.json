@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_way_down",
+  "title": "The Way Down",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108802339",
+    "imdb": "tt15286764",
+    "tmdb": 131561
+  },
+  "last_updated": "2026-08-17"
+}

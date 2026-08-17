@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_weekly_sanma_matsuko",
+  "title": "Weekly Sanma & Matsuko",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106685874",
+    "tmdb": 123647
+  },
+  "last_updated": "2026-08-17"
+}

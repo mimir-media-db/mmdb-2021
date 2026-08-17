@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_we_children_from_bahnhof_zoo",
+  "title": "We Children from Bahnhof Zoo",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101143730",
+    "imdb": "tt13138972",
+    "tmdb": 115771
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

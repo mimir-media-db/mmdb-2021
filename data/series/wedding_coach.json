@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_coach",
+  "title": "The Wedding Coach",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106469753",
+    "imdb": "tt14210424",
+    "tmdb": 122249
+  },
+  "last_updated": "2026-08-17"
+}

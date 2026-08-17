@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wakefield",
+  "title": "Wakefield",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85814175",
+    "imdb": "tt13556320",
+    "tmdb": 122285
+  },
+  "last_updated": "2026-08-17"
+}

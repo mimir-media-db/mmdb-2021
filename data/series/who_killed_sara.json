@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_killed_sara",
+  "title": "Who Killed Sara?",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105593020",
+    "imdb": "tt11937816",
+    "tmdb": 120168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_will_slineys_storytellers",
+  "title": "Will Sliney's Storytellers",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122440216",
+    "imdb": "tt15571392",
+    "tmdb": 281156
+  },
+  "last_updated": "2026-08-17"
+}

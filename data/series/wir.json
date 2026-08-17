@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wir",
+  "title": "Wir",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109852329",
+    "imdb": "tt15812418",
+    "tmdb": 155700
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_with_love",
+  "title": "With Love",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110180635",
+    "imdb": "tt14734228",
+    "tmdb": 126914
+  },
+  "last_updated": "2026-08-17"
+}

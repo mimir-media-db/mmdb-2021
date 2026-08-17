@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worn_stories",
+  "title": "Worn Stories",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106117866",
+    "imdb": "tt14177168",
+    "tmdb": 120008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
