@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_sundarbans_2021",
+  "title": "Operation Sundarbans",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73006838",
+    "imdb": "tt10488710",
+    "tmdb": 859718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26"
+}

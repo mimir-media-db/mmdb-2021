@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outside_the_wire_2021",
+  "title": "Outside the Wire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104241071",
+    "imdb": "tt10451914",
+    "tmdb": 775996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_from_the_life_of_a_female_candidate_2021",
+  "title": "One Day from the Life of a Female Candidate",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574042",
+    "imdb": "tt15446846",
+    "tmdb": 875440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-12",
+  "runtime_minutes": 60
+}

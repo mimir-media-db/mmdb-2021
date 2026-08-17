@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oyee_guitar_2021",
+  "title": "Oyee Guitar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109519712",
+    "imdb": "tt14625366"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-14"
+}

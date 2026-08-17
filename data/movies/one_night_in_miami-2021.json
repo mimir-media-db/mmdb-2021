@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_in_miami_2021",
+  "title": "One Night in Miami...",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83973479",
+    "imdb": "tt10612922",
+    "tmdb": 661914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15",
+  "runtime_minutes": 115
+}

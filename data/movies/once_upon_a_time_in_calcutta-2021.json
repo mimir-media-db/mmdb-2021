@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_calcutta_2021",
+  "title": "Once Upon a Time in Calcutta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108795826",
+    "imdb": "tt12381206",
+    "tmdb": 720035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-07"
+}

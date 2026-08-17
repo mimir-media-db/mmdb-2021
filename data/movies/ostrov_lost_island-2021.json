@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ostrov_lost_island_2021",
+  "title": "Ostrov - lost island",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111343650",
+    "imdb": "tt14439530",
+    "tmdb": 809670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 92
+}

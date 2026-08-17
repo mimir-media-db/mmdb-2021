@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_omerta_612_2021",
+  "title": "Omerta 6/12",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98457010",
+    "imdb": "tt11636880",
+    "tmdb": 655302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19"
+}
