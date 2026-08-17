@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zarim_mushlamim_2021",
+  "title": "Zarim Mushlamim",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108442799",
+    "imdb": "tt14037312",
+    "tmdb": 895334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 90
+}
