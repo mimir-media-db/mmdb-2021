@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_putins_palace_2021",
+  "title": "Putin's Palace",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104906978",
+    "imdb": "tt13875460",
+    "tmdb": 787721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-19",
+  "runtime_minutes": 112
+}

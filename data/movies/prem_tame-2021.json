@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prem_tame_2021",
+  "title": "Prem Tame",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107439510",
+    "imdb": "tt12613748",
+    "tmdb": 718013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12"
+}

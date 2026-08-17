@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ptgf_2021",
+  "title": "P.T.G.F",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106898975",
+    "imdb": "tt15575332",
+    "tmdb": 876823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-21"
+}

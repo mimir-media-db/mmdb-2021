@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poliski_teneta_2021",
+  "title": "Poliski Teneta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576058",
+    "imdb": "tt15155126",
+    "tmdb": 896836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-22",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paranoia_2021",
+  "title": "Paranoia",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108866754",
+    "imdb": "tt13429004",
+    "tmdb": 770078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 101
+}

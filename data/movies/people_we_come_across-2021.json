@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_people_we_come_across_2021",
+  "title": "People We Come Across",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111422167",
+    "imdb": "tt15447036",
+    "tmdb": 785927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-29"
+}

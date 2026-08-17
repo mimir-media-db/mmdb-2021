@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parent_2021",
+  "title": "The Parent",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112601693",
+    "imdb": "tt16030664",
+    "tmdb": 610343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-28",
+  "runtime_minutes": 116
+}

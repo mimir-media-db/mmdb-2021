@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parkway_of_broken_dreams_2021",
+  "title": "Parkway of Broken Dreams",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128045288",
+    "imdb": "tt8838884",
+    "tmdb": 839457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-13",
+  "runtime_minutes": 79
+}

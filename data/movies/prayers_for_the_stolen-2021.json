@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prayers_for_the_stolen_2021",
+  "title": "Prayers for the Stolen",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107103770",
+    "imdb": "tt10366574",
+    "tmdb": 670981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

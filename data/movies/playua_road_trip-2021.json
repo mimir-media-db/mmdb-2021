@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_playua_road_trip_2021",
+  "title": "PlayUA Road Trip",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576029",
+    "imdb": "tt14597266"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-06"
+}

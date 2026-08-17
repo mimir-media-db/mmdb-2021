@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palmyra_2021",
+  "title": "Palmyra",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65154502",
+    "imdb": "tt11991432",
+    "tmdb": 581982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11",
+  "runtime_minutes": 80
+}

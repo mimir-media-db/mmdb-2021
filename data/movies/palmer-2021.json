@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palmer_2021",
+  "title": "Palmer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83957218",
+    "imdb": "tt6857376",
+    "tmdb": 458220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-29",
+  "runtime_minutes": 110
+}

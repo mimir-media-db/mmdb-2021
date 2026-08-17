@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pieces_of_a_woman_2021",
+  "title": "Pieces of a Woman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79212167",
+    "imdb": "tt11161474",
+    "tmdb": 641662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-07",
+  "runtime_minutes": 128
+}

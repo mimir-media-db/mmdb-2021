@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poulet_frites_2021",
+  "title": "Poulet frites",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113907661",
+    "imdb": "tt15473248",
+    "tmdb": 873097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 103
+}

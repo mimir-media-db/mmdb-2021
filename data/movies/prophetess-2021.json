@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prophetess_2021",
+  "title": "Prophetess",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106726658",
+    "imdb": "tt14503370",
+    "tmdb": 817203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-02",
+  "runtime_minutes": 110
+}

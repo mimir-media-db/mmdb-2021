@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_lives_2021",
+  "title": "Paper Lives",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104816324",
+    "imdb": "tt13045890",
+    "tmdb": 785534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

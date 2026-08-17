@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parasite_in_love_2021",
+  "title": "Parasite in Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109600610",
+    "imdb": "tt16059146",
+    "tmdb": 709589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-12"
+}

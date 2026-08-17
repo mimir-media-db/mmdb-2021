@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peacocks_paradise_2021",
+  "title": "The Peacock's Paradise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051288",
+    "imdb": "tt13757758",
+    "tmdb": 832284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

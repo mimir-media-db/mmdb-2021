@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_dune_2021",
+  "title": "Planet Dune",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109497699",
+    "imdb": "tt15331462",
+    "tmdb": 881460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-29",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pilot_a_battle_for_survival_2021",
+  "title": "The Pilot. A Battle for Survival",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106725458",
+    "imdb": "tt14303882",
+    "tmdb": 597859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-01",
+  "runtime_minutes": 105
+}

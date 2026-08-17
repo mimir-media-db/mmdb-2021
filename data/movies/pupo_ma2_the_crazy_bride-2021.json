@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pupo_ma2_the_crazy_bride_2021",
+  "title": "Pup-o, ma2! The crazy bride",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106977383",
+    "imdb": "tt13072060",
+    "tmdb": 870371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

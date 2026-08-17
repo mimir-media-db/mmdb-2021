@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_promising_young_woman_2021",
+  "title": "Promising Young Woman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62595383",
+    "imdb": "tt9620292",
+    "tmdb": 582014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-20",
+  "runtime_minutes": 113
+}

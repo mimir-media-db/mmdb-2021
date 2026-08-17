@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pils_adventures_2021",
+  "title": "Pil's Adventures",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105598233",
+    "imdb": "tt15091284",
+    "tmdb": 676705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-11"
+}

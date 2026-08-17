@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prostir_2021",
+  "title": "Prostir",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575558",
+    "imdb": "tt15100676",
+    "tmdb": 859004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-17",
+  "runtime_minutes": 101
+}

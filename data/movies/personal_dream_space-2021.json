@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_personal_dream_space_2021",
+  "title": "Personal Dream Space",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62117182",
+    "imdb": "tt10041946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

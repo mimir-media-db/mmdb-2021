@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pintu_surga_terakhir_2021",
+  "title": "Pintu Surga Terakhir",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109094616",
+    "imdb": "tt15741372",
+    "tmdb": 883216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11"
+}
