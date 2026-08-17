@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_joseon_exorcist",
+  "title": "Joseon Exorcist",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101060442",
+    "imdb": "tt13634332",
+    "tmdb": 113624
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

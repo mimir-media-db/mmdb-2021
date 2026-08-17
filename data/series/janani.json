@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_janani",
+  "title": "Janani",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105653559",
+    "imdb": "tt14044972"
+  },
+  "last_updated": "2026-08-17"
+}
