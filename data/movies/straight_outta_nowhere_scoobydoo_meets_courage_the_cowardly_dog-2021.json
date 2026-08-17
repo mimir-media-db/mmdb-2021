@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_outta_nowhere_scoobydoo_meets_courage_the_cowardly_dog_2021",
+  "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107337950",
+    "imdb": "tt14903892",
+    "tmdb": 843906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31",
+  "runtime_minutes": 78
+}

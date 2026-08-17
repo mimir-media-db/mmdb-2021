@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superstar_2021",
+  "title": "Superstar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109628984",
+    "imdb": "tt16115330",
+    "tmdb": 1003846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-29"
+}
