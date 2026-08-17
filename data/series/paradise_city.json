@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_paradise_city",
+  "title": "Paradise City",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97168424",
+    "imdb": "tt4302062",
+    "tmdb": 5768
+  },
+  "last_updated": "2026-08-17"
+}

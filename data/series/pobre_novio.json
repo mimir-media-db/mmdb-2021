@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pobre_novio",
+  "title": "Pobre novio",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104858441",
+    "imdb": "tt15816262",
+    "tmdb": 130731
+  },
+  "last_updated": "2026-08-17"
+}

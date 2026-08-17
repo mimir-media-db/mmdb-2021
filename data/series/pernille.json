@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pernille",
+  "title": "Pernille",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106764336",
+    "imdb": "tt12567072",
+    "tmdb": 123403
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

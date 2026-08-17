@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prnkesisten",
+  "title": "Prænkesisten",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108168154",
+    "imdb": "tt15204320",
+    "tmdb": 130917
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_peculiar_pawnbroker",
+  "title": "The Peculiar Pawnbroker",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106899183",
+    "imdb": "tt21216710",
+    "tmdb": 139494
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

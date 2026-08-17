@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pretty_smart",
+  "title": "Pretty Smart",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108770703",
+    "imdb": "tt14369056",
+    "tmdb": 133537
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_portraitrobot",
+  "title": "Portrait-Robot",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110720793",
+    "imdb": "tt14512648",
+    "tmdb": 113183
+  },
+  "last_updated": "2026-08-17"
+}

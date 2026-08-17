@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_mother",
+  "title": "The Perfect Mother",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109255212",
+    "imdb": "tt15341198",
+    "tmdb": 131431
+  },
+  "last_updated": "2026-08-17"
+}
