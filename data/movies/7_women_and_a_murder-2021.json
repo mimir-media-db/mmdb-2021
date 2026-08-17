@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_women_and_a_murder_2021",
+  "title": "7 Women and a Murder",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110448097",
+    "imdb": "tt15206378",
+    "tmdb": 890541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 83
+}
