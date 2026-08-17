@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_again_a_wedding_a_day_2021",
+  "title": "Hello Again - A Wedding a Day",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98002219",
+    "imdb": "tt11576374",
+    "tmdb": 734622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 92
+}

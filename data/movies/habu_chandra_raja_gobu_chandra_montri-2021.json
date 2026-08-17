@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_habu_chandra_raja_gobu_chandra_montri_2021",
+  "title": "Habu Chandra Raja Gobu Chandra Montri",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97279097",
+    "imdb": "tt15380598",
+    "tmdb": 718095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-10"
+}

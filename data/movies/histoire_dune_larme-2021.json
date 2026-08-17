@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_histoire_dune_larme_2021",
+  "title": "Histoire d'une larme",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116754104",
+    "tmdb": 884507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 75
+}

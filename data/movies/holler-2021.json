@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holler_2021",
+  "title": "Holler",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105846876",
+    "imdb": "tt6763778",
+    "tmdb": 665886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-11",
+  "runtime_minutes": 90
+}

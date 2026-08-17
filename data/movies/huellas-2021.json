@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huellas_2021",
+  "title": "Huellas",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108877764",
+    "imdb": "tt15399728",
+    "tmdb": 873791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 85
+}

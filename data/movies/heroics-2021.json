@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroics_2021",
+  "title": "The Heroics",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107550907",
+    "imdb": "tt7661518",
+    "tmdb": 789578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 99
+}

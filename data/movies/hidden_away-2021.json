@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_away_2021",
+  "title": "Hidden Away",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84163499",
+    "imdb": "tt8478554",
+    "tmdb": 608317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 120
+}

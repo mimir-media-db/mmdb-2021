@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hokusai_2021",
+  "title": "Hokusai",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85865605",
+    "imdb": "tt10787472",
+    "tmdb": 698215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-28",
+  "runtime_minutes": 129
+}

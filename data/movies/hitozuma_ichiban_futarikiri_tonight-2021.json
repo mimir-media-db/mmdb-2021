@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitozuma_ichiban_futarikiri_tonight_2021",
+  "title": "Hitozuma ichiban! Futarikiri Tonight",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361238",
+    "imdb": "tt15909982",
+    "tmdb": 981240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-12"
+}

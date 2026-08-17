@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huttu_habbada_shubhashayagalu_2021",
+  "title": "Huttu Habbada Shubhashayagalu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110612810",
+    "imdb": "tt12077762",
+    "tmdb": 931953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31"
+}

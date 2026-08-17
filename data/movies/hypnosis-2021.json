@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hypnosis_2021",
+  "title": "Hypnosis",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105851670",
+    "imdb": "tt14406178",
+    "tmdb": 799668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-24",
+  "runtime_minutes": 85
+}

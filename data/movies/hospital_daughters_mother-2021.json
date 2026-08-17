@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hospital_daughters_mother_2021",
+  "title": "Hospital – Daughter's Mother",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109567916",
+    "imdb": "tt14725488",
+    "tmdb": 841611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-13"
+}

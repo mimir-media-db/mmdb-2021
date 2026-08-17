@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_half_a_day_2021",
+  "title": "Half a Day",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111611044",
+    "imdb": "tt14986144",
+    "tmdb": 850151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11"
+}

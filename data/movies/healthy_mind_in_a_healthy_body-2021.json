@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_healthy_mind_in_a_healthy_body_2021",
+  "title": "Healthy mind in a healthy body",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108853584",
+    "imdb": "tt13859562",
+    "tmdb": 868758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-09"
+}

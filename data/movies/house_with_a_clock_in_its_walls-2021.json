@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_with_a_clock_in_its_walls_2021",
+  "title": "The House with a Clock in Its Walls",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42914959",
+    "imdb": "tt2119543",
+    "tmdb": 463821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-31",
+  "runtime_minutes": 105
+}

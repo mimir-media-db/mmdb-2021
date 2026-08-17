@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_planet_b_2021",
+  "title": "The Hunt for Planet B",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106148329",
+    "imdb": "tt13848014",
+    "tmdb": 802366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

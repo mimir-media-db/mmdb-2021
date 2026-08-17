@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_coppelia_2021",
+  "title": "Hotel Coppelia",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106542457",
+    "imdb": "tt9497404",
+    "tmdb": 676150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 113
+}

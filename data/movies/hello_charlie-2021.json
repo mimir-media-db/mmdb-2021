@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_charlie_2021",
+  "title": "Hello Charlie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106237691",
+    "imdb": "tt14260080",
+    "tmdb": 807072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

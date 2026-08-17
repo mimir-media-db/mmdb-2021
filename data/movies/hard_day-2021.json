@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_day_2021",
+  "title": "A Hard Day",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16734496",
+    "imdb": "tt3697626",
+    "tmdb": 269494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-14",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_head_of_empty_house_2021",
+  "title": "Head of Empty House",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841576",
+    "tmdb": 852358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-01"
+}

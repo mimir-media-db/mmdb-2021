@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_snails_2021",
+  "title": "The House of Snails",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106350432",
+    "imdb": "tt12500804",
+    "tmdb": 772148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-11",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horror_noire_2021",
+  "title": "Horror Noire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128193909",
+    "imdb": "tt15132736",
+    "tmdb": 863946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-28"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_hit_2021",
+  "title": "Hard Hit",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106882211",
+    "imdb": "tt14980972",
+    "tmdb": 654739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-23"
+}

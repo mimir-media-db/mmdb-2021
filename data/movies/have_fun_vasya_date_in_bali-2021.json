@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_have_fun_vasya_date_in_bali_2021",
+  "title": "Have Fun, Vasya! Date in Bali",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106640340",
+    "imdb": "tt10772654",
+    "tmdb": 576922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 110
+}

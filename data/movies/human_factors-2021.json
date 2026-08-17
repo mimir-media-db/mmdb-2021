@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_factors_2021",
+  "title": "Human Factors",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104212872",
+    "imdb": "tt7904172",
+    "tmdb": 776542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 102
+}
