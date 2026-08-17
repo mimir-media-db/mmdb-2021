@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mayor_of_kingstown",
+  "title": "Mayor of Kingstown",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108392632",
+    "imdb": "tt11712058",
+    "tmdb": 97951
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

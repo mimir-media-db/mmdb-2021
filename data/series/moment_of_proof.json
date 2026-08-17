@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_moment_of_proof",
+  "title": "The Moment of Proof",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124670051",
+    "imdb": "tt13691282",
+    "tmdb": 116322
+  },
+  "last_updated": "2026-08-17"
+}

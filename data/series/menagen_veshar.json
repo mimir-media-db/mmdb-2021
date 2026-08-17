@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_menagen_veshar",
+  "title": "Menagen VeShar",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130132007",
+    "imdb": "tt19064336",
+    "tmdb": 329353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

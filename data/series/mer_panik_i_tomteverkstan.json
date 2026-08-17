@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mer_panik_i_tomteverkstan",
+  "title": "Mer panik i tomteverkstan",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108914827",
+    "imdb": "tt15340902",
+    "tmdb": 137669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

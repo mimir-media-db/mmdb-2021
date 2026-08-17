@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moebius",
+  "title": "Moebius",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106805421",
+    "imdb": "tt13915876",
+    "tmdb": 125831
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

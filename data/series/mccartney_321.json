@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mccartney_321",
+  "title": "McCartney 3,2,1",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q107803559",
+    "imdb": "tt13679628",
+    "tmdb": 127907
+  },
+  "last_updated": "2026-08-17"
+}

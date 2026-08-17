@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_among_the_mormons",
+  "title": "Murder Among the Mormons",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105814075",
+    "imdb": "tt13987620",
+    "tmdb": 119337
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_motek_bool_baemtza",
+  "title": "Motek Bool BaEmtza",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106461607",
+    "imdb": "tt14201014",
+    "tmdb": 121869
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

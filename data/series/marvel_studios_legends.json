@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marvel_studios_legends",
+  "title": "Marvel Studios: Legends",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104193683",
+    "imdb": "tt13650480",
+    "tmdb": 114695
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 46
+}

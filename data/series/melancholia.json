@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_melancholia",
+  "title": "Melancholia",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108271585",
+    "imdb": "tt15146242",
+    "tmdb": 127527
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_married_woman",
+  "title": "The Married Woman",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105823100",
+    "imdb": "tt11646658",
+    "tmdb": 120333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_malverde_el_santo_patron",
+  "title": "Malverde: El Santo Patrón",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85783521",
+    "imdb": "tt11874906",
+    "tmdb": 135193
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

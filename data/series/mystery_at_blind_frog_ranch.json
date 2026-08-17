@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_at_blind_frog_ranch",
+  "title": "Mystery At Blind Frog Ranch",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118253191",
+    "imdb": "tt13634306",
+    "tmdb": 115773
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

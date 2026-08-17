@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_moya_ulyublena_strashko",
+  "title": "Moya Ulyublena Strashko",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109264712",
+    "imdb": "tt21478170",
+    "tmdb": 132735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

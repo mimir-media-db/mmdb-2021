@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_msnbc_reports_andrea_mitchell_reports",
+  "title": "MSNBC Reports Andrea Mitchell Reports",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123746166"
+  },
+  "last_updated": "2026-08-17"
+}

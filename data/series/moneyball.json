@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moneyball",
+  "title": "Moneyball",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110496166",
+    "imdb": "tt14144732",
+    "tmdb": 137592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

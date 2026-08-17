@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maria_kallio",
+  "title": "Maria Kallio",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106130371",
+    "imdb": "tt15733338",
+    "tmdb": 155269
+  },
+  "last_updated": "2026-08-17"
+}

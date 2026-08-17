@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_me_and_you_show",
+  "title": "The Me and You Show",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113540952",
+    "imdb": "tt14590234"
+  },
+  "last_updated": "2026-08-17"
+}

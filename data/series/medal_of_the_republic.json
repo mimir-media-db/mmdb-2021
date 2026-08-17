@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_medal_of_the_republic",
+  "title": "Medal of the Republic",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108936301",
+    "imdb": "tt13885398",
+    "tmdb": 134983
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

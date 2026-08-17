@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mighty_ducks_game_changers",
+  "title": "The Mighty Ducks: Game Changers",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85023940",
+    "imdb": "tt7939768",
+    "tmdb": 114621
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

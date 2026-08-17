@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_pat_show",
+  "title": "The Ms. Pat Show",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107619265",
+    "imdb": "tt5960322",
+    "tmdb": 131013
+  },
+  "last_updated": "2026-08-17"
+}

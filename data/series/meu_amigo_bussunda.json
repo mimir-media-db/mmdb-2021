@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meu_amigo_bussunda",
+  "title": "Meu amigo Bussunda",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107369553",
+    "imdb": "tt14033328",
+    "tmdb": 127650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mosquito_coast",
+  "title": "The Mosquito Coast",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105753321",
+    "imdb": "tt11041132",
+    "tmdb": 93716
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

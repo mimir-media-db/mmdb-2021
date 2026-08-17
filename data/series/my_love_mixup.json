@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_love_mixup",
+  "title": "My Love Mix-Up!",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110819248",
+    "imdb": "tt15666846",
+    "tmdb": 135929
+  },
+  "last_updated": "2026-08-17"
+}
