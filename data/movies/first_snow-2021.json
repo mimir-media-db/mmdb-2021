@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_snow_2021",
+  "title": "First Snow",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124758328",
+    "imdb": "tt21928842",
+    "tmdb": 713182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fishermans_friends_2021",
+  "title": "Fisherman's Friends",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738270",
+    "imdb": "tt1648186",
+    "tmdb": 559713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-07",
+  "runtime_minutes": 112
+}

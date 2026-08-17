@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farha_2021",
+  "title": "Farha",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114830722",
+    "imdb": "tt11555492",
+    "tmdb": 856437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-14",
+  "runtime_minutes": 94
+}

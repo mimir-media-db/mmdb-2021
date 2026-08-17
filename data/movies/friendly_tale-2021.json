@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friendly_tale_2021",
+  "title": "A Friendly Tale",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97955746",
+    "imdb": "tt10334410",
+    "tmdb": 598049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-23",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_full_speed_2021",
+  "title": "Full Speed",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108442810",
+    "imdb": "tt11647568",
+    "tmdb": 858693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-05"
+}

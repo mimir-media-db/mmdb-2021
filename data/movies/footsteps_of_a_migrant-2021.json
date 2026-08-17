@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_footsteps_of_a_migrant_2021",
+  "title": "Footsteps of a Migrant",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126085008"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 52
+}

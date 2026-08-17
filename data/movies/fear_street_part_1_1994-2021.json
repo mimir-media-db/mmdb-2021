@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_street_part_1_1994_2021",
+  "title": "Fear Street Part 1: 1994",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62066191",
+    "imdb": "tt6566576",
+    "tmdb": 591273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-02",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_wild_sea_2021",
+  "title": "From the Wild Sea",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110033838",
+    "imdb": "tt14104780",
+    "tmdb": 794780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 78
+}

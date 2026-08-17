@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_angel_2021",
+  "title": "Finding Angel",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109460737",
+    "imdb": "tt16232730",
+    "tmdb": 455422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-06"
+}

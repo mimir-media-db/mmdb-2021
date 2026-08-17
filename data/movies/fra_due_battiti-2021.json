@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fra_due_battiti_2021",
+  "title": "Fra due battiti",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110456399",
+    "imdb": "tt15211338",
+    "tmdb": 955273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

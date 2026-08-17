@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_2021",
+  "title": "Flying",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107326786",
+    "imdb": "tt14365338"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-04",
+  "runtime_minutes": 84
+}

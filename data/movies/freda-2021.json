@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freda_2021",
+  "title": "Freda",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107503642",
+    "imdb": "tt14775496",
+    "tmdb": 836489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

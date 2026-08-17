@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ferguson_rises_2021",
+  "title": "Ferguson Rises",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115474963",
+    "imdb": "tt5918432",
+    "tmdb": 837020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-08"
+}

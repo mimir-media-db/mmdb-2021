@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_senses_of_eros_2021",
+  "title": "Five Senses of Eros",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q490764",
+    "imdb": "tt1587422",
+    "tmdb": 54225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-21",
+  "runtime_minutes": 128
+}

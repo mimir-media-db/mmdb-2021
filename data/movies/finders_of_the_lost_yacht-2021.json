@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finders_of_the_lost_yacht_2021",
+  "title": "Finders of the Lost Yacht",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98652006",
+    "imdb": "tt13243448",
+    "tmdb": 731110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-14",
+  "runtime_minutes": 86
+}

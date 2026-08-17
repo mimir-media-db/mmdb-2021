@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_rules_of_success_2021",
+  "title": "The Five Rules of Success",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125573175",
+    "imdb": "tt9261052",
+    "tmdb": 695531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 83
+}
