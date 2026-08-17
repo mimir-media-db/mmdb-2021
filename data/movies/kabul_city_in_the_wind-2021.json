@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kabul_city_in_the_wind_2021",
+  "title": "Kabul, City in the Wind",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884414",
+    "imdb": "tt8995280",
+    "tmdb": 576408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 88
+}

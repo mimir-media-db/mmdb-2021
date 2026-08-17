@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kate_2021",
+  "title": "Kate",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74198352",
+    "imdb": "tt7737528",
+    "tmdb": 597891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-10",
+  "runtime_minutes": 106
+}

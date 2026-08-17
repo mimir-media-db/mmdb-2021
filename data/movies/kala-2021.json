@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kala_2021",
+  "title": "Kala",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106349600",
+    "imdb": "tt12687276",
+    "tmdb": 810190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-25",
+  "runtime_minutes": 130
+}

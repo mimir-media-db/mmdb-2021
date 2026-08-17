@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_zeroone_realtime_2021",
+  "title": "Kamen Rider Zero-One: REAL×TIME",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97341535",
+    "imdb": "tt11928960",
+    "tmdb": 756982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-15"
+}

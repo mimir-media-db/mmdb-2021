@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kimohara_kacho_muramura_oppiroge_2021",
+  "title": "Kimohara kachô: Muramura oppiroge",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109364681",
+    "imdb": "tt15890914",
+    "tmdb": 1026764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

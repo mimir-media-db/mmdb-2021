@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kontora_2021",
+  "title": "Kontora",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122333242",
+    "imdb": "tt10381602",
+    "tmdb": 651944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-20",
+  "runtime_minutes": 144
+}

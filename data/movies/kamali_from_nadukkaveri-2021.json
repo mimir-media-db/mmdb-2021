@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamali_from_nadukkaveri_2021",
+  "title": "Kamali from Nadukkaveri",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105846930",
+    "imdb": "tt11991132",
+    "tmdb": 773288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-19"
+}

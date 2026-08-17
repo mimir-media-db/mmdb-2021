@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kral_sakir_cumburlop_2021",
+  "title": "Kral Sakir Cumburlop",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109254222",
+    "imdb": "tt14404162",
+    "tmdb": 817977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 36
+}

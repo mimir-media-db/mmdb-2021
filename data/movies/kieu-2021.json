@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kieu_2021",
+  "title": "Kieu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105077280",
+    "imdb": "tt14372330",
+    "tmdb": 524997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-09"
+}
