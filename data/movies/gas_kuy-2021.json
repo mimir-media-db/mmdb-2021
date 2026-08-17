@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gas_kuy_2021",
+  "title": "Gas Kuy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109259015",
+    "imdb": "tt14697186",
+    "tmdb": 831968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-03",
+  "runtime_minutes": 82
+}

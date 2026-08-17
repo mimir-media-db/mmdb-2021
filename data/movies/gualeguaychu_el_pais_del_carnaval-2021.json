@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gualeguaychu_el_pais_del_carnaval_2021",
+  "title": "Gualeguaychú: El país del carnaval",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120967276",
+    "imdb": "tt14286814",
+    "tmdb": 804446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 78
+}

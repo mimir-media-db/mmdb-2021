@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_happiness_2021",
+  "title": "Goodbye Happiness",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110803898",
+    "imdb": "tt16235682",
+    "tmdb": 850064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-16",
+  "runtime_minutes": 108
+}

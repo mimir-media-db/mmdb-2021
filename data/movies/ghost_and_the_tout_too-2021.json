@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_and_the_tout_too_2021",
+  "title": "The Ghost and the Tout Too",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111664635",
+    "imdb": "tt15520888",
+    "tmdb": 1004252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03"
+}

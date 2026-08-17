@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_from_bob_2021",
+  "title": "A Gift from Bob",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97515748",
+    "imdb": "tt9564270",
+    "tmdb": 673737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18"
+}

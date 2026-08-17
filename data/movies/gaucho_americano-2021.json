@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaucho_americano_2021",
+  "title": "Gaucho Americano",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120913878",
+    "imdb": "tt15330850",
+    "tmdb": 809575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-29"
+}

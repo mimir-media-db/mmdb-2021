@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_2021",
+  "title": "Gone",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113359076",
+    "imdb": "tt15140954",
+    "tmdb": 885217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grudge_2021",
+  "title": "Grudge",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108576420",
+    "imdb": "tt13717980",
+    "tmdb": 874948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-08"
+}

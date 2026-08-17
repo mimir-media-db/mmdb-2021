@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glitch_in_the_matrix_2021",
+  "title": "A Glitch in the Matrix",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105612382",
+    "imdb": "tt9847360",
+    "tmdb": 696109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 108
+}

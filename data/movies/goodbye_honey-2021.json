@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_honey_2021",
+  "title": "Goodbye Honey",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109298955",
+    "imdb": "tt7841954",
+    "tmdb": 721955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-11",
+  "runtime_minutes": 93
+}

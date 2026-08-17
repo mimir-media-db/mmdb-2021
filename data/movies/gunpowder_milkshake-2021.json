@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunpowder_milkshake_2021",
+  "title": "Gunpowder Milkshake",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65065068",
+    "imdb": "tt8368408",
+    "tmdb": 574060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 114
+}

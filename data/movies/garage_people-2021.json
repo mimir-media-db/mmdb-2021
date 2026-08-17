@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garage_people_2021",
+  "title": "Garage People",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84158585",
+    "imdb": "tt11496136",
+    "tmdb": 656297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-16",
+  "runtime_minutes": 95
+}

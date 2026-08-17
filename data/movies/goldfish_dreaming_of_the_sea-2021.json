@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goldfish_dreaming_of_the_sea_2021",
+  "title": "The Goldfish: Dreaming of the Sea",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108319835",
+    "imdb": "tt14580998",
+    "tmdb": 814476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-25"
+}

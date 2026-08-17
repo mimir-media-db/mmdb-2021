@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_delinquency_2021",
+  "title": "Girls Delinquency",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841442",
+    "tmdb": 1016103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-18"
+}

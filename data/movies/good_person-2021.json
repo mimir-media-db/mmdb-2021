@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_person_2021",
+  "title": "Good Person",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597766",
+    "imdb": "tt15426988",
+    "tmdb": 742755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09"
+}

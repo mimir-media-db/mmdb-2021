@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_in_a_tiny_room_2021",
+  "title": "The Girl in a Tiny Room",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110116171",
+    "imdb": "tt10296286",
+    "tmdb": 608321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-25"
+}

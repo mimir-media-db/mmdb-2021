@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_on_paper_2021",
+  "title": "Good on Paper",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107071324",
+    "imdb": "tt8231668",
+    "tmdb": 823461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-23"
+}

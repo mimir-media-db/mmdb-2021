@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guest_room_2021",
+  "title": "The Guest Room",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104727380",
+    "imdb": "tt13315340",
+    "tmdb": 761830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-04",
+  "runtime_minutes": 86
+}

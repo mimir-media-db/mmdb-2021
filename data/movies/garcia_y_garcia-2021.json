@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garcia_y_garcia_2021",
+  "title": "García y García",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108169225",
+    "imdb": "tt11613746",
+    "tmdb": 774456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 98
+}

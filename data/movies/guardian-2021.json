@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardian_2021",
+  "title": "Guardian",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105063133",
+    "imdb": "tt13711212",
+    "tmdb": 782565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 128
+}
