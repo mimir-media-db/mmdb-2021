@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_200_egp_2021",
+  "title": "200 EGP",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108113035",
+    "imdb": "tt15219436",
+    "tmdb": 858541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

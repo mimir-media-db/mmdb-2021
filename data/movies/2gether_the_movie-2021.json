@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2gether_the_movie_2021",
+  "title": "2gether: The Movie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106104745",
+    "imdb": "tt14296268",
+    "tmdb": 810406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-04",
+  "runtime_minutes": 107
+}
