@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one",
+  "title": "The One",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105919737",
+    "imdb": "tt13879466",
+    "tmdb": 119284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

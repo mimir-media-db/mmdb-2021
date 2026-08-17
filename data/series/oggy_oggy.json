@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oggy_oggy",
+  "title": "Oggy Oggy",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108673340",
+    "imdb": "tt11194006",
+    "tmdb": 131721
+  },
+  "last_updated": "2026-08-17"
+}

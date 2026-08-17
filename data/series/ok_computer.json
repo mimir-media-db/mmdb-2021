@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ok_computer",
+  "title": "OK Computer",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106238842",
+    "imdb": "tt14182442",
+    "tmdb": 120353
+  },
+  "last_updated": "2026-08-17"
+}
