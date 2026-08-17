@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_terapia_alternativa",
+  "title": "Terapia alternativa",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q105098272",
+    "imdb": "tt15350022",
+    "tmdb": 127942
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

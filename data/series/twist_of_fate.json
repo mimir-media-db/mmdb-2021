@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twist_of_fate",
+  "title": "Twist of Fate",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107356050",
+    "imdb": "tt14411816",
+    "tmdb": 125527
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

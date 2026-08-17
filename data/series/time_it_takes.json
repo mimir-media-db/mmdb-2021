@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time_it_takes",
+  "title": "The Time It Takes",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108395509",
+    "imdb": "tt13322938",
+    "tmdb": 127426
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

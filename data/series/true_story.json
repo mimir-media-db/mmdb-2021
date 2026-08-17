@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_true_story",
+  "title": "True Story",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109297644",
+    "imdb": "tt13655456",
+    "tmdb": 134029
+  },
+  "last_updated": "2026-08-17"
+}

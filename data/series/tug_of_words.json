@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tug_of_words",
+  "title": "Tug of Words",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110625336",
+    "imdb": "tt15127492",
+    "tmdb": 137007
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 130
+}

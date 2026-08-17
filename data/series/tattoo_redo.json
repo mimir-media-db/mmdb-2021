@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tattoo_redo",
+  "title": "Tattoo Redo",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q117019897",
+    "imdb": "tt14956090",
+    "tmdb": 128254
+  },
+  "last_updated": "2026-08-17"
+}

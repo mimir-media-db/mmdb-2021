@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time",
+  "title": "Time",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107324744",
+    "imdb": "tt13138834",
+    "tmdb": 126116
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}
