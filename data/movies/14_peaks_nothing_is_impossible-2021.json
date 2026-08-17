@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_peaks_nothing_is_impossible_2021",
+  "title": "14 Peaks: Nothing Is Impossible",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109570530",
+    "imdb": "tt14079374",
+    "tmdb": 890825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 101
+}

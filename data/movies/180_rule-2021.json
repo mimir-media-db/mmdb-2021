@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_180_rule_2021",
+  "title": "The 180° Rule",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105436193",
+    "imdb": "tt12800946",
+    "tmdb": 728883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-01",
+  "runtime_minutes": 83
+}
