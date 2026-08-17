@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_viisukupla_eurovisionsbubblan",
+  "title": "Viisukupla – Eurovisionsbubblan",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111662716",
+    "imdb": "tt14607158"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vollies",
+  "title": "Vollies",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110995652",
+    "imdb": "tt15719746",
+    "tmdb": 220560
+  },
+  "last_updated": "2026-08-17"
+}

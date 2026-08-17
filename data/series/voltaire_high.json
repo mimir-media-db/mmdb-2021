@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_voltaire_high",
+  "title": "Voltaire High",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107774121",
+    "imdb": "tt11243112",
+    "tmdb": 121460
+  },
+  "last_updated": "2026-08-17"
+}
