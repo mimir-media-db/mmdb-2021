@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_911_inside_the_presidents_war_room_2021",
+  "title": "9/11: Inside the President's War Room",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108493270",
+    "imdb": "tt15010478",
+    "tmdb": 848981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-01",
+  "runtime_minutes": 90
+}
