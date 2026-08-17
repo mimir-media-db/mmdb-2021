@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ragdoll",
+  "title": "Ragdoll",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107203092",
+    "imdb": "tt14129418",
+    "tmdb": 135156
+  },
+  "last_updated": "2026-08-17"
+}

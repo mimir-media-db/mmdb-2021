@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rashash",
+  "title": "Rashash",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107394818",
+    "imdb": "tt13773600",
+    "tmdb": 117539
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

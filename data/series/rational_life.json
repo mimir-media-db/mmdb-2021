@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rational_life",
+  "title": "The Rational Life",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106502624",
+    "imdb": "tt14376958",
+    "tmdb": 122206
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

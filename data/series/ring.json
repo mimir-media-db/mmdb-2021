@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ring",
+  "title": "The Ring",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114049840",
+    "imdb": "tt21094564"
+  },
+  "last_updated": "2026-08-17"
+}

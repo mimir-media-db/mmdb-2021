@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_racket_boys",
+  "title": "Racket Boys",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105987655",
+    "imdb": "tt14482414",
+    "tmdb": 125437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reality_shore",
+  "title": "Reality Shore",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111950358",
+    "imdb": "tt24851318",
+    "tmdb": 153246
+  },
+  "last_updated": "2026-08-17"
+}
