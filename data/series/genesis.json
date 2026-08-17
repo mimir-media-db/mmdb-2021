@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_genesis",
+  "title": "Gênesis",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q62267357",
+    "imdb": "tt11737102",
+    "tmdb": 115645
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 220
+}

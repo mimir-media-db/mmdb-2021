@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gabbys_dollhouse",
+  "title": "Gabby's Dollhouse",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104857863",
+    "imdb": "tt9165438",
+    "tmdb": 111474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 81
+}

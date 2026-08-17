@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_of_talents",
+  "title": "Game of Talents",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105742641",
+    "imdb": "tt13629660",
+    "tmdb": 119192
+  },
+  "last_updated": "2026-08-17"
+}

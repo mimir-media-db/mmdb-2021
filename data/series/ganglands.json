@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ganglands",
+  "title": "Ganglands",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108752016",
+    "imdb": "tt13278100",
+    "tmdb": 130523
+  },
+  "last_updated": "2026-08-17"
+}

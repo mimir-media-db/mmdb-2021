@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gobig_show",
+  "title": "Go-Big Show",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104906948",
+    "imdb": "tt13063890",
+    "tmdb": 114347
+  },
+  "last_updated": "2026-08-17"
+}

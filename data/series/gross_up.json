@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gross_up",
+  "title": "Gross Up",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110874425",
+    "imdb": "tt17677766"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

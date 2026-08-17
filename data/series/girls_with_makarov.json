@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_with_makarov",
+  "title": "Girls with Makarov",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q107121201",
+    "imdb": "tt14283008",
+    "tmdb": 119058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 100
+}
