@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quel_genio_del_mio_amico_2021",
+  "title": "Quel genio del mio amico",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111817113",
+    "imdb": "tt10189338",
+    "tmdb": 1158766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

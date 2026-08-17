@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qismat_2_2021",
+  "title": "Qismat 2",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104883915",
+    "imdb": "tt11173160",
+    "tmdb": 860878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 154
+}

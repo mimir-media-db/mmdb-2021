@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queenpins_2021",
+  "title": "Queenpins",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105102560",
+    "imdb": "tt9054192",
+    "tmdb": 628914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 110
+}
