@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abdelinho_2021",
+  "title": "Abdelinho",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120892481",
+    "imdb": "tt15022626",
+    "tmdb": 958282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30"
+}

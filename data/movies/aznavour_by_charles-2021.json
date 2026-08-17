@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aznavour_by_charles_2021",
+  "title": "Aznavour by Charles",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100931010",
+    "imdb": "tt10749896",
+    "tmdb": 620039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11",
+  "runtime_minutes": 83
+}

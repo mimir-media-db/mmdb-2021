@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arjuna_phalguna_2021",
+  "title": "Arjuna Phalguna",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110324428",
+    "imdb": "tt14072690",
+    "tmdb": 889057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31"
+}

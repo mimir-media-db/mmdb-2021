@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_in_the_wall_2021",
+  "title": "The Angel in the Wall",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109802388",
+    "imdb": "tt10936700",
+    "tmdb": 912367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-04"
+}

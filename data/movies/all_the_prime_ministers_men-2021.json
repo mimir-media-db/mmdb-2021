@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_prime_ministers_men_2021",
+  "title": "All The Prime Minister's Men",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105254539",
+    "imdb": "tt14014162"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-01",
+  "runtime_minutes": 60
+}

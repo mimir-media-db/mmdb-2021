@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_through_the_looking_2021",
+  "title": "Alice, Through the Looking",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121788210",
+    "imdb": "tt14372154",
+    "tmdb": 884796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-12",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_another_training_2021",
+  "title": "Another Training",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841491",
+    "imdb": "tt21654328",
+    "tmdb": 936559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-06"
+}

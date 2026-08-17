@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amira_2021",
+  "title": "Amira",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108907348",
+    "imdb": "tt12244822",
+    "tmdb": 796162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03"
+}

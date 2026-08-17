@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adolf_muschg_der_andere_2021",
+  "title": "Adolf Muschg – der Andere",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136445623",
+    "imdb": "tt15413986",
+    "tmdb": 871779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 86
+}

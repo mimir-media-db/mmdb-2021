@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akoni_2021",
+  "title": "Akoni",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599849",
+    "imdb": "tt6231022",
+    "tmdb": 862218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

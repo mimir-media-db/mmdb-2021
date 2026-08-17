@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ayudia_and_her_way_home_2021",
+  "title": "Ayudia and Her Way Home",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083988",
+    "imdb": "tt15772288",
+    "tmdb": 802229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18"
+}

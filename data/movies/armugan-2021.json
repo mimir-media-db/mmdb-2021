@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armugan_2021",
+  "title": "Armugan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110099675",
+    "imdb": "tt11123316",
+    "tmdb": 771039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 91
+}

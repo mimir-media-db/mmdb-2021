@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_girl_2021",
+  "title": "American Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110256578",
+    "imdb": "tt15620158",
+    "tmdb": 878987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anne_2021",
+  "title": "Anne+",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110934740",
+    "imdb": "tt15420598",
+    "tmdb": 808579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 94
+}

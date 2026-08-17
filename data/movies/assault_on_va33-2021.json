@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assault_on_va33_2021",
+  "title": "Assault on VA-33",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737470",
+    "imdb": "tt12064810",
+    "tmdb": 797294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

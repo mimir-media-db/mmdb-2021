@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abducted_2021",
+  "title": "Abducted",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107999742",
+    "imdb": "tt12717808",
+    "tmdb": 857561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anything_for_jackson_2021",
+  "title": "Anything for Jackson",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106610552",
+    "imdb": "tt12137964",
+    "tmdb": 734353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-16"
+}

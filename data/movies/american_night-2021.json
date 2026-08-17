@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_night_2021",
+  "title": "American Night",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104723006",
+    "imdb": "tt5344054",
+    "tmdb": 695080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_attorney_2021",
+  "title": "The Attorney",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65053683",
+    "imdb": "tt15845710",
+    "tmdb": 597305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

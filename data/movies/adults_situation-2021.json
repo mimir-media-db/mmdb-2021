@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adults_situation_2021",
+  "title": "Adult's Situation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109358344",
+    "imdb": "tt13863260",
+    "tmdb": 740455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_my_puny_sorrows_2021",
+  "title": "All My Puny Sorrows",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105729539",
+    "imdb": "tt13588156",
+    "tmdb": 782092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-10",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_our_fears_2021",
+  "title": "All Our Fears",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107695547",
+    "imdb": "tt15062588",
+    "tmdb": 878327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

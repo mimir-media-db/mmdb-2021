@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anais_in_love_2021",
+  "title": "Anaïs in Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108545088",
+    "imdb": "tt13142240",
+    "tmdb": 781453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 98
+}

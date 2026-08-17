@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_algo_se_enciende_2021",
+  "title": "Algo se enciende",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109674909",
+    "imdb": "tt14342782",
+    "tmdb": 805128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-23",
+  "runtime_minutes": 62
+}

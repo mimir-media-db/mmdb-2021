@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audible_2021",
+  "title": "Audible",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110313324",
+    "imdb": "tt12771540",
+    "tmdb": 820492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01",
+  "runtime_minutes": 39
+}

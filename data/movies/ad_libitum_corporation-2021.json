@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ad_libitum_corporation_2021",
+  "title": "Ad Libitum Corporation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105071450",
+    "imdb": "tt13958700",
+    "tmdb": 650743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-28",
+  "runtime_minutes": 87
+}

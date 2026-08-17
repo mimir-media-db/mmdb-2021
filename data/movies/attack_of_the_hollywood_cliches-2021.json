@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_of_the_hollywood_cliches_2021",
+  "title": "Attack of the Hollywood Clichés!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129262302",
+    "imdb": "tt15292806",
+    "tmdb": 877657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}
