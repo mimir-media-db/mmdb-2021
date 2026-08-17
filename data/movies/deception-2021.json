@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deception_2021",
+  "title": "Deception",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104880067",
+    "imdb": "tt13613056",
+    "tmdb": 774343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-22",
+  "runtime_minutes": 102
+}

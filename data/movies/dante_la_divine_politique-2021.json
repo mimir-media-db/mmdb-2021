@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dante_la_divine_politique_2021",
+  "title": "Dante, la divine politique",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132732504",
+    "imdb": "tt16673726",
+    "tmdb": 920851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

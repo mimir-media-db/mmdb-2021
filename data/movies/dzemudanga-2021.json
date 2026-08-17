@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dzemudanga_2021",
+  "title": "Dzemudanga",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138943990",
+    "imdb": "tt41491675",
+    "tmdb": 1664463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-18",
+  "runtime_minutes": 61
+}

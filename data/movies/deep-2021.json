@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_2021",
+  "title": "Deep",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107570735",
+    "imdb": "tt14880258",
+    "tmdb": 842171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deer_king_2021",
+  "title": "The Deer King",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106707387",
+    "imdb": "tt11417856",
+    "tmdb": 633844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-14",
+  "runtime_minutes": 113
+}

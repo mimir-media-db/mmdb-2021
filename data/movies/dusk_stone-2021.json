@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dusk_stone_2021",
+  "title": "Dusk Stone",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119060021",
+    "imdb": "tt15131926",
+    "tmdb": 744391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 87
+}

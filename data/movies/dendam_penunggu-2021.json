@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dendam_penunggu_2021",
+  "title": "Dendam Penunggu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109586000",
+    "tmdb": 895210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-05"
+}

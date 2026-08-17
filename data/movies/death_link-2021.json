@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_link_2021",
+  "title": "Death Link",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124213944",
+    "imdb": "tt12503602",
+    "tmdb": 906460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

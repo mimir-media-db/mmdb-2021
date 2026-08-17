@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhamaka_2021",
+  "title": "Dhamaka",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104834950",
+    "imdb": "tt13510660",
+    "tmdb": 767377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19"
+}

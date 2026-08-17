@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dartagnan_and_the_three_musketeers_the_true_story_2021",
+  "title": "D'Artagnan and the Three Musketeers: The True Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109042460",
+    "imdb": "tt14430538",
+    "tmdb": 796981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 91
+}

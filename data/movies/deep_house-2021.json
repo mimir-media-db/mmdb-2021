@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_house_2021",
+  "title": "The Deep House",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105081740",
+    "imdb": "tt11686490",
+    "tmdb": 672582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-30",
+  "runtime_minutes": 85
+}

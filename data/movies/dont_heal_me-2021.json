@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_heal_me_2021",
+  "title": "Don't Heal Me",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106640474",
+    "imdb": "tt9376118",
+    "tmdb": 587632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-14",
+  "runtime_minutes": 88
+}

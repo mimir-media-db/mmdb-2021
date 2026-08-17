@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demain_est_a_nous_2021",
+  "title": "Demain est à nous",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100052082",
+    "imdb": "tt9420080",
+    "tmdb": 615821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 84
+}

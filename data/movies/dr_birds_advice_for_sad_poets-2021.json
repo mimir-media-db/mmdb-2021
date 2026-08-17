@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_birds_advice_for_sad_poets_2021",
+  "title": "Dr. Bird's Advice for Sad Poets",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104872833",
+    "imdb": "tt3301314",
+    "tmdb": 533705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-12",
+  "runtime_minutes": 110
+}

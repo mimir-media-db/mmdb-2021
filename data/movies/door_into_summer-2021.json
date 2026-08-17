@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_door_into_summer_2021",
+  "title": "The Door into Summer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110190783",
+    "imdb": "tt13757540",
+    "tmdb": 722798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-25",
+  "runtime_minutes": 118
+}

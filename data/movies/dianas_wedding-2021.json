@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dianas_wedding_2021",
+  "title": "Diana's Wedding",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107419695",
+    "imdb": "tt12877032",
+    "tmdb": 646371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 87
+}

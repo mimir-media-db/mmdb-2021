@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_der_krug_an_der_wiedau_2021",
+  "title": "Der Krug an der Wiedau",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113731765",
+    "tmdb": 1065666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-30"
+}

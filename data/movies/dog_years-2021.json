@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_years_2021",
+  "title": "Dog Years",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113957518",
+    "imdb": "tt14071882",
+    "tmdb": 806950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-22"
+}

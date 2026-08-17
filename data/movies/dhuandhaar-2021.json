@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhuandhaar_2021",
+  "title": "Dhuandhaar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108590786",
+    "imdb": "tt12284466",
+    "tmdb": 888465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-17"
+}

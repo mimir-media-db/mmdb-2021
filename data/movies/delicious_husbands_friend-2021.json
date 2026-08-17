@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_delicious_husbands_friend_2021",
+  "title": "A Delicious Husband's Friend",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842504",
+    "tmdb": 1016781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-23"
+}

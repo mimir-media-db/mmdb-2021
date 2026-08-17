@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_named_palma_2021",
+  "title": "A Dog Named Palma",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86677634",
+    "imdb": "tt8396480",
+    "tmdb": 583833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 110
+}

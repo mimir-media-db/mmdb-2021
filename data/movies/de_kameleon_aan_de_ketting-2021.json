@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_kameleon_aan_de_ketting_2021",
+  "title": "De Kameleon aan de ketting",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108166893",
+    "imdb": "tt12839638",
+    "tmdb": 843781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-27",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_look_up_2021",
+  "title": "Don't Look Up",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100361490",
+    "imdb": "tt11286314",
+    "tmdb": 646380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-05",
+  "runtime_minutes": 138
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diarios_de_cuarentena_2021",
+  "title": "Diarios de cuarentena",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123707549",
+    "imdb": "tt31912440",
+    "tmdb": 1373959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}
