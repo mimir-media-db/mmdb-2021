@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ace_troops",
+  "title": "Ace Troops",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106864316",
+    "imdb": "tt16752712",
+    "tmdb": 154181
+  },
+  "last_updated": "2026-08-17"
+}

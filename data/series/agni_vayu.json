@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_agni_vayu",
+  "title": "Agni Vayu",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105653824",
+    "imdb": "tt14044964",
+    "tmdb": 122389
+  },
+  "last_updated": "2026-08-17"
+}

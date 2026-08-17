@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aranyak",
+  "title": "Aranyak",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110529245",
+    "imdb": "tt14167344",
+    "tmdb": 128217
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_grace",
+  "title": "Amazing Grace",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104862798",
+    "imdb": "tt13151104",
+    "tmdb": 119925
+  },
+  "last_updated": "2026-08-17"
+}

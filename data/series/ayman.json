@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ayman",
+  "title": "Ayman",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106429226",
+    "imdb": "tt14352770",
+    "tmdb": 250831
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_newsroom",
+  "title": "America's Newsroom",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2842798",
+    "imdb": "tt31100478"
+  },
+  "last_updated": "2026-08-17"
+}

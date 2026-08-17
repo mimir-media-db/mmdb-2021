@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_abbott_elementary",
+  "title": "Abbott Elementary",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107072019",
+    "imdb": "tt14218830",
+    "tmdb": 125935
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 93
+}

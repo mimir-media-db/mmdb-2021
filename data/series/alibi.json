@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alibi",
+  "title": "Alibi",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60852529",
+    "imdb": "tt9134824",
+    "tmdb": 137031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

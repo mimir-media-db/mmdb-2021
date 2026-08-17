@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_auto",
+  "title": "American Auto",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109973849",
+    "imdb": "tt11717610",
+    "tmdb": 124641
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

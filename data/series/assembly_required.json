@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_assembly_required",
+  "title": "Assembly Required",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105928204",
+    "imdb": "tt13049934",
+    "tmdb": 118427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
