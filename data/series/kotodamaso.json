@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kotodamaso",
+  "title": "Kotodama-sô",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108260183",
+    "imdb": "tt15724068",
+    "tmdb": 135932
+  },
+  "last_updated": "2026-08-17"
+}

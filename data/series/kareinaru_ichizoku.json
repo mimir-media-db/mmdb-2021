@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kareinaru_ichizoku",
+  "title": "Karei-naru Ichizoku",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q97342235",
+    "tmdb": 123443
+  },
+  "last_updated": "2026-08-17"
+}

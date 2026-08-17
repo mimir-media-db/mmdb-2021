@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kitz",
+  "title": "Kitz",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108724987",
+    "imdb": "tt12104930",
+    "tmdb": 139799
+  },
+  "last_updated": "2026-08-17"
+}

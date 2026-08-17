@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_affection",
+  "title": "The King's Affection",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106466324",
+    "imdb": "tt14609428",
+    "tmdb": 129478
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

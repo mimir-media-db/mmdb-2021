@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kanzlei_berger",
+  "title": "Kanzlei Berger",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104413155",
+    "imdb": "tt13716808",
+    "tmdb": 118650
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kids_lives_matter",
+  "title": "Kids' Lives Matter",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q97299852",
+    "imdb": "tt22007744",
+    "tmdb": 136197
+  },
+  "last_updated": "2026-08-17"
+}

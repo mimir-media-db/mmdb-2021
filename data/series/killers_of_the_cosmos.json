@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_killers_of_the_cosmos",
+  "title": "Killers of the Cosmos",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109535386",
+    "imdb": "tt15334452",
+    "tmdb": 133445
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kbv_keine_besonderen_vorkommnisse",
+  "title": "KBV – Keine besonderen Vorkommnisse",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105710317",
+    "imdb": "tt13959642",
+    "tmdb": 120162
+  },
+  "last_updated": "2026-08-17"
+}

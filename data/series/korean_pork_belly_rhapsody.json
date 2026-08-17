@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_korean_pork_belly_rhapsody",
+  "title": "Korean Pork Belly Rhapsody",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104857335",
+    "imdb": "tt14017966",
+    "tmdb": 115947
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_klutch_academy",
+  "title": "Klutch Academy",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109536950",
+    "imdb": "tt15875512",
+    "tmdb": 139546
+  },
+  "last_updated": "2026-08-17"
+}

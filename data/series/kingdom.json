@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom",
+  "title": "Kingdom",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q97420413",
+    "imdb": "tt13940632",
+    "tmdb": 118895
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

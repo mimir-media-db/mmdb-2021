@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_katla",
+  "title": "Katla",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107210735",
+    "imdb": "tt11102190",
+    "tmdb": 104157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
