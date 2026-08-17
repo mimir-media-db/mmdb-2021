@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_icarly",
+  "title": "iCarly",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106091490",
+    "imdb": "tt13657062",
+    "tmdb": 119243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

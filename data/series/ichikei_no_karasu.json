@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ichikei_no_karasu",
+  "title": "Ichikei no Karasu",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104112040",
+    "imdb": "tt14405344",
+    "tmdb": 122579
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

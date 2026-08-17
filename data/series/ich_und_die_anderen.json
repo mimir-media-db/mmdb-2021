@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ich_und_die_anderen",
+  "title": "Ich und die Anderen",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105667135",
+    "imdb": "tt12001350",
+    "tmdb": 128960
+  },
+  "last_updated": "2026-08-17"
+}

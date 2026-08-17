@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_killed_my_husband",
+  "title": "I killed my husband",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111209544",
+    "imdb": "tt15823312",
+    "tmdb": 139620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

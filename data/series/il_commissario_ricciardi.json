@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_commissario_ricciardi",
+  "title": "Il commissario Ricciardi",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105438370",
+    "imdb": "tt11162652",
+    "tmdb": 116179
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 14
+}

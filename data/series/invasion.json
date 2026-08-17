@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_invasion",
+  "title": "Invasion",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60787909",
+    "imdb": "tt9737326",
+    "tmdb": 127235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}
