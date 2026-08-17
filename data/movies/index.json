@@ -10142,6 +10142,14 @@
     "path": "data/movies/freaks_out-2021.json"
   },
   {
+    "id": "m_freakscene_the_story_of_dinosaur_jr_2021",
+    "title": "Freakscene – The Story of Dinosaur Jr.",
+    "year": 2021,
+    "type": "movie",
+    "runtime_minutes": 82,
+    "path": "data/movies/freakscene_the_story_of_dinosaur_jr-2021.json"
+  },
+  {
     "id": "m_freaky_2021",
     "title": "Freaky",
     "year": 2021,
