@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_quanto_mais_vida_melhor",
+  "title": "Quanto Mais Vida, Melhor!",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108923718",
+    "imdb": "tt14674042",
+    "tmdb": 139009
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 161
+}
