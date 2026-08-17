@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vo_svyatoho_mykolaya_2021",
+  "title": "V.o. Svyatoho Mykolaya",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97168156",
+    "imdb": "tt16430516",
+    "tmdb": 912927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-16",
+  "runtime_minutes": 75
+}

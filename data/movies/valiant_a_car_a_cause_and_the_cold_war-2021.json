@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valiant_a_car_a_cause_and_the_cold_war_2021",
+  "title": "Valiant! A Car, a Cause, and the Cold War",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130608056",
+    "imdb": "tt16984906",
+    "tmdb": 896880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viter_zi_shodu_2021",
+  "title": "Viter zi shodu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574048",
+    "imdb": "tt15438732",
+    "tmdb": 874975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-16",
+  "runtime_minutes": 87
+}

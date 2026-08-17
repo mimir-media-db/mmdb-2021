@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vault_2021",
+  "title": "The Vault",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105112819",
+    "imdb": "tt9742794",
+    "tmdb": 630004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15",
+  "runtime_minutes": 118
+}

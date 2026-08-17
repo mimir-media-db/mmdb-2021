@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacation_friends_2021",
+  "title": "Vacation Friends",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036255",
+    "imdb": "tt3626476",
+    "tmdb": 653349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-27",
+  "runtime_minutes": 103
+}

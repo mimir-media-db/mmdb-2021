@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_val_2021",
+  "title": "Val",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107202403",
+    "imdb": "tt14731254",
+    "tmdb": 834027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-06",
+  "runtime_minutes": 108
+}

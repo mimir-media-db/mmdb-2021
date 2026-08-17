@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vidkill_2021",
+  "title": "Vidkill",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103235",
+    "imdb": "tt16246920",
+    "tmdb": 903511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-09",
+  "runtime_minutes": 82
+}

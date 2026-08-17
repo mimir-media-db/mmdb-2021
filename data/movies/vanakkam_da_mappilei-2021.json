@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanakkam_da_mappilei_2021",
+  "title": "Vanakkam Da Mappilei",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106679069",
+    "imdb": "tt14110690",
+    "tmdb": 818491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-16"
+}

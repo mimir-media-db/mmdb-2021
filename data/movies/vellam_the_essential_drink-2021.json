@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vellam_the_essential_drink_2021",
+  "title": "Vellam: The Essential Drink",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96413688",
+    "imdb": "tt9808510",
+    "tmdb": 788962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22"
+}

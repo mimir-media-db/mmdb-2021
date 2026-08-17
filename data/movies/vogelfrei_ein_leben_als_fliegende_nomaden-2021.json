@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vogelfrei_ein_leben_als_fliegende_nomaden_2021",
+  "title": "Vogelfrei – Ein Leben als fliegende Nomaden",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106485240",
+    "imdb": "tt14652616",
+    "tmdb": 856435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-08",
+  "runtime_minutes": 112
+}

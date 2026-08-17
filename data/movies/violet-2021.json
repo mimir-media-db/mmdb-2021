@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_violet_2021",
+  "title": "Violet",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73547295",
+    "imdb": "tt6852672",
+    "tmdb": 665901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}
