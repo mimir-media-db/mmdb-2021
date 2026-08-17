@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_crackdown",
+  "title": "Crime Crackdown",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108325013",
+    "imdb": "tt15199554",
+    "tmdb": 130838
+  },
+  "last_updated": "2026-08-17"
+}

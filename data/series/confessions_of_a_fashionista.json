@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_confessions_of_a_fashionista",
+  "title": "Confessions of a Fashionista",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q100258242",
+    "imdb": "tt19838606",
+    "tmdb": 209425
+  },
+  "last_updated": "2026-08-17"
+}

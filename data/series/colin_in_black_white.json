@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_colin_in_black_white",
+  "title": "Colin in Black & White",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108314555",
+    "imdb": "tt12624928",
+    "tmdb": 118169
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

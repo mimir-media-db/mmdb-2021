@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_country_comfort",
+  "title": "Country Comfort",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105620318",
+    "imdb": "tt11717394",
+    "tmdb": 119180
+  },
+  "last_updated": "2026-08-17"
+}

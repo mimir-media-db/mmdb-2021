@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cbs_mornings",
+  "title": "CBS Mornings",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108382716",
+    "imdb": "tt15383132",
+    "tmdb": 216247
+  },
+  "last_updated": "2026-08-17"
+}

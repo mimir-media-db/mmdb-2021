@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_club_soly",
+  "title": "Club Soly",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114648113",
+    "imdb": "tt16983062",
+    "tmdb": 131201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 37
+}

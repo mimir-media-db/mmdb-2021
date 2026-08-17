@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_with_paris",
+  "title": "Cooking with Paris",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107695062",
+    "imdb": "tt15036422",
+    "tmdb": 129024
+  },
+  "last_updated": "2026-08-17"
+}

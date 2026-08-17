@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_letters_and_numbers",
+  "title": "Celebrity Letters and Numbers",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108795586",
+    "imdb": "tt15533298",
+    "tmdb": 135684
+  },
+  "last_updated": "2026-08-17"
+}

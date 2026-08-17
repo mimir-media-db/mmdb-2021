@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_casa_tutti_bene_la_serie",
+  "title": "A casa tutti bene - La serie",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110239084",
+    "imdb": "tt16453324"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

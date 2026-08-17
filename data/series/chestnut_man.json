@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chestnut_man",
+  "title": "The Chestnut Man",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108817800",
+    "imdb": "tt10834220",
+    "tmdb": 127865
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_camp_kookiness",
+  "title": "Camp Kookiness",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121296185",
+    "imdb": "tt13393752",
+    "tmdb": 119344
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

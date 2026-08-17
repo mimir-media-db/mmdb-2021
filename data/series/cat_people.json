@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cat_people",
+  "title": "Cat People",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110608239",
+    "imdb": "tt14818454",
+    "tmdb": 127916
+  },
+  "last_updated": "2026-08-17"
+}

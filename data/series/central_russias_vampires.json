@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_central_russias_vampires",
+  "title": "Central Russia's Vampires",
+  "start_year": 2021,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q105682200",
+    "imdb": "tt10922010",
+    "tmdb": 105136
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

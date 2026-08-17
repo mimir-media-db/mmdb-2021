@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cops_on_the_rock",
+  "title": "Cops On The Rock",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111977324",
+    "imdb": "tt16250338",
+    "tmdb": 139832
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_canine_intervention",
+  "title": "Canine Intervention",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105690801",
+    "imdb": "tt13932598",
+    "tmdb": 117656
+  },
+  "last_updated": "2026-08-17"
+}
