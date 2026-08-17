@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_unbeugsamen_2021",
+  "title": "Die Unbeugsamen",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87399204",
+    "imdb": "tt11906472",
+    "tmdb": 679658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 99
+}

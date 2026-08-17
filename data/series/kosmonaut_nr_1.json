@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_kosmonaut_nr_1",
+  "title": "Kosmonaut Nr. 1",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108622804"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wikipedia_and_the_democratisation_of_knowledge_2021",
+  "title": "Wikipedia and the Democratisation of Knowledge",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104641056",
+    "imdb": "tt13786256",
+    "tmdb": 782876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 52
+}

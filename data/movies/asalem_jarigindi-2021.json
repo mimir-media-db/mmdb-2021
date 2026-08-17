@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asalem_jarigindi_2021",
+  "title": "Asalem Jarigindi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123557963",
+    "imdb": "tt14053010",
+    "tmdb": 903692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-22"
+}

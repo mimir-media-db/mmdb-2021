@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superintelligence_2021",
+  "title": "Superintelligence",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55696425",
+    "imdb": "tt7178640",
+    "tmdb": 521007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-13"
+}

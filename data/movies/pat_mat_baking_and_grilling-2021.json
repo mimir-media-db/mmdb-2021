@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pat_mat_baking_and_grilling_2021",
+  "title": "Pat & Mat: Baking and Grilling!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136763399",
+    "imdb": "tt14825006",
+    "tmdb": 782886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-03",
+  "runtime_minutes": 60
+}

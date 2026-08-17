@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_penguins_2021",
+  "title": "Love And Penguins",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600030",
+    "imdb": "tt15051960",
+    "tmdb": 857851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

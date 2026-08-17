@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_hot_night_opens_2_2021",
+  "title": "When a Hot Night Opens 2",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841483",
+    "imdb": "tt30222520",
+    "tmdb": 932624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-29"
+}

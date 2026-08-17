@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neubau_2021",
+  "title": "Neubau",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99542313",
+    "imdb": "tt11443398",
+    "tmdb": 655527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_in_cerro_hueso_2021",
+  "title": "A School in Cerro Hueso",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107370804",
+    "imdb": "tt14043948",
+    "tmdb": 794789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crock_of_gold_a_few_rounds_with_shane_macgowan_2021",
+  "title": "Crock of Gold: A Few Rounds with Shane MacGowan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107428439",
+    "imdb": "tt11778272",
+    "tmdb": 730506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-16",
+  "runtime_minutes": 124
+}

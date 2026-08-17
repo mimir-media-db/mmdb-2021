@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_nose_empty_pockets_2021",
+  "title": "Bloody Nose, Empty Pockets",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104777708",
+    "imdb": "tt11392114",
+    "tmdb": 605437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 88
+}

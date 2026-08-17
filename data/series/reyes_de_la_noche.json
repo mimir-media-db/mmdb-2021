@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reyes_de_la_noche",
+  "title": "Reyes de la noche",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106322098",
+    "imdb": "tt12782398",
+    "tmdb": 123277
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

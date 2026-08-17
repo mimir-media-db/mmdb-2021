@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_not_dead_we_the_people_2021",
+  "title": "God's Not Dead: We the People",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108314807",
+    "imdb": "tt14578032",
+    "tmdb": 793285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-04",
+  "runtime_minutes": 91
+}

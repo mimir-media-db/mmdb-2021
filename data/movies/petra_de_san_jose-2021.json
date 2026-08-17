@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petra_de_san_jose_2021",
+  "title": "Petra de San José",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126952959",
+    "imdb": "tt14060532",
+    "tmdb": 935625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 102
+}

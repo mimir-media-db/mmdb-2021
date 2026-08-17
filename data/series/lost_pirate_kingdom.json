@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_pirate_kingdom",
+  "title": "The Lost Pirate Kingdom",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105979399",
+    "imdb": "tt14057360",
+    "tmdb": 118815
+  },
+  "last_updated": "2026-08-17"
+}

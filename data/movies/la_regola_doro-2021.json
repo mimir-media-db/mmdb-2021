@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_regola_doro_2021",
+  "title": "La Regola d'Oro",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115500903",
+    "imdb": "tt10819076",
+    "tmdb": 660594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-26",
+  "runtime_minutes": 100
+}

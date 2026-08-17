@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anonymous_animals_2021",
+  "title": "Anonymous Animals",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108745973",
+    "imdb": "tt12901944",
+    "tmdb": 734322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 64
+}

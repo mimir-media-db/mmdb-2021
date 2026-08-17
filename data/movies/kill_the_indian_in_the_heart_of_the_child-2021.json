@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_the_indian_in_the_heart_of_the_child_2021",
+  "title": "Kill the Indian in the Heart of the Child",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112263949",
+    "imdb": "tt14432710",
+    "tmdb": 803841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 73
+}

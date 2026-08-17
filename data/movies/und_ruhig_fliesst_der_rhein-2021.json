@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_und_ruhig_fliesst_der_rhein_2021",
+  "title": "Und ruhig fliesst der Rhein",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112788476",
+    "imdb": "tt15374736",
+    "tmdb": 904133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-27",
+  "runtime_minutes": 104
+}

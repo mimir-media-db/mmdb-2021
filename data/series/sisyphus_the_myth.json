@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sisyphus_the_myth",
+  "title": "Sisyphus: The Myth",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104216669",
+    "imdb": "tt13715448",
+    "tmdb": 113622
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

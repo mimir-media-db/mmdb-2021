@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_an_invisible_girl_2021",
+  "title": "Confessions of an Invisible Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108294646",
+    "imdb": "tt15204288",
+    "tmdb": 786705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-22"
+}

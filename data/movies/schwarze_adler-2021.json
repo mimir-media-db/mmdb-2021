@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schwarze_adler_2021",
+  "title": "Schwarze Adler",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106601197",
+    "imdb": "tt14149744",
+    "tmdb": 818563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-15",
+  "runtime_minutes": 100
+}

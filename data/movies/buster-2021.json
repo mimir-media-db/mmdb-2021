@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buster_2021",
+  "title": "Buster",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106595928",
+    "imdb": "tt14416450",
+    "tmdb": 839095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-17",
+  "runtime_minutes": 92
+}

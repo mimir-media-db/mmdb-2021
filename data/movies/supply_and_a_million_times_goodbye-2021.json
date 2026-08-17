@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supply_and_a_million_times_goodbye_2021",
+  "title": "Supply and a million times goodbye",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311147",
+    "imdb": "tt16984494"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 17
+}

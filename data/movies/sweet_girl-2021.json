@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_girl_2021",
+  "title": "Sweet Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83957187",
+    "imdb": "tt10731768",
+    "tmdb": 619297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

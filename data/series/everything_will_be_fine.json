@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_everything_will_be_fine",
+  "title": "Everything Will Be Fine",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q111676977",
+    "imdb": "tt15101964",
+    "tmdb": 129675
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

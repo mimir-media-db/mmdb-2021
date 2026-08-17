@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tribhanga_2021",
+  "title": "Tribhanga",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85847850",
+    "imdb": "tt11102314",
+    "tmdb": 744991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15",
+  "runtime_minutes": 95
+}

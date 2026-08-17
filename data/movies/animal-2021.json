@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_2021",
+  "title": "Animal",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107468438",
+    "imdb": "tt11348980",
+    "tmdb": 842354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 105
+}

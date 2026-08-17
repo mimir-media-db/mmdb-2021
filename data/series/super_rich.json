@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_super_rich",
+  "title": "SUPER RICH",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108210413",
+    "imdb": "tt15655208",
+    "tmdb": 136265
+  },
+  "last_updated": "2026-08-17"
+}

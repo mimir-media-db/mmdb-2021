@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wheel_of_time",
+  "title": "The Wheel of Time",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q60746841",
+    "imdb": "tt7462410",
+    "tmdb": 71914
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

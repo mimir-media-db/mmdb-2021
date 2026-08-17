@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuidando_al_sol_2021",
+  "title": "Cuidando al Sol",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135686649",
+    "imdb": "tt8940822",
+    "tmdb": 887605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luizenmoeder_2021",
+  "title": "Luizenmoeder",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114312606",
+    "imdb": "tt13323330",
+    "tmdb": 830426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-28"
+}

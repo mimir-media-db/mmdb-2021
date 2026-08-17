@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_head_of_the_class",
+  "title": "Head of the Class",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109511200",
+    "imdb": "tt12708514",
+    "tmdb": 122197
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_alle_das_dorf_2021",
+  "title": "Wir alle. Das Dorf",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107428242",
+    "imdb": "tt10692702",
+    "tmdb": 787939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-18",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_japan_sinks_people_of_hope",
+  "title": "Japan Sinks: People of Hope",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104879228",
+    "imdb": "tt15567434",
+    "tmdb": 135144
+  },
+  "last_updated": "2026-08-17"
+}

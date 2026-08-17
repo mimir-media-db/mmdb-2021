@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whispering_corridors_6_the_humming_2021",
+  "title": "Whispering Corridors 6: The Humming",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96384351",
+    "imdb": "tt14821640",
+    "tmdb": 602288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-17",
+  "runtime_minutes": 108
+}

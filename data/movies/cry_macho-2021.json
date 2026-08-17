@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cry_macho_2021",
+  "title": "Cry Macho",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103817549",
+    "imdb": "tt1924245",
+    "tmdb": 749274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-16",
+  "runtime_minutes": 104
+}

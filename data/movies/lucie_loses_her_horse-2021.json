@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucie_loses_her_horse_2021",
+  "title": "Lucie Loses Her Horse",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116511045",
+    "imdb": "tt15261064",
+    "tmdb": 872160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 81
+}

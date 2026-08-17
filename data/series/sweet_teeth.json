@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_teeth",
+  "title": "Sweet Teeth",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108166465",
+    "imdb": "tt15353666",
+    "tmdb": 128715
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

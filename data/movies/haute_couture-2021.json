@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haute_couture_2021",
+  "title": "Haute Couture",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98078389",
+    "imdb": "tt11610804",
+    "tmdb": 719463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

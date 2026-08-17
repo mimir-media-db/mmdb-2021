@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kjre_landsmenn",
+  "title": "Kjære landsmenn",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108602416",
+    "imdb": "tt15338058",
+    "tmdb": 132534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

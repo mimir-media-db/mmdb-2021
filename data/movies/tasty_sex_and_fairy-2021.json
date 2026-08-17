@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tasty_sex_and_fairy_2021",
+  "title": "Tasty Sex and Fairy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841580",
+    "imdb": "tt17678860",
+    "tmdb": 1016311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12"
+}

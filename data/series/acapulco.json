@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_acapulco",
+  "title": "Acapulco",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106639092",
+    "imdb": "tt13567344",
+    "tmdb": 133727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

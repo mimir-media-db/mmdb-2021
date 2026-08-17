@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gaon_ra_na_galuapur_2021",
+  "title": "Gaon Ra Na Galuapur",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109460159",
+    "imdb": "tt15716672"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-15"
+}

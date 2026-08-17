@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slumber_party_massacre_2021",
+  "title": "Slumber Party Massacre",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106651948",
+    "imdb": "tt14449392",
+    "tmdb": 818543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-27",
+  "runtime_minutes": 86
+}

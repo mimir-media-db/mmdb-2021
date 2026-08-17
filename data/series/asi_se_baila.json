@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_asi_se_baila",
+  "title": "Así se baila",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108730570",
+    "imdb": "tt15552176"
+  },
+  "last_updated": "2026-08-17"
+}

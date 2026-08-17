@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_exam_2021",
+  "title": "Final Exam",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109727255",
+    "imdb": "tt11319188",
+    "tmdb": 810020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-20"
+}

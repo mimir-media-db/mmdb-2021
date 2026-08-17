@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_because_of_charley_2021",
+  "title": "Because of Charley",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112957840",
+    "imdb": "tt13403304",
+    "tmdb": 809989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-09"
+}

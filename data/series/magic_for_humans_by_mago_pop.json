@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_for_humans_by_mago_pop",
+  "title": "Magic for Humans by Mago Pop",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106246123",
+    "imdb": "tt14136320",
+    "tmdb": 121424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

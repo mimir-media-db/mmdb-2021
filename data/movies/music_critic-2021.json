@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_critic_2021",
+  "title": "The Music Critic",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121334964",
+    "imdb": "tt14444756",
+    "tmdb": 789412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 75
+}

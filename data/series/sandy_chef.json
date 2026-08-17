@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sandy_chef",
+  "title": "Sandy + Chef",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109564212",
+    "imdb": "tt15866392",
+    "tmdb": 137209
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

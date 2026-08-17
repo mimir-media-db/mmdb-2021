@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_called_christmas_2021",
+  "title": "A Boy Called Christmas",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65057444",
+    "imdb": "tt10187208",
+    "tmdb": 615666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 106
+}

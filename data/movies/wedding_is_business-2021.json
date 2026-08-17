@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_is_business_2021",
+  "title": "Wedding is Business",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841563",
+    "tmdb": 853372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-19"
+}

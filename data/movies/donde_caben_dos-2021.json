@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donde_caben_dos_2021",
+  "title": "Donde caben dos",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107073859",
+    "imdb": "tt6925902",
+    "tmdb": 763152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 100
+}

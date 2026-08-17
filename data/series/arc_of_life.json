@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arc_of_life",
+  "title": "The Arc of Life",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q97162349",
+    "imdb": "tt14124502",
+    "tmdb": 117760
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

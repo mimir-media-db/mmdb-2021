@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virtuoso_2021",
+  "title": "The Virtuoso",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101118878",
+    "imdb": "tt4136456",
+    "tmdb": 808023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

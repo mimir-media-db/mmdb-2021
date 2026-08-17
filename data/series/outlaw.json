@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_outlaw",
+  "title": "Outlaw",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q112117036",
+    "imdb": "tt15360056",
+    "tmdb": 133037
+  },
+  "last_updated": "2026-08-17"
+}

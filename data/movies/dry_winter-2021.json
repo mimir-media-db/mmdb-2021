@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dry_winter_2021",
+  "title": "Dry Winter",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599852",
+    "imdb": "tt9358826",
+    "tmdb": 643103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 63
+}

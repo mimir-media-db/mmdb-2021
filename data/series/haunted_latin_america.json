@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_latin_america",
+  "title": "Haunted: Latin America",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106328864",
+    "imdb": "tt14164238",
+    "tmdb": 120587
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hour_before_dawn",
+  "title": "An Hour before Dawn",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105609535",
+    "imdb": "tt14068428",
+    "tmdb": 126998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

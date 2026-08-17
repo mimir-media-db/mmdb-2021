@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_faire_lhistoire",
+  "title": "Faire l’histoire",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110834689",
+    "imdb": "tt14524698",
+    "tmdb": 125287
+  },
+  "last_updated": "2026-08-17"
+}

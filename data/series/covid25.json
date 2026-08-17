@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_covid25",
+  "title": "Covid-25",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106645061",
+    "imdb": "tt14544588",
+    "tmdb": 113433
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

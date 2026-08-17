@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unframed",
+  "title": "Unframed",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108597632",
+    "imdb": "tt15548278",
+    "tmdb": 132789
+  },
+  "last_updated": "2026-08-17"
+}

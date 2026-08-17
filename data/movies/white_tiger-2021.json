@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_tiger_2021",
+  "title": "The White Tiger",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101098258",
+    "imdb": "tt6571548",
+    "tmdb": 628534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-13",
+  "runtime_minutes": 125
+}

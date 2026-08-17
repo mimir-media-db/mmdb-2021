@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memoir_of_a_murderer_2021",
+  "title": "Memoir of a Murderer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21577091",
+    "imdb": "tt5729348",
+    "tmdb": 432836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-04",
+  "runtime_minutes": 118
+}

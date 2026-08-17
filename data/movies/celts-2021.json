@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_celts_2021",
+  "title": "Celts",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107816252",
+    "imdb": "tt10003618",
+    "tmdb": 795771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

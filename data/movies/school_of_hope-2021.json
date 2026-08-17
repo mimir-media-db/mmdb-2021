@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_of_hope_2021",
+  "title": "School of Hope",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113469661",
+    "imdb": "tt13690820",
+    "tmdb": 785933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-20",
+  "runtime_minutes": 78
+}

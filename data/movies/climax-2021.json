@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_climax_2021",
+  "title": "Climax",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112192720",
+    "imdb": "tt14097376",
+    "tmdb": 803852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-05"
+}

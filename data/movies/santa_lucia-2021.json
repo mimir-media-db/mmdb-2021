@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_lucia_2021",
+  "title": "Santa Lucia",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115973805",
+    "imdb": "tt16044704",
+    "tmdb": 1006126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_silencio_del_cazador_2021",
+  "title": "El silencio del cazador",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106582599",
+    "imdb": "tt11312968",
+    "tmdb": 649825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tandav_2021",
+  "title": "Tandav",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109519716",
+    "imdb": "tt14290306"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11"
+}

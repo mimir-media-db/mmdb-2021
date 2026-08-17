@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catweazle_2021",
+  "title": "Catweazle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84955009",
+    "imdb": "tt11286070",
+    "tmdb": 741664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01"
+}

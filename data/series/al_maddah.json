@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_al_maddah",
+  "title": "Al Maddah",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117846130",
+    "imdb": "tt15685516",
+    "tmdb": 122543
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mine",
+  "title": "Mine",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105940076",
+    "imdb": "tt14023192",
+    "tmdb": 124426
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_artificial_city",
+  "title": "Artificial City",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106393476",
+    "imdb": "tt14482486",
+    "tmdb": 138947
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giving_birth_to_a_butterfly_2021",
+  "title": "Giving Birth to a Butterfly",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120489576",
+    "imdb": "tt10175106",
+    "tmdb": 852865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-09",
+  "runtime_minutes": 77
+}

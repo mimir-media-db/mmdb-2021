@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kili_big_2021",
+  "title": "Kili Big",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111092445",
+    "imdb": "tt15192090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

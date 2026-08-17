@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zhena_oligarkha",
+  "title": "Zhena oligarkha",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112234349",
+    "imdb": "tt16294926",
+    "tmdb": 136243
+  },
+  "last_updated": "2026-08-17"
+}

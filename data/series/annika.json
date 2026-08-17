@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_annika",
+  "title": "Annika",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106609035",
+    "imdb": "tt13643704",
+    "tmdb": 130273
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

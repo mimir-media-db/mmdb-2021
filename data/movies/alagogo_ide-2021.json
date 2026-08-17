@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alagogo_ide_2021",
+  "title": "Alagogo Ide",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113453867",
+    "imdb": "tt18411746"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cane_malice_2021",
+  "title": "Cane Malice",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117265780",
+    "imdb": "tt15428738",
+    "tmdb": 826705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 76
+}

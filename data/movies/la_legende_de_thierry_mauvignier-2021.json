@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_legende_de_thierry_mauvignier_2021",
+  "title": "La légende de Thierry Mauvignier",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110227522",
+    "imdb": "tt16350250",
+    "tmdb": 928242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

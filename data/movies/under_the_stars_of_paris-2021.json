@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_stars_of_paris_2021",
+  "title": "Under the Stars of Paris",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100774045",
+    "imdb": "tt11188734",
+    "tmdb": 575293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-19",
+  "runtime_minutes": 90
+}

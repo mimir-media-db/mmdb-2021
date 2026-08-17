@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_premise",
+  "title": "The Premise",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108689571",
+    "imdb": "tt10731840",
+    "tmdb": 6850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

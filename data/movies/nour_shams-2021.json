@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nour_shams_2021",
+  "title": "Nour Shams",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133933550",
+    "imdb": "tt13769690",
+    "tmdb": 886164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

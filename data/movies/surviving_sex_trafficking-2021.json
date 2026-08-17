@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_sex_trafficking_2021",
+  "title": "Surviving Sex Trafficking",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116784012",
+    "imdb": "tt11691034",
+    "tmdb": 978885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23",
+  "runtime_minutes": 70
+}

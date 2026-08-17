@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pencil_to_the_jugular_2021",
+  "title": "A Pencil to the Jugular",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107675506",
+    "imdb": "tt14417622",
+    "tmdb": 819145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-22",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_refugee_2021",
+  "title": "American Refugee",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107324142",
+    "imdb": "tt14556184",
+    "tmdb": 827315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buddy_games_2021",
+  "title": "The Buddy Games",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61015509",
+    "imdb": "tt7070818",
+    "tmdb": 472815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12"
+}

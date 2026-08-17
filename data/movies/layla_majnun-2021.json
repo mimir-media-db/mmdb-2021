@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_layla_majnun_2021",
+  "title": "Layla Majnun",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97309137",
+    "imdb": "tt11313944",
+    "tmdb": 655830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-11"
+}

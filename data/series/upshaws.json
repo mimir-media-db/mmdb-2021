@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_upshaws",
+  "title": "The Upshaws",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106874761",
+    "imdb": "tt10945036",
+    "tmdb": 121509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 60
+}

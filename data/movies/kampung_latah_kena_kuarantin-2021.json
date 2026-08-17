@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kampung_latah_kena_kuarantin_2021",
+  "title": "Kampung Latah Kena Kuarantin",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108535722",
+    "imdb": "tt15392890",
+    "tmdb": 874386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09"
+}

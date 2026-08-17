@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drift_away_2021",
+  "title": "Drift Away",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72724848",
+    "imdb": "tt11781806",
+    "tmdb": 661591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accusation_2021",
+  "title": "The Accusation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106128995",
+    "imdb": "tt13285394",
+    "tmdb": 756603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 138
+}

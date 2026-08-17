@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_red_ribbon_2021",
+  "title": "The Red Ribbon",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113805354"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

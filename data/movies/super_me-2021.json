@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_me_2021",
+  "title": "Super Me",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65061093",
+    "imdb": "tt10097544",
+    "tmdb": 603768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_to_rescue_2021",
+  "title": "Mission to Rescue",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109239185",
+    "imdb": "tt15776638",
+    "tmdb": 888426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

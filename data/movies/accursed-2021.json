@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_accursed_2021",
+  "title": "The Accursed",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109547585",
+    "imdb": "tt5737388",
+    "tmdb": 860867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

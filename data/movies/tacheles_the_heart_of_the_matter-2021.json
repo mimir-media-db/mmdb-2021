@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tacheles_the_heart_of_the_matter_2021",
+  "title": "Tacheles - The Heart of the Matter",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108169651",
+    "imdb": "tt12245228",
+    "tmdb": 703131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-19",
+  "runtime_minutes": 104
+}

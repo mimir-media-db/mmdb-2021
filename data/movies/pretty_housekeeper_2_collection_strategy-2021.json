@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_housekeeper_2_collection_strategy_2021",
+  "title": "Pretty Housekeeper 2: Collection Strategy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841539",
+    "tmdb": 1016276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-23"
+}

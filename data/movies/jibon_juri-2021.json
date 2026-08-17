@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jibon_juri_2021",
+  "title": "Jibon Juri",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110975361",
+    "imdb": "tt15429136"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-28"
+}

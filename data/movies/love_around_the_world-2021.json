@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_around_the_world_2021",
+  "title": "Love around the world",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106632678",
+    "imdb": "tt14054860",
+    "tmdb": 796821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-14",
+  "runtime_minutes": 76
+}

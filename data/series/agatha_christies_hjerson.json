@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_agatha_christies_hjerson",
+  "title": "Agatha Christie's Hjerson",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110575795",
+    "imdb": "tt13667622",
+    "tmdb": 128256
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

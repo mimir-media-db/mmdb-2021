@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_meilleure_version_de_moimeme",
+  "title": "La meilleure version de moi-même",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109703554",
+    "imdb": "tt16357872",
+    "tmdb": 138753
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

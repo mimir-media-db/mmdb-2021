@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_internado_las_cumbres",
+  "title": "El internado: Las Cumbres",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85842673",
+    "imdb": "tt11709206",
+    "tmdb": 97513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

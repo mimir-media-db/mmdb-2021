@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manual_de_la_siega_2021",
+  "title": "Manual de la siega",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136763356",
+    "tmdb": 1034284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 19
+}

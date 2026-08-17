@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pitbull_2021",
+  "title": "Pitbull",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110491155",
+    "imdb": "tt15205194",
+    "tmdb": 857700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 112
+}

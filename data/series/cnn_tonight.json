@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cnn_tonight",
+  "title": "CNN Tonight",
+  "start_year": 2021,
+  "end_year": 1984,
+  "external_ids": {
+    "wikidata": "Q16988398"
+  },
+  "last_updated": "2026-08-17"
+}

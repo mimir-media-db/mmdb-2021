@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_defender",
+  "title": "The Defender",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108202186",
+    "imdb": "tt13144324",
+    "tmdb": 122511
+  },
+  "last_updated": "2026-08-17"
+}

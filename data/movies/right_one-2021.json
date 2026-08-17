@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_one_2021",
+  "title": "The Right One",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106452586",
+    "imdb": "tt6820128",
+    "tmdb": 774785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 91
+}

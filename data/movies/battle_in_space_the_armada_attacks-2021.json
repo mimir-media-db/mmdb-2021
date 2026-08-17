@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_in_space_the_armada_attacks_2021",
+  "title": "Battle in Space: The Armada Attacks",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105061723",
+    "imdb": "tt13057076",
+    "tmdb": 785179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

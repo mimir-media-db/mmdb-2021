@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_die_discounter",
+  "title": "Die Discounter",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q110450020",
+    "imdb": "tt16463942",
+    "tmdb": 153642
+  },
+  "last_updated": "2026-08-17"
+}

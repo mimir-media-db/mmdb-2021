@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_luca_the_beginning",
+  "title": "L.U.C.A.: The Beginning",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104706289",
+    "imdb": "tt13752928",
+    "tmdb": 116043
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

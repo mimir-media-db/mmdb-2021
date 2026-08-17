@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jazz_on_a_summers_day_2021",
+  "title": "Jazz on a Summer's Day",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q681269",
+    "imdb": "tt0052942",
+    "tmdb": 53434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-05",
+  "runtime_minutes": 85
+}

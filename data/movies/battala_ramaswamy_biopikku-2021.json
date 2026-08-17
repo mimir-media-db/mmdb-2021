@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battala_ramaswamy_biopikku_2021",
+  "title": "Battala Ramaswamy Biopikku",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107482044",
+    "imdb": "tt13992758",
+    "tmdb": 829841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-14",
+  "runtime_minutes": 137
+}

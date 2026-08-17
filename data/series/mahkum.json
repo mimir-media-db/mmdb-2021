@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mahkum",
+  "title": "Mahkum",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110291669",
+    "imdb": "tt14898744",
+    "tmdb": 153515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

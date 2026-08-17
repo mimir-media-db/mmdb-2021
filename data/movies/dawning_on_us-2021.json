@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dawning_on_us_2021",
+  "title": "Dawning on Us",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114404731",
+    "imdb": "tt16244954",
+    "tmdb": 946838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 134
+}

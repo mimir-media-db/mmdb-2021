@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trigger_point_2021",
+  "title": "Trigger Point",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106103618",
+    "imdb": "tt13382698",
+    "tmdb": 809314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

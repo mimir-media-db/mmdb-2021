@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_time_to_die_2021",
+  "title": "No Time to Die",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21534241",
+    "imdb": "tt2382320",
+    "tmdb": 370172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-28",
+  "runtime_minutes": 163
+}

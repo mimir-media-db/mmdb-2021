@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_98_segundos_sin_sombra_2021",
+  "title": "98 segundos sin sombra",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110930127",
+    "imdb": "tt8940852",
+    "tmdb": 885800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

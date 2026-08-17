@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mera_fauji_calling_2021",
+  "title": "Mera Fauji Calling",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906247",
+    "imdb": "tt9766294",
+    "tmdb": 797972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-11"
+}

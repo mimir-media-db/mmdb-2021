@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_2021",
+  "title": "Cherry",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73896894",
+    "imdb": "tt9130508",
+    "tmdb": 544401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 142
+}

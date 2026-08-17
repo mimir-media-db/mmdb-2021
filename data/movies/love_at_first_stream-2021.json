@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_first_stream_2021",
+  "title": "Love at First Stream",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109975197",
+    "imdb": "tt15006444",
+    "tmdb": 848660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teka_teki_tika_2021",
+  "title": "Teka Teki Tika",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106997681",
+    "imdb": "tt14728292",
+    "tmdb": 811741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03",
+  "runtime_minutes": 83
+}

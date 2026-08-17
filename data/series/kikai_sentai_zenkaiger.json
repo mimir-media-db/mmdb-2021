@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kikai_sentai_zenkaiger",
+  "title": "Kikai Sentai Zenkaiger",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104416096",
+    "imdb": "tt13142464",
+    "tmdb": 120398
+  },
+  "last_updated": "2026-08-17"
+}

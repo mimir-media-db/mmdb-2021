@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_exandria_unlimited",
+  "title": "Exandria Unlimited",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109104686",
+    "imdb": "tt14829636",
+    "tmdb": 254066
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

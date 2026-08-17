@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_so_not_worth_it",
+  "title": "So Not Worth It",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104879322",
+    "imdb": "tt13186480",
+    "tmdb": 110545
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

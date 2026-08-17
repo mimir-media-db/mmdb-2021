@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_settlers_2021",
+  "title": "Settlers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106778096",
+    "imdb": "tt9373688",
+    "tmdb": 791568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-18",
+  "runtime_minutes": 103
+}

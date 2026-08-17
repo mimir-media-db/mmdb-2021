@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_flexer_2021",
+  "title": "Der Flexer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117383723",
+    "imdb": "tt16241280",
+    "tmdb": 894472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

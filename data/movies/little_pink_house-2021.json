@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_pink_house_2021",
+  "title": "Little Pink House",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50650131",
+    "imdb": "tt3863632",
+    "tmdb": 451422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-15",
+  "runtime_minutes": 98
+}

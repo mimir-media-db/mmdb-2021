@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tears_on_fire",
+  "title": "Tears on Fire",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85882277",
+    "imdb": "tt14597334",
+    "tmdb": 118201
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

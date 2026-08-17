@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gull_2021",
+  "title": "Gull",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597761",
+    "imdb": "tt13918118",
+    "tmdb": 705980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-28"
+}

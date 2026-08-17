@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astro_loco_2021",
+  "title": "Astro Loco",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600174",
+    "imdb": "tt4446228",
+    "tmdb": 865745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 92
+}

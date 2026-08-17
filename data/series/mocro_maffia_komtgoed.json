@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mocro_maffia_komtgoed",
+  "title": "Mocro Maffia: Komtgoed",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135683228",
+    "imdb": "tt13902238",
+    "tmdb": 117264
+  },
+  "last_updated": "2026-08-17"
+}

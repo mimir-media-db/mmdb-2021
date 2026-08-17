@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_elves",
+  "title": "Elves",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109781497",
+    "imdb": "tt13231962",
+    "tmdb": 135864
+  },
+  "last_updated": "2026-08-17"
+}

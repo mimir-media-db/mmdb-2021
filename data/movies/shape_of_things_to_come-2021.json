@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shape_of_things_to_come_2021",
+  "title": "The Shape of Things to Come",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116825662",
+    "imdb": "tt6408760",
+    "tmdb": 671290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19",
+  "runtime_minutes": 82
+}

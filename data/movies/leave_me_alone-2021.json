@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leave_me_alone_2021",
+  "title": "Leave Me Alone",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108838294",
+    "imdb": "tt15743140",
+    "tmdb": 890538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-24"
+}

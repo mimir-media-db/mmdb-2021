@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bboy_blues_2021",
+  "title": "B-Boy Blues",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108612446",
+    "imdb": "tt13268214",
+    "tmdb": 753102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

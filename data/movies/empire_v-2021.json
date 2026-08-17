@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empire_v_2021",
+  "title": "Empire V",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51449846",
+    "imdb": "tt5183894",
+    "tmdb": 513505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 140
+}

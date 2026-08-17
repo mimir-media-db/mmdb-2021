@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bordertown_the_mural_murders_2021",
+  "title": "Bordertown: The Mural Murders",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98273324",
+    "imdb": "tt15393650",
+    "tmdb": 716810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-27"
+}

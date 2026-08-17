@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_upshaws_the_afterparty_2021",
+  "title": "The Upshaws - The Afterparty",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106893150",
+    "imdb": "tt14644364",
+    "tmdb": 824974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

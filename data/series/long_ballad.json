@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_long_ballad",
+  "title": "The Long Ballad",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97352259",
+    "imdb": "tt14390970",
+    "tmdb": 122182
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}

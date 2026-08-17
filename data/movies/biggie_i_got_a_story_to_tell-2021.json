@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biggie_i_got_a_story_to_tell_2021",
+  "title": "Biggie: I Got a Story to Tell",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105980495",
+    "imdb": "tt14058484",
+    "tmdb": 797309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_god_2021",
+  "title": "Playing God",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55630115",
+    "imdb": "tt8371236",
+    "tmdb": 717693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 95
+}

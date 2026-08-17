@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_libertad",
+  "title": "Libertad",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105566580",
+    "imdb": "tt11719562",
+    "tmdb": 101977
+  },
+  "last_updated": "2026-08-17"
+}

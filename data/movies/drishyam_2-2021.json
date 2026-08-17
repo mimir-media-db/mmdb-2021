@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drishyam_2_2021",
+  "title": "Drishyam 2",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036246",
+    "imdb": "tt12361178",
+    "tmdb": 706872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-19",
+  "runtime_minutes": 140
+}

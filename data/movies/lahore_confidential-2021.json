@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lahore_confidential_2021",
+  "title": "Lahore Confidential",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245449",
+    "imdb": "tt13199556",
+    "tmdb": 764336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-04"
+}

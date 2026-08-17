@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_mass",
+  "title": "Midnight Mass",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q98915688",
+    "imdb": "tt10574558",
+    "tmdb": 97400
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

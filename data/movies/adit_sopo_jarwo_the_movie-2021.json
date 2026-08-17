@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adit_sopo_jarwo_the_movie_2021",
+  "title": "Adit Sopo Jarwo the Movie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106720750",
+    "imdb": "tt13465228",
+    "tmdb": 681784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-30",
+  "runtime_minutes": 82
+}

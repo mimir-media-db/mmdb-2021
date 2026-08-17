@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaizoku_sentai_ten_gokaiger_2021",
+  "title": "Kaizoku Sentai: Ten Gokaiger",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108885512",
+    "imdb": "tt14879560",
+    "tmdb": 844041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-12"
+}

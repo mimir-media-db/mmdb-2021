@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zack_snyders_justice_league_2021",
+  "title": "Zack Snyder's Justice League",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94998134",
+    "imdb": "tt12361974",
+    "tmdb": 791373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 242
+}

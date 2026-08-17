@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arctic_vets",
+  "title": "Arctic Vets",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107271361",
+    "imdb": "tt14295532",
+    "tmdb": 120950
+  },
+  "last_updated": "2026-08-17"
+}

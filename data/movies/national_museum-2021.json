@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_national_museum_2021",
+  "title": "National Museum",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573851",
+    "imdb": "tt9549128",
+    "tmdb": 852359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-18"
+}

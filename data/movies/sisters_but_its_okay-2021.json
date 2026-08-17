@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_but_its_okay_2021",
+  "title": "Sisters, But It's Okay",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841422",
+    "tmdb": 938590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03"
+}

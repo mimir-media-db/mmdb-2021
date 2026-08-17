@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tex_2021",
+  "title": "T=E/x²",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133864140",
+    "imdb": "tt3277846",
+    "tmdb": 661151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_street_part_2_1978_2021",
+  "title": "Fear Street Part 2: 1978",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105369580",
+    "imdb": "tt9701940",
+    "tmdb": 591274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-09",
+  "runtime_minutes": 110
+}

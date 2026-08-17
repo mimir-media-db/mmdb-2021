@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_between_east_and_west_2021",
+  "title": "Between East and West",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841500",
+    "tmdb": 917097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-13"
+}

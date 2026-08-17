@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bite_sisters",
+  "title": "Bite Sisters",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111541900",
+    "imdb": "tt1635449",
+    "tmdb": 136861
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

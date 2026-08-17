@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hyperland_2021",
+  "title": "Hyperland",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109789023",
+    "imdb": "tt11941776",
+    "tmdb": 893304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_a_champion_2021",
+  "title": "Born a Champion",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105226458",
+    "imdb": "tt10661710",
+    "tmdb": 766931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22",
+  "runtime_minutes": 112
+}

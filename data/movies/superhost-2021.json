@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superhost_2021",
+  "title": "Superhost",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121617105",
+    "imdb": "tt13309978",
+    "tmdb": 849369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

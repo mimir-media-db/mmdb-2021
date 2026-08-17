@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_collector_the_red_room_2021",
+  "title": "The Butterfly Collector: The Red Room",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109360166",
+    "imdb": "tt14484370",
+    "tmdb": 854581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 74
+}

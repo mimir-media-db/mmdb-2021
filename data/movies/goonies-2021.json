@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goonies_2021",
+  "title": "The Goonies",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q636043",
+    "imdb": "tt0089218",
+    "tmdb": 9340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-05",
+  "runtime_minutes": 112
+}

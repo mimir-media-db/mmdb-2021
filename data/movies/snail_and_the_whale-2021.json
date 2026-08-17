@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snail_and_the_whale_2021",
+  "title": "The Snail and the Whale",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105038484",
+    "imdb": "tt9303756",
+    "tmdb": 655424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-23",
+  "runtime_minutes": 27
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_britney_vs_spears_2021",
+  "title": "Britney vs Spears",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108940876",
+    "imdb": "tt15469820",
+    "tmdb": 797594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

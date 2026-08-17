@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toubab_2021",
+  "title": "Toubab",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100984113",
+    "imdb": "tt9233428",
+    "tmdb": 743115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23"
+}

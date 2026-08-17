@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bender_gold_of_the_empire_2021",
+  "title": "Bender: Gold of the Empire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107391489",
+    "imdb": "tt15062980",
+    "tmdb": 849236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 87
+}

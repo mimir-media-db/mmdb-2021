@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_to_the_stars_2021",
+  "title": "A Journey to the Stars",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107338084",
+    "imdb": "tt14836894",
+    "tmdb": 845479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-27"
+}

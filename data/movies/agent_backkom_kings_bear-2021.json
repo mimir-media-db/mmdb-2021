@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_backkom_kings_bear_2021",
+  "title": "Agent Backkom: Kings Bear",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86729757",
+    "imdb": "tt15114656",
+    "tmdb": 869404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-23"
+}

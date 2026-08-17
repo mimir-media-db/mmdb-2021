@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_just_beyond",
+  "title": "Just Beyond",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105962707",
+    "imdb": "tt12286434",
+    "tmdb": 120734
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

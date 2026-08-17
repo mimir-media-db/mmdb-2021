@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_en_therapie",
+  "title": "En thérapie",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105192587",
+    "imdb": "tt11080216",
+    "tmdb": 95428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 70
+}

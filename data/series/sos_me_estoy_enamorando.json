@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sos_me_estoy_enamorando",
+  "title": "SOS me estoy enamorando",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106234101",
+    "imdb": "tt15218930",
+    "tmdb": 132960
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 97
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jose_diazbalart_reports",
+  "title": "José Díaz-Balart Reports",
+  "start_year": 2021,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18175507",
+    "imdb": "tt15385660",
+    "tmdb": 272013
+  },
+  "last_updated": "2026-08-17"
+}

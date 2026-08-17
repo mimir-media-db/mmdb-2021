@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_charite_intensiv_station_43",
+  "title": "Charité Intensiv: Station 43",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109816016",
+    "imdb": "tt14807506",
+    "tmdb": 122810
+  },
+  "last_updated": "2026-08-17"
+}

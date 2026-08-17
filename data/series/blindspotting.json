@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blindspotting",
+  "title": "Blindspotting",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106816260",
+    "imdb": "tt11097374",
+    "tmdb": 109373
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

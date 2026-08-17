@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bali_2021",
+  "title": "Bali",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105814106",
+    "imdb": "tt14194044",
+    "tmdb": 910711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-09"
+}

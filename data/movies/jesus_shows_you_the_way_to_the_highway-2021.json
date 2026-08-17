@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_shows_you_the_way_to_the_highway_2021",
+  "title": "Jesus Shows You the Way to the Highway",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99708672",
+    "imdb": "tt8550514",
+    "tmdb": 605808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-12",
+  "runtime_minutes": 83
+}

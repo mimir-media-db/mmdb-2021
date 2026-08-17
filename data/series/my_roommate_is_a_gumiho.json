@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_roommate_is_a_gumiho",
+  "title": "My Roommate is a Gumiho",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104903382",
+    "imdb": "tt13777028",
+    "tmdb": 114118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

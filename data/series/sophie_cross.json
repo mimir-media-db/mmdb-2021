@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sophie_cross",
+  "title": "Sophie Cross",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109717092",
+    "imdb": "tt14304084",
+    "tmdb": 126074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

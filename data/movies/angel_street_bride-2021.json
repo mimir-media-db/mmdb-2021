@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_street_bride_2021",
+  "title": "Angel Street Bride",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108037327",
+    "imdb": "tt15202266",
+    "tmdb": 1148625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-04"
+}

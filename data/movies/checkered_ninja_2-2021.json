@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_checkered_ninja_2_2021",
+  "title": "Checkered Ninja 2",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131841",
+    "imdb": "tt13387604",
+    "tmdb": 778819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-19",
+  "runtime_minutes": 86
+}

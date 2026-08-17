@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_on_the_shore_2021",
+  "title": "A Girl on the Shore",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137719919",
+    "imdb": "tt14820290",
+    "tmdb": 810674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_god_2021",
+  "title": "Man of God",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104870354",
+    "imdb": "tt6060964",
+    "tmdb": 733209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-25"
+}

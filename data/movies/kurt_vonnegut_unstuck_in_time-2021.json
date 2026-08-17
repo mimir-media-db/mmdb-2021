@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kurt_vonnegut_unstuck_in_time_2021",
+  "title": "Kurt Vonnegut: Unstuck in Time",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112205572",
+    "imdb": "tt1461238",
+    "tmdb": 485432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11"
+}

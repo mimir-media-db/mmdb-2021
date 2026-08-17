@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_revice",
+  "title": "Kamen Rider Revice",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107657377",
+    "imdb": "tt14893284",
+    "tmdb": 262125
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

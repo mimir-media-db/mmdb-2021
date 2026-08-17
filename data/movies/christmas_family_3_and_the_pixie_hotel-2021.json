@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_family_3_and_the_pixie_hotel_2021",
+  "title": "The Christmas Family 3 – And the Pixie Hotel",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109556784",
+    "imdb": "tt15341380",
+    "tmdb": 918459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 91
+}

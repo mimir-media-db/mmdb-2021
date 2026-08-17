@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zanskar_les_promesses_de_lhiver_2021",
+  "title": "Zanskar, les promesses de l’hiver",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123734775",
+    "imdb": "tt16436706",
+    "tmdb": 926095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

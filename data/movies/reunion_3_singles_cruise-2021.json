@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_3_singles_cruise_2021",
+  "title": "Reunion 3: Singles Cruise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104213767",
+    "imdb": "tt11905960",
+    "tmdb": 680673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-28"
+}

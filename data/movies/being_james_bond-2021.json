@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_james_bond_2021",
+  "title": "Being James Bond",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108370857",
+    "imdb": "tt15346636",
+    "tmdb": 869250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-07",
+  "runtime_minutes": 46
+}

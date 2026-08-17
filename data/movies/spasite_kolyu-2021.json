@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spasite_kolyu_2021",
+  "title": "Spasite Kolyu!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106640490",
+    "imdb": "tt14296228",
+    "tmdb": 594899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 94
+}

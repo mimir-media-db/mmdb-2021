@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_success_in_your_city",
+  "title": "Success In Your City",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107956640",
+    "imdb": "tt9481606"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

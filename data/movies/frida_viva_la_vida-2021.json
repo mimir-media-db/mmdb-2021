@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frida_viva_la_vida_2021",
+  "title": "Frida. Viva la Vida",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104777524",
+    "imdb": "tt11312156",
+    "tmdb": 649244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-24",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monica_and_friends_lessons_2021",
+  "title": "Monica and Friends: Lessons",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97177083",
+    "imdb": "tt11674072",
+    "tmdb": 662745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

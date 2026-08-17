@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soldier_2021",
+  "title": "The Soldier",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311128",
+    "imdb": "tt12547194",
+    "tmdb": 686699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 58
+}

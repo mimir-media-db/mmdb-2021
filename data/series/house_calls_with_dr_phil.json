@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_house_calls_with_dr_phil",
+  "title": "House Calls with Dr. Phil",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108336842",
+    "imdb": "tt15176234",
+    "tmdb": 133802
+  },
+  "last_updated": "2026-08-17"
+}

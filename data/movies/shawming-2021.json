@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shawming_2021",
+  "title": "Shaw-ming",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99553634",
+    "imdb": "tt11452758",
+    "tmdb": 791494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-03"
+}

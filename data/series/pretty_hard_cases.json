@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pretty_hard_cases",
+  "title": "Pretty Hard Cases",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104667472",
+    "imdb": "tt11090458",
+    "tmdb": 117327
+  },
+  "last_updated": "2026-08-17"
+}

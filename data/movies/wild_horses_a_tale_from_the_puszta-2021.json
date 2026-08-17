@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_horses_a_tale_from_the_puszta_2021",
+  "title": "Wild Horses: A Tale from the Puszta",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113507650",
+    "imdb": "tt15477976",
+    "tmdb": 891413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-22",
+  "runtime_minutes": 91
+}

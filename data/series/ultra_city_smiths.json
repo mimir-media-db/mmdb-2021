@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ultra_city_smiths",
+  "title": "Ultra City Smiths",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108304241",
+    "imdb": "tt13148384",
+    "tmdb": 90306
+  },
+  "last_updated": "2026-08-17"
+}

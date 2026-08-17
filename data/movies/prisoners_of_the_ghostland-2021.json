@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoners_of_the_ghostland_2021",
+  "title": "Prisoners of the Ghostland",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59783263",
+    "imdb": "tt6372694",
+    "tmdb": 523638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

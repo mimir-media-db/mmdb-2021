@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_reino",
+  "title": "El reino",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104813441",
+    "imdb": "tt15068148",
+    "tmdb": 130364
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_occasionally_swapping_2021",
+  "title": "Occasionally Swapping",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841503",
+    "tmdb": 1236176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-10"
+}

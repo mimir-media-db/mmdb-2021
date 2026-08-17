@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oasis_knebworth_1996_2021",
+  "title": "Oasis Knebworth 1996",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108910301",
+    "imdb": "tt15091500",
+    "tmdb": 850490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23",
+  "runtime_minutes": 110
+}

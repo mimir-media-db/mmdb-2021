@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anne_murray_full_circle_2021",
+  "title": "Anne Murray: Full Circle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110324686",
+    "imdb": "tt16367960",
+    "tmdb": 914154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-02"
+}

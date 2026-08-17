@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_from_nowhere",
+  "title": "Girl from Nowhere",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55907137",
+    "imdb": "tt8824648",
+    "tmdb": 83639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

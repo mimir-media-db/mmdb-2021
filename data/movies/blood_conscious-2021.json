@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_conscious_2021",
+  "title": "Blood Conscious",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108941268",
+    "imdb": "tt7575118",
+    "tmdb": 799640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 81
+}

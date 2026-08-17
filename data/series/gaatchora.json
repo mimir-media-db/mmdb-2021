@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gaatchora",
+  "title": "Gaatchora",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109973391",
+    "imdb": "tt21907668"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 720
+}

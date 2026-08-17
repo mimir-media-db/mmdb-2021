@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_friend_anne_frank_2021",
+  "title": "My best friend Anne Frank",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108480073",
+    "imdb": "tt10360772",
+    "tmdb": 788045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09",
+  "runtime_minutes": 103
+}

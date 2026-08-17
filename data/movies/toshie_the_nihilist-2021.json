@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toshie_the_nihilist_2021",
+  "title": "Toshie the Nihilist",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109594717",
+    "imdb": "tt14753450",
+    "tmdb": 854003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15"
+}

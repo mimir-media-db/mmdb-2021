@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_douluo_continent",
+  "title": "Douluo Continent",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q67936576",
+    "imdb": "tt12526224",
+    "tmdb": 112202
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alias_birth_2021",
+  "title": "Alia's Birth",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371755",
+    "imdb": "tt10156216",
+    "tmdb": 858702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 66
+}

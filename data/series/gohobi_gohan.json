@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gohobi_gohan",
+  "title": "Gohōbi Gohan",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q110176640",
+    "imdb": "tt15540502",
+    "tmdb": 135148
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

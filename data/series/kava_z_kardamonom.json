@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kava_z_kardamonom",
+  "title": "Kava z kardamonom",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110236354",
+    "imdb": "tt16984916",
+    "tmdb": 225855
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mrkomir_prvi",
+  "title": "Mrkomir Prvi",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131785071",
+    "imdb": "tt16526150",
+    "tmdb": 116074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 73
+}

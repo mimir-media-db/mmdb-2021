@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khachar_bhitor_ochin_pakhi_2021",
+  "title": "Khachar Bhitor Ochin Pakhi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684100",
+    "imdb": "tt15756034",
+    "tmdb": 884161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-21"
+}

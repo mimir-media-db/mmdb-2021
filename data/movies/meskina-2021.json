@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meskina_2021",
+  "title": "Meskina",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108129659",
+    "imdb": "tt13691036",
+    "tmdb": 841764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-22",
+  "runtime_minutes": 94
+}

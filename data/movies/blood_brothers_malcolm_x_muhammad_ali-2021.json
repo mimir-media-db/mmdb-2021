@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_brothers_malcolm_x_muhammad_ali_2021",
+  "title": "Blood Brothers: Malcolm X & Muhammad Ali",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110130822",
+    "imdb": "tt15095938",
+    "tmdb": 861604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09"
+}

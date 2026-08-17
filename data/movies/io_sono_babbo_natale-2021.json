@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_io_sono_babbo_natale_2021",
+  "title": "Io sono Babbo Natale",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109366803",
+    "imdb": "tt12617312",
+    "tmdb": 658287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 95
+}

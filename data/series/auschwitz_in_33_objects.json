@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_auschwitz_in_33_objects",
+  "title": "Auschwitz in 33 Objects",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123400067",
+    "imdb": "tt13932692",
+    "tmdb": 219267
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

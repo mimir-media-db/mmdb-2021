@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eine_einsame_stadt_2021",
+  "title": "Eine einsame Stadt",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100439173",
+    "imdb": "tt13370512",
+    "tmdb": 751190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 90
+}

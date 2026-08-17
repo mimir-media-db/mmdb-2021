@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sulla_giostra_2021",
+  "title": "Sulla giostra",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051360",
+    "imdb": "tt14993748",
+    "tmdb": 854428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everybodys_talking_about_jamie_2021",
+  "title": "Everybody's Talking About Jamie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65050923",
+    "imdb": "tt8635092",
+    "tmdb": 624899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22"
+}

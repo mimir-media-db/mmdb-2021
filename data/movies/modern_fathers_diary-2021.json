@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_modern_fathers_diary_2021",
+  "title": "Modern Father's Diary",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898544",
+    "imdb": "tt12621548",
+    "tmdb": 694188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_echoes_of_the_ice_age_2021",
+  "title": "Echoes of the Ice Age",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129262474",
+    "imdb": "tt30958826",
+    "tmdb": 1271747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

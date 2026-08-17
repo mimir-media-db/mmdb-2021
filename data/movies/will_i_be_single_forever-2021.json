@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_will_i_be_single_forever_2021",
+  "title": "Will I Be Single Forever?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108915306",
+    "imdb": "tt15135172",
+    "tmdb": 873670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_turquoise_sky_2021",
+  "title": "Under the Turquoise Sky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109362701",
+    "imdb": "tt14129764",
+    "tmdb": 745188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cancion_a_una_dama_en_la_sombra_2021",
+  "title": "Canción a una dama en la sombra",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121356431",
+    "imdb": "tt19513000",
+    "tmdb": 967850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 112
+}

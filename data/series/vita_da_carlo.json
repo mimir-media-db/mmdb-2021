@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vita_da_carlo",
+  "title": "Vita da Carlo",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109419055",
+    "imdb": "tt14691760",
+    "tmdb": 135794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 30
+}

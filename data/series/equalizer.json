@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_equalizer",
+  "title": "The Equalizer",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q96408666",
+    "imdb": "tt11242246",
+    "tmdb": 95205
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrath_of_man_2021",
+  "title": "Wrath of Man",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74190990",
+    "imdb": "tt11083552",
+    "tmdb": 637649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-22",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tug_of_war_2021",
+  "title": "Tug of War",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115516793",
+    "imdb": "tt15138462",
+    "tmdb": 856493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-12"
+}

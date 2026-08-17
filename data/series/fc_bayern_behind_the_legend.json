@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fc_bayern_behind_the_legend",
+  "title": "FC Bayern: Behind the Legend",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q110222425",
+    "imdb": "tt14010212",
+    "tmdb": 134601
+  },
+  "last_updated": "2026-08-17"
+}

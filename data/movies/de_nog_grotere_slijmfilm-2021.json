@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_nog_grotere_slijmfilm_2021",
+  "title": "De Nog Grotere Slijmfilm",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107745569",
+    "imdb": "tt13797922",
+    "tmdb": 846536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-07"
+}

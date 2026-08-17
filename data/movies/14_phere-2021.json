@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_14_phere_2021",
+  "title": "14 Phere",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104608354",
+    "imdb": "tt12887178",
+    "tmdb": 732886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-09"
+}

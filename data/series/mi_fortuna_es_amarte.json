@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_fortuna_es_amarte",
+  "title": "Mi fortuna es amarte",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108485809",
+    "imdb": "tt15374794",
+    "tmdb": 137671
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 92
+}

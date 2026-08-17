@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_shift_2021",
+  "title": "Night Shift",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80171891",
+    "imdb": "tt9850344",
+    "tmdb": 660330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30",
+  "runtime_minutes": 98
+}

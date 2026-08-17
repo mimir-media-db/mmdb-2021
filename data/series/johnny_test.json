@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_johnny_test",
+  "title": "Johnny Test",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107723290",
+    "imdb": "tt15061770",
+    "tmdb": 127753
+  },
+  "last_updated": "2026-08-17"
+}

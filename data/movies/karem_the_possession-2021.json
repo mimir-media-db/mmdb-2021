@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karem_the_possession_2021",
+  "title": "Karem the possession",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110324470",
+    "imdb": "tt4236970",
+    "tmdb": 671269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 80
+}

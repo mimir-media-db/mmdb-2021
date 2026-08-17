@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ayak_isleri",
+  "title": "Ayak Isleri",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114391590",
+    "imdb": "tt14344266",
+    "tmdb": 125412
+  },
+  "last_updated": "2026-08-17"
+}

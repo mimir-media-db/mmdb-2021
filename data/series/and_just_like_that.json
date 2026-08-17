@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_and_just_like_that",
+  "title": "And Just Like That...",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q107272501",
+    "imdb": "tt13819960",
+    "tmdb": 116450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

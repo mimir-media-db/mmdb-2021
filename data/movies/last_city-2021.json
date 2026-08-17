@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_city_2021",
+  "title": "The Last City",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99600158",
+    "imdb": "tt11638970",
+    "tmdb": 664573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-21",
+  "runtime_minutes": 100
+}

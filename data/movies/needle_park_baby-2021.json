@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_needle_park_baby_2021",
+  "title": "Needle Park Baby",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84323724",
+    "imdb": "tt9737798",
+    "tmdb": 656704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 100
+}

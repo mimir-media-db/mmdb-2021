@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_window_queens_house",
+  "title": "Show Window: Queen's House",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108528020",
+    "imdb": "tt15809802",
+    "tmdb": 137471
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

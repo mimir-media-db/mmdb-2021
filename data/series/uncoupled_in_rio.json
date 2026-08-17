@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_uncoupled_in_rio",
+  "title": "Uncoupled in Rio",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108914082",
+    "imdb": "tt15041266",
+    "tmdb": 123381
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

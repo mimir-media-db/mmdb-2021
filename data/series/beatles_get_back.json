@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beatles_get_back",
+  "title": "The Beatles: Get Back",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q88532913",
+    "imdb": "tt9735318",
+    "tmdb": 128876
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

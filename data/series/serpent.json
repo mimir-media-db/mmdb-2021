@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_serpent",
+  "title": "The Serpent",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q103610353",
+    "imdb": "tt7985576",
+    "tmdb": 93454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

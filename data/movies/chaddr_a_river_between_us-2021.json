@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaddr_a_river_between_us_2021",
+  "title": "Chaddr - A River between us",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100708724",
+    "imdb": "tt12337394",
+    "tmdb": 708222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-19",
+  "runtime_minutes": 89
+}

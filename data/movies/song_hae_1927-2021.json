@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_hae_1927_2021",
+  "title": "Song Hae 1927",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136463220",
+    "imdb": "tt14871868",
+    "tmdb": 744263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 82
+}

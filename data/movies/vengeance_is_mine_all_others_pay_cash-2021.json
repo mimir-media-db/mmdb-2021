@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vengeance_is_mine_all_others_pay_cash_2021",
+  "title": "Vengeance Is Mine, All Others Pay Cash",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65204889",
+    "imdb": "tt13387422",
+    "tmdb": 674255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-08",
+  "runtime_minutes": 114
+}

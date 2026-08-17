@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_double_or_quits",
+  "title": "Double or Quits",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q110853655",
+    "imdb": "tt16293844",
+    "tmdb": 138467
+  },
+  "last_updated": "2026-08-17"
+}

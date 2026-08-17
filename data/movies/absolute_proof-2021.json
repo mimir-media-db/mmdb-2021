@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_absolute_proof_2021",
+  "title": "Absolute Proof",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108031433",
+    "imdb": "tt13989524",
+    "tmdb": 1437084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mundo_en_pausa_2021",
+  "title": "El mundo en pausa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123707520",
+    "imdb": "tt15787816",
+    "tmdb": 1252236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucicreide_vai_pra_marte_2021",
+  "title": "Lucicreide Vai pra Marte",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106546589",
+    "imdb": "tt7954660",
+    "tmdb": 799524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-18",
+  "runtime_minutes": 90
+}

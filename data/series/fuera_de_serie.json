@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_fuera_de_serie",
+  "title": "Fuera de serie",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q107296712",
+    "imdb": "tt14670640"
+  },
+  "last_updated": "2026-08-17"
+}

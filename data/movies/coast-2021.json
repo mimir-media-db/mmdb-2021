@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coast_2021",
+  "title": "Coast",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114196174",
+    "imdb": "tt3322896",
+    "tmdb": 813647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

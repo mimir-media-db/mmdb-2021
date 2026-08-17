@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koi_jaane_na_2021",
+  "title": "Koi Jaane Na",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106092165",
+    "imdb": "tt13989310",
+    "tmdb": 794008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

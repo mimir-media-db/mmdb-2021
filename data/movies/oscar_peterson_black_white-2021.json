@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oscar_peterson_black_white_2021",
+  "title": "Oscar Peterson: Black + White",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107919892",
+    "imdb": "tt14171710",
+    "tmdb": 857994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-01"
+}

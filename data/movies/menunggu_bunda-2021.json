@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_menunggu_bunda_2021",
+  "title": "Menunggu Bunda",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110063671",
+    "imdb": "tt14631978",
+    "tmdb": 900411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-28",
+  "runtime_minutes": 87
+}

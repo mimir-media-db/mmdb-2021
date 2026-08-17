@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_first_on_scene",
+  "title": "Murder: First on Scene",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123944482",
+    "imdb": "tt26746643",
+    "tmdb": 209812
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

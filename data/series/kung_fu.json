@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kung_fu",
+  "title": "Kung Fu",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q94622906",
+    "imdb": "tt7475590",
+    "tmdb": 114165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

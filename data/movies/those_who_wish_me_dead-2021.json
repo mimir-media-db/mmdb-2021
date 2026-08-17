@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_wish_me_dead_2021",
+  "title": "Those Who Wish Me Dead",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63923744",
+    "imdb": "tt3215824",
+    "tmdb": 578701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-05",
+  "runtime_minutes": 100
+}

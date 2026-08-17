@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_red_sky_2021",
+  "title": "Blood Red Sky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105560342",
+    "imdb": "tt6402468",
+    "tmdb": 760883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-23",
+  "runtime_minutes": 121
+}

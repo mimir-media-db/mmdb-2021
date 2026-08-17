@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_and_the_spider_2021",
+  "title": "The Girl and the Spider",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105502207",
+    "imdb": "tt11967484",
+    "tmdb": 517815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-13",
+  "runtime_minutes": 98
+}

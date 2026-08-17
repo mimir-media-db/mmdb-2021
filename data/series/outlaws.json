@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outlaws",
+  "title": "The Outlaws",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107016644",
+    "imdb": "tt11646832",
+    "tmdb": 136044
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

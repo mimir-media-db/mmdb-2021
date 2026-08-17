@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_try_harder_2021",
+  "title": "Try Harder!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106359094",
+    "imdb": "tt13648160",
+    "tmdb": 776528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-30"
+}

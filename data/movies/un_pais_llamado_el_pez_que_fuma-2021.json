@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_pais_llamado_el_pez_que_fuma_2021",
+  "title": "Un país llamado El Pez que fuma",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135039079",
+    "imdb": "tt14128400",
+    "tmdb": 853055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-28",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_red_eyes_surveillance_investigation_team",
+  "title": "Red Eyes Surveillance Investigation Team",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109361028",
+    "imdb": "tt15256028",
+    "tmdb": 117196
+  },
+  "last_updated": "2026-08-17"
+}

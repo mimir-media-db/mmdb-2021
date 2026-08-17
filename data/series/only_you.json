@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_only_you",
+  "title": "The Only You",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121289307",
+    "tmdb": 133141
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

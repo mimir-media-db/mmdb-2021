@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_voice",
+  "title": "The Voice +",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106452952"
+  },
+  "last_updated": "2026-08-17"
+}

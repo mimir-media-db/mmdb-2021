@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avijatrik_2021",
+  "title": "Avijatrik",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97159454",
+    "imdb": "tt10738666",
+    "tmdb": 696363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

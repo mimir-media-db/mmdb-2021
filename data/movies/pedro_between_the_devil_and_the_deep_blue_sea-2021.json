@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pedro_between_the_devil_and_the_deep_blue_sea_2021",
+  "title": "Pedro, Between the Devil and the Deep Blue Sea",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111983086",
+    "imdb": "tt9225812",
+    "tmdb": 575981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dave_chappelle_live_in_real_life_2021",
+  "title": "Dave Chappelle: Live in Real Life",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109409696",
+    "imdb": "tt14727094",
+    "tmdb": 833811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-19"
+}

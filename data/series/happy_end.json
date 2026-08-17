@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_end",
+  "title": "Happy End",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106775241",
+    "imdb": "tt12908084",
+    "tmdb": 122648
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

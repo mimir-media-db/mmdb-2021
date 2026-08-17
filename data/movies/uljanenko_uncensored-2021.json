@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uljanenko_uncensored_2021",
+  "title": "Uljanenko uncensored",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573804",
+    "imdb": "tt10012930",
+    "tmdb": 853086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-24",
+  "runtime_minutes": 90
+}

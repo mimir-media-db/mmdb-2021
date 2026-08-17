@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fathers_job_2021",
+  "title": "A Father's Job",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119497438",
+    "imdb": "tt12594922",
+    "tmdb": 821310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-07",
+  "runtime_minutes": 20
+}

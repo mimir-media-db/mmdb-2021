@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hacks",
+  "title": "Hacks",
+  "start_year": 2021,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q106819328",
+    "imdb": "tt11815682",
+    "tmdb": 124101
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 37
+}

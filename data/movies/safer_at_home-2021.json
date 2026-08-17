@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safer_at_home_2021",
+  "title": "Safer at Home",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105123722",
+    "imdb": "tt13651858",
+    "tmdb": 792657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-26",
+  "runtime_minutes": 82
+}

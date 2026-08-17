@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_easter_bunny_massacre_2021",
+  "title": "Easter Bunny Massacre",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138887890",
+    "imdb": "tt14546664",
+    "tmdb": 922607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

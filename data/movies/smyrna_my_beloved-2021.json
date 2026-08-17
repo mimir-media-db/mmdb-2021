@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smyrna_my_beloved_2021",
+  "title": "Smyrna, My Beloved",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110249779",
+    "imdb": "tt11935566",
+    "tmdb": 917539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-23",
+  "runtime_minutes": 141
+}

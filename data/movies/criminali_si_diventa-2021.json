@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_criminali_si_diventa_2021",
+  "title": "Criminali si diventa",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051245",
+    "imdb": "tt14525454",
+    "tmdb": 970692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

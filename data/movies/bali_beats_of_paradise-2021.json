@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bali_beats_of_paradise_2021",
+  "title": "Bali: Beats of Paradise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65209593",
+    "imdb": "tt6892064",
+    "tmdb": 557544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-29"
+}

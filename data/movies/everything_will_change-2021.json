@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_will_change_2021",
+  "title": "Everything Will Change",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110185801",
+    "imdb": "tt13086274",
+    "tmdb": 788921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24",
+  "runtime_minutes": 93
+}

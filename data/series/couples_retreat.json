@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_couples_retreat",
+  "title": "Couples Retreat",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106511560",
+    "imdb": "tt14181884",
+    "tmdb": 124375
+  },
+  "last_updated": "2026-08-17"
+}

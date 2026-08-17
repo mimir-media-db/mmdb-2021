@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hi_mom_2021",
+  "title": "Hi, Mom",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105221616",
+    "imdb": "tt13364790",
+    "tmdb": 758891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12",
+  "runtime_minutes": 128
+}

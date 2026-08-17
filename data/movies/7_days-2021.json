@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_days_2021",
+  "title": "7 Days",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107564150",
+    "imdb": "tt14494586",
+    "tmdb": 821046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 86
+}

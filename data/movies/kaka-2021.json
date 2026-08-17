@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaka_2021",
+  "title": "Kaka",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110158143",
+    "imdb": "tt14909590",
+    "tmdb": 830182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-28"
+}

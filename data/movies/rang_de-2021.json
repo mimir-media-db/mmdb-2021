@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rang_de_2021",
+  "title": "Rang De",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96401222",
+    "imdb": "tt11024580",
+    "tmdb": 795104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

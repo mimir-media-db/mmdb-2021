@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_irti_kuvasta",
+  "title": "Irti kuvasta",
+  "start_year": 2020,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q126895540"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

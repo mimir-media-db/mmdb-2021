@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nyengkuyung_2021",
+  "title": "Nyengkuyung",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106865492",
+    "tmdb": 805807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-16",
+  "runtime_minutes": 27
+}

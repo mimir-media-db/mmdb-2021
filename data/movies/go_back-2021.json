@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_back_2021",
+  "title": "Go Back",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105708865",
+    "imdb": "tt10376384",
+    "tmdb": 716854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-24",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thin_blue_line",
+  "title": "Thin Blue Line",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104808770",
+    "imdb": "tt12258710",
+    "tmdb": 116944
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

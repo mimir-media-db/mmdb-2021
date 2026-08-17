@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_2021",
+  "title": "Lost",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114246571",
+    "imdb": "tt11579002",
+    "tmdb": 968490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-22"
+}

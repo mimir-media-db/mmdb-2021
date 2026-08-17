@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_flickering_life_2021",
+  "title": "It's a Flickering Life",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85870844",
+    "imdb": "tt15254730",
+    "tmdb": 751519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 125
+}

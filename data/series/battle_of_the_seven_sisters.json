@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_battle_of_the_seven_sisters",
+  "title": "Battle Of The Seven Sisters",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97200105",
+    "imdb": "tt30375848",
+    "tmdb": 130695
+  },
+  "last_updated": "2026-08-17"
+}

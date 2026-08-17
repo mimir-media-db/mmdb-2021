@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enough_lebanons_darkest_hour_2021",
+  "title": "Enough! Lebanon's Darkest Hour",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107994785",
+    "imdb": "tt14967752",
+    "tmdb": 857281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 94
+}

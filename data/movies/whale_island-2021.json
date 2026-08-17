@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whale_island_2021",
+  "title": "Whale Island",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97161073",
+    "imdb": "tt12194516",
+    "tmdb": 764425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-01"
+}

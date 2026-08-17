@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantasma_neon_2021",
+  "title": "Fantasma Neon",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108622486",
+    "imdb": "tt14972044",
+    "tmdb": 845250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 20
+}

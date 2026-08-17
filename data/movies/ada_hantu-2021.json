@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_hantu_2021",
+  "title": "Ada Hantu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108030110",
+    "imdb": "tt4987378",
+    "tmdb": 861452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-01"
+}

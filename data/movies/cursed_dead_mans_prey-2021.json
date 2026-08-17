@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cursed_dead_mans_prey_2021",
+  "title": "The Cursed: Dead Man’s Prey",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107610311",
+    "imdb": "tt17640714",
+    "tmdb": 724885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-28"
+}

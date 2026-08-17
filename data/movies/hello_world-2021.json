@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_world_2021",
+  "title": "Hello World",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113728369",
+    "imdb": "tt14922558",
+    "tmdb": 660945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-02"
+}

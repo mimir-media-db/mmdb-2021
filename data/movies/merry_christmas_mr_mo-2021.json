@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_merry_christmas_mr_mo_2021",
+  "title": "Merry Christmas Mr. Mo",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105692",
+    "imdb": "tt6095976",
+    "tmdb": 428014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23"
+}

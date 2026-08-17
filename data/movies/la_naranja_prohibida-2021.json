@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_naranja_prohibida_2021",
+  "title": "La naranja prohibida",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125975883",
+    "imdb": "tt15717468",
+    "tmdb": 888492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fib_the_truth_2021",
+  "title": "Fib the Truth",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109418639",
+    "imdb": "tt14453030",
+    "tmdb": 773543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09"
+}

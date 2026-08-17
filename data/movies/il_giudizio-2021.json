@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giudizio_2021",
+  "title": "Il giudizio",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051284",
+    "imdb": "tt15465584",
+    "tmdb": 813851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

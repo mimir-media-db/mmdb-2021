@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whole_truth_2021",
+  "title": "The Whole Truth",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109933128",
+    "imdb": "tt15850662",
+    "tmdb": 895001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_mask_2021",
+  "title": "Tiger Mask",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117431969",
+    "tmdb": 916122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-30"
+}

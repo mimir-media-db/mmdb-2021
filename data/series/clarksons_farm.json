@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clarksons_farm",
+  "title": "Clarkson's Farm",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107233698",
+    "imdb": "tt10541088",
+    "tmdb": 117648
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

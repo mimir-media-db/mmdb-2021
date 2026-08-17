@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wyrmwood_apocalypse_2021",
+  "title": "Wyrmwood: Apocalypse",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111679725",
+    "imdb": "tt14858054",
+    "tmdb": 879957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 88
+}

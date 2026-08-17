@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nowhere_special_2021",
+  "title": "Nowhere Special",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98853293",
+    "imdb": "tt11286640",
+    "tmdb": 728142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-07",
+  "runtime_minutes": 96
+}

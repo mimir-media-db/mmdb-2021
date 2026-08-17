@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bodins_in_the_land_of_smile_2021",
+  "title": "The Bodin's in the Land of Smile",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109852472",
+    "imdb": "tt15049366",
+    "tmdb": 874294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-17",
+  "runtime_minutes": 98
+}

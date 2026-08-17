@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_eternal",
+  "title": "Eternal",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q123745256",
+    "imdb": "tt28373787"
+  },
+  "last_updated": "2026-08-17"
+}

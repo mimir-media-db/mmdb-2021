@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lazarus_2021",
+  "title": "Lazarus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964666",
+    "imdb": "tt5821728",
+    "tmdb": 679784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_stars_2021",
+  "title": "To the Stars",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117383415",
+    "imdb": "tt13729548",
+    "tmdb": 914937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30",
+  "runtime_minutes": 73
+}

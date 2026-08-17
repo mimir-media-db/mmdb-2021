@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_j_team_2021",
+  "title": "The J Team",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108437486",
+    "imdb": "tt14006530",
+    "tmdb": 798293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03",
+  "runtime_minutes": 85
+}

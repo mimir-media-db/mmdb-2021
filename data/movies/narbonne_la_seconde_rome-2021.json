@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narbonne_la_seconde_rome_2021",
+  "title": "Narbonne, la seconde Rome",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120214690",
+    "imdb": "tt14871216",
+    "tmdb": 840595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 89
+}

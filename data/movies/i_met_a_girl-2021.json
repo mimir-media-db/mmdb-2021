@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_met_a_girl_2021",
+  "title": "I Met a Girl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100361355",
+    "imdb": "tt9731360",
+    "tmdb": 611114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-24",
+  "runtime_minutes": 108
+}

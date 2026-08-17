@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_with_one_sleeve_2021",
+  "title": "The Fish with One Sleeve",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109599923",
+    "imdb": "tt16732796",
+    "tmdb": 797140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-10"
+}

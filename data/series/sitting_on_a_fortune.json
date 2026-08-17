@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sitting_on_a_fortune",
+  "title": "Sitting on a Fortune",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111939955",
+    "imdb": "tt15227974",
+    "tmdb": 138109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

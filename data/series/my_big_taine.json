@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_big_taine",
+  "title": "My Big taine",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109791243",
+    "imdb": "tt15876512",
+    "tmdb": 147051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knox_the_rob_knox_story_2021",
+  "title": "(K)nox: The Rob Knox Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122802945",
+    "imdb": "tt11503700",
+    "tmdb": 912568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-09",
+  "runtime_minutes": 50
+}

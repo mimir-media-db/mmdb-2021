@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fucking_with_nobody_2021",
+  "title": "Fucking with Nobody",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104434903",
+    "imdb": "tt13081440",
+    "tmdb": 713671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_je_te_promets",
+  "title": "Je te promets",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105056989",
+    "imdb": "tt11469136",
+    "tmdb": 97856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 32
+}

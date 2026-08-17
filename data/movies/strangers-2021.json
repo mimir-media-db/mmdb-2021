@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strangers_2021",
+  "title": "Strangers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107447711",
+    "imdb": "tt14406500",
+    "tmdb": 846841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-04",
+  "runtime_minutes": 20
+}

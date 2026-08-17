@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_a_hitman_2021",
+  "title": "Confessions of a Hitman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110419278",
+    "imdb": "tt14678156",
+    "tmdb": 633951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-04",
+  "runtime_minutes": 109
+}

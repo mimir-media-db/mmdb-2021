@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_national_champions_2021",
+  "title": "National Champions",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106880589",
+    "imdb": "tt14547524",
+    "tmdb": 823425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

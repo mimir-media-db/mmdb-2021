@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_damelio_show",
+  "title": "The D'Amelio Show",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108975403",
+    "imdb": "tt13890060",
+    "tmdb": 130392
+  },
+  "last_updated": "2026-08-17"
+}

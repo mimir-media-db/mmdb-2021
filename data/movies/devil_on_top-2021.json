@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_on_top_2021",
+  "title": "Devil on Top",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107342274",
+    "imdb": "tt13920712",
+    "tmdb": 800377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-25",
+  "runtime_minutes": 106
+}

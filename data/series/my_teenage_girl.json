@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_teenage_girl",
+  "title": "My Teenage Girl",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108500411",
+    "tmdb": 136238
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

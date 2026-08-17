@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dialogues_on_dignity_2021",
+  "title": "Dialogues on Dignity",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575574",
+    "imdb": "tt15458888",
+    "tmdb": 876234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-27",
+  "runtime_minutes": 106
+}

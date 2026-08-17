@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_macchina_delle_immagini_di_alfredo_c_2021",
+  "title": "La macchina delle immagini di Alfredo C.",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051413",
+    "imdb": "tt15117768",
+    "tmdb": 854579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 76
+}

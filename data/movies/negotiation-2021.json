@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_negotiation_2021",
+  "title": "The Negotiation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612784",
+    "imdb": "tt6904272",
+    "tmdb": 542836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03",
+  "runtime_minutes": 114
+}

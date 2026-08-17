@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flickering_ghosts_of_loves_gone_by_2021",
+  "title": "Flickering Ghosts of Loves Gone By",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113173764",
+    "imdb": "tt8122738",
+    "tmdb": 844180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

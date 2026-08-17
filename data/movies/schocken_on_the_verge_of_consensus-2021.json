@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schocken_on_the_verge_of_consensus_2021",
+  "title": "Schocken, on the Verge of Consensus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108473891",
+    "imdb": "tt13117182",
+    "tmdb": 894024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-15",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walter_kaufmann_welch_ein_leben_2021",
+  "title": "Walter Kaufmann – Welch ein Leben!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107814985",
+    "imdb": "tt15348584",
+    "tmdb": 916490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30",
+  "runtime_minutes": 102
+}

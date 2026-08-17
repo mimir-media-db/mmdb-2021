@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_heartland_hero",
+  "title": "The Heartland Hero",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107550327",
+    "tmdb": 58659
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

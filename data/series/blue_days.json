@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_days",
+  "title": "The Blue Days",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q125307002"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_temptation_of_the_belgians_2021",
+  "title": "The Last Temptation of the Belgians",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111569067",
+    "imdb": "tt11611416",
+    "tmdb": 778761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 76
+}

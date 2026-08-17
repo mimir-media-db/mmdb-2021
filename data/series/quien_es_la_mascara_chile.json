@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_quien_es_la_mascara_chile",
+  "title": "¿Quién es la máscara? (Chile)",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109466317"
+  },
+  "last_updated": "2026-08-17"
+}

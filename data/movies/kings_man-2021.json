@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_man_2021",
+  "title": "The King's Man",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61633664",
+    "imdb": "tt6856242",
+    "tmdb": 476669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-22",
+  "runtime_minutes": 131
+}

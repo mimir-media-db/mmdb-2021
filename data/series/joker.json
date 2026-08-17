@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_joker",
+  "title": "The Joker",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110068757",
+    "imdb": "tt16409108",
+    "tmdb": 152279
+  },
+  "last_updated": "2026-08-17"
+}

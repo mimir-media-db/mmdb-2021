@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_infinitum_subject_unknown_2021",
+  "title": "Infinitum: Subject Unknown",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108456372",
+    "imdb": "tt12108622",
+    "tmdb": 797861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-22"
+}

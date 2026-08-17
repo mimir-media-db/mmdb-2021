@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_death_of_joana_2021",
+  "title": "The First Death of Joana",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107940283",
+    "imdb": "tt13841708",
+    "tmdb": 786375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

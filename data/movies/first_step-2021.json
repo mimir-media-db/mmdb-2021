@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_step_2021",
+  "title": "The First Step",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107342097",
+    "imdb": "tt14574078",
+    "tmdb": 825641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-10",
+  "runtime_minutes": 90
+}

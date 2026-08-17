@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_the_brooklyn_saints",
+  "title": "We Are: The Brooklyn Saints",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105394756",
+    "imdb": "tt13656220",
+    "tmdb": 115756
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_masantonio",
+  "title": "Masantonio",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107213122",
+    "imdb": "tt11418330",
+    "tmdb": 115087
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

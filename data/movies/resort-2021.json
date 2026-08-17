@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resort_2021",
+  "title": "The Resort",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106706911",
+    "imdb": "tt12163074",
+    "tmdb": 810271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-31"
+}

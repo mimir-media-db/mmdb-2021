@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_thousand_stars",
+  "title": "A Tale of Thousand Stars",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q86756184",
+    "imdb": "tt13660780",
+    "tmdb": 114703
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

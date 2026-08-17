@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_minutes_from_the_life_of_ivan_denisovich_2021",
+  "title": "100 minutes from the life of Ivan Denisovich",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60833617",
+    "imdb": "tt15225256",
+    "tmdb": 577040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-13",
+  "runtime_minutes": 104
+}

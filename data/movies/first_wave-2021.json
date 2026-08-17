@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_wave_2021",
+  "title": "The First Wave",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107404441",
+    "imdb": "tt13391444",
+    "tmdb": 811769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-07"
+}

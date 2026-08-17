@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mortal_wound",
+  "title": "Mortal Wound",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108049273",
+    "imdb": "tt14781024",
+    "tmdb": 126552
+  },
+  "last_updated": "2026-08-17"
+}

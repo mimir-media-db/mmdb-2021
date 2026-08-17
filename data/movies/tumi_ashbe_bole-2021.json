@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tumi_ashbe_bole_2021",
+  "title": "Tumi Ashbe Bole",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106432894",
+    "imdb": "tt13814292",
+    "tmdb": 798108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hip_hop_uncovered",
+  "title": "Hip Hop Uncovered",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106152926",
+    "imdb": "tt10773770",
+    "tmdb": 117532
+  },
+  "last_updated": "2026-08-17"
+}

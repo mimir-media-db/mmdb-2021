@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chikatilo",
+  "title": "Chikatilo",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105668766",
+    "imdb": "tt14298980",
+    "tmdb": 109356
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

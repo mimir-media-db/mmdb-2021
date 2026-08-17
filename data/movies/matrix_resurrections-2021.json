@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matrix_resurrections_2021",
+  "title": "The Matrix Resurrections",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80322391",
+    "imdb": "tt10838180",
+    "tmdb": 624860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-17",
+  "runtime_minutes": 148
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pushpa_the_rise_2021",
+  "title": "Pushpa: The Rise",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86751411",
+    "imdb": "tt9389998",
+    "tmdb": 690957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-17"
+}

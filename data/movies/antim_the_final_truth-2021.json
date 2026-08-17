@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antim_the_final_truth_2021",
+  "title": "Antim: The Final Truth",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105077561",
+    "imdb": "tt13491110",
+    "tmdb": 774607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26",
+  "runtime_minutes": 140
+}

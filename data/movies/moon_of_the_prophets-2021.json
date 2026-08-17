@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_of_the_prophets_2021",
+  "title": "The Moon Of The Prophets",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129047820"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-15",
+  "runtime_minutes": 64
+}

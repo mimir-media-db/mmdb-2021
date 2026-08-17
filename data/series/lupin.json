@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lupin",
+  "title": "Lupin",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104082429",
+    "imdb": "tt2531336",
+    "tmdb": 96677
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

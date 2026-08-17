@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_above_ground_2021",
+  "title": "Above Ground",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573869",
+    "imdb": "tt15964498",
+    "tmdb": 1246241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-18",
+  "runtime_minutes": 93
+}

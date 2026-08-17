@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_flame_2021",
+  "title": "The Flame",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083957",
+    "tmdb": 817544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_puppy_place",
+  "title": "Puppy Place",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109288694",
+    "imdb": "tt15389998",
+    "tmdb": 133153
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

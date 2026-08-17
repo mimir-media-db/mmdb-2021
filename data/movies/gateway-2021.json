@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gateway_2021",
+  "title": "The Gateway",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106237993",
+    "imdb": "tt10207710",
+    "tmdb": 713711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

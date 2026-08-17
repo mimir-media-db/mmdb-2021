@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spongebob_movie_sponge_on_the_run_2021",
+  "title": "The SpongeBob Movie: Sponge on the Run",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61450772",
+    "imdb": "tt4823776",
+    "tmdb": 400160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-04",
+  "runtime_minutes": 83
+}

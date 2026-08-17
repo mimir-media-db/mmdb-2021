@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_thing_about_love_2021",
+  "title": "Funny Thing About Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133283491",
+    "imdb": "tt13891338",
+    "tmdb": 896502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-03",
+  "runtime_minutes": 96
+}

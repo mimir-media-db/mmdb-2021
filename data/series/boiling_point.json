@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_boiling_point",
+  "title": "Boiling Point",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109621141",
+    "imdb": "tt14198098",
+    "tmdb": 127064
+  },
+  "last_updated": "2026-08-17"
+}

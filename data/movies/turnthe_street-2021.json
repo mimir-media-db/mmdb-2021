@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_turnthe_street_2021",
+  "title": "turn:The Street",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109458233",
+    "tmdb": 806227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-31"
+}

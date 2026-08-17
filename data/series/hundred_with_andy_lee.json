@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hundred_with_andy_lee",
+  "title": "The Hundred with Andy Lee",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108864408",
+    "imdb": "tt15553638",
+    "tmdb": 130887
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

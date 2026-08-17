@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dmx_dont_try_to_understand_2021",
+  "title": "DMX: Don't Try to Understand",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110128171",
+    "imdb": "tt11817822",
+    "tmdb": 754848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-23"
+}

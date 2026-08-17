@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_my_family",
+  "title": "Story of My Family!!!",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104519504",
+    "imdb": "tt14490626",
+    "tmdb": 117184
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

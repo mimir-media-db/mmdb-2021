@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chathur_mukham_2021",
+  "title": "Chathur Mukham",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106610725",
+    "imdb": "tt11543916",
+    "tmdb": 811549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-08",
+  "runtime_minutes": 138
+}

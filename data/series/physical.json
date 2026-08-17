@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_physical",
+  "title": "Physical",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106201720",
+    "imdb": "tt11828492",
+    "tmdb": 119181
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

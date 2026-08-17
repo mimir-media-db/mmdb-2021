@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journal_for_jordan_2021",
+  "title": "A Journal for Jordan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105560268",
+    "imdb": "tt0995854",
+    "tmdb": 501841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-10",
+  "runtime_minutes": 131
+}

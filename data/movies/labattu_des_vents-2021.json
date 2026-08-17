@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_labattu_des_vents_2021",
+  "title": "L'Abattu des vents",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108141113",
+    "imdb": "tt15241852",
+    "tmdb": 862512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 5
+}

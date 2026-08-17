@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ainsi_va_manu",
+  "title": "Ainsi va Manu",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126683720",
+    "imdb": "tt14846044",
+    "tmdb": 127826
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

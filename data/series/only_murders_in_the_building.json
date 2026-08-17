@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_only_murders_in_the_building",
+  "title": "Only Murders in the Building",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104007235",
+    "imdb": "tt11691774",
+    "tmdb": 107113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_dead_2021",
+  "title": "Day of the dead",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124336357",
+    "imdb": "tt15709222",
+    "tmdb": 772766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 86
+}

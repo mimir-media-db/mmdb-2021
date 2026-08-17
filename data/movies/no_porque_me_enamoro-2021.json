@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_porque_me_enamoro_2021",
+  "title": "No, Porque Me Enamoro",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111177586",
+    "imdb": "tt12126156",
+    "tmdb": 720873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 120
+}

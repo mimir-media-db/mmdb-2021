@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_naomi_osaka",
+  "title": "Naomi Osaka",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107241471",
+    "imdb": "tt11898920",
+    "tmdb": 126387
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oss_117_from_africa_with_love_2021",
+  "title": "OSS 117: From Africa with Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67805539",
+    "imdb": "tt7972012",
+    "tmdb": 604563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-04",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_yokai_war_guardians_2021",
+  "title": "The Great Yokai War: Guardians",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104630023",
+    "imdb": "tt13967368",
+    "tmdb": 746808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

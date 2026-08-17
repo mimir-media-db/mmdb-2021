@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saber_zenkaiger_super_hero_senki_2021",
+  "title": "Saber + Zenkaiger: Super Hero Senki",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107473982",
+    "imdb": "tt14727298",
+    "tmdb": 826708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-22"
+}

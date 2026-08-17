@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adult_trainee",
+  "title": "Adult Trainee",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108899670",
+    "imdb": "tt16383322",
+    "tmdb": 137467
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

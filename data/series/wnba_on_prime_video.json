@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wnba_on_prime_video",
+  "title": "WNBA on Prime Video",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129677424",
+    "imdb": "tt32904458"
+  },
+  "last_updated": "2026-08-17"
+}

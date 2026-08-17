@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suzanna_andler_2021",
+  "title": "Suzanna Andler",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106607266",
+    "imdb": "tt11530778",
+    "tmdb": 660005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-02",
+  "runtime_minutes": 91
+}

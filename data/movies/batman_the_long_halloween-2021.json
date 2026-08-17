@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_batman_the_long_halloween_2021",
+  "title": "Batman: The Long Halloween",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107452640",
+    "imdb": "tt21445686",
+    "tmdb": 1010830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

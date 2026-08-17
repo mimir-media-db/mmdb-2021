@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_poeta_del_ring_2021",
+  "title": "La poeta del ring",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719366",
+    "imdb": "tt14167658",
+    "tmdb": 887182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

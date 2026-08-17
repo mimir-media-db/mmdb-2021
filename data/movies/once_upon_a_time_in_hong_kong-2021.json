@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_hong_kong_2021",
+  "title": "Once Upon a Time in Hong Kong",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245296",
+    "imdb": "tt14466064",
+    "tmdb": 814781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

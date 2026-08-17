@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fbi_international",
+  "title": "FBI: International",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q107505019",
+    "imdb": "tt14449470",
+    "tmdb": 121658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divoc12_2021",
+  "title": "DIVOC-12",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109603216",
+    "imdb": "tt16997040",
+    "tmdb": 854962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01"
+}

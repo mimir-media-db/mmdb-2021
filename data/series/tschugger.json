@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tschugger",
+  "title": "Tschugger",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109945087",
+    "imdb": "tt15425948",
+    "tmdb": 138927
+  },
+  "last_updated": "2026-08-17"
+}

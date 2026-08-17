@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_blizkom_rasstoyanii_2021",
+  "title": "Na blizkom rasstoyanii",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109387471",
+    "imdb": "tt15766676",
+    "tmdb": 862202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-21",
+  "runtime_minutes": 94
+}

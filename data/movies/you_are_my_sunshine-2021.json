@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_my_sunshine_2021",
+  "title": "You Are My Sunshine",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113252675",
+    "imdb": "tt7161712",
+    "tmdb": 583135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 114
+}

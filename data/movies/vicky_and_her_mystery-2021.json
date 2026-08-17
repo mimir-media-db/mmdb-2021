@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vicky_and_her_mystery_2021",
+  "title": "Vicky and Her Mystery",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104033765",
+    "imdb": "tt10945274",
+    "tmdb": 754067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-24",
+  "runtime_minutes": 84
+}

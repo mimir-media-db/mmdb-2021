@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_in_a_gunfight_2021",
+  "title": "Die in a Gunfight",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488932",
+    "imdb": "tt1697800",
+    "tmdb": 481879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01"
+}

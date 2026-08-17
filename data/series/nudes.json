@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nudes",
+  "title": "Nudes",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113882130",
+    "imdb": "tt13459428",
+    "tmdb": 123629
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

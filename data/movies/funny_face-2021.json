@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_face_2021",
+  "title": "Funny Face",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106506417",
+    "imdb": "tt11638942",
+    "tmdb": 664596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-30"
+}

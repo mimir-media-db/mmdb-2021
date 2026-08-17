@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_my_imam_2021",
+  "title": "Dear My Imam",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109260545",
+    "imdb": "tt14579998",
+    "tmdb": 821656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-13"
+}

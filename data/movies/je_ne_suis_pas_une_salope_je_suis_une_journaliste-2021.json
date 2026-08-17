@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_suis_pas_une_salope_je_suis_une_journaliste_2021",
+  "title": "Je ne suis pas une salope, je suis une journaliste",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106104662",
+    "imdb": "tt14306964",
+    "tmdb": 808698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 76
+}

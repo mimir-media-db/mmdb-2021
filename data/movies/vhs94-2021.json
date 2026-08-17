@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vhs94_2021",
+  "title": "V/H/S/94",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108551180",
+    "imdb": "tt14867006",
+    "tmdb": 753453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 103
+}

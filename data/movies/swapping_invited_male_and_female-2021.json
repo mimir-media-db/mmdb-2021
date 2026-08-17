@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_swapping_invited_male_and_female_2021",
+  "title": "Swapping - Invited Male and Female",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841548",
+    "tmdb": 1016279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-13"
+}

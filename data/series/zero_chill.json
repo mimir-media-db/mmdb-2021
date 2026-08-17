@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zero_chill",
+  "title": "Zero Chill",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105979452",
+    "imdb": "tt12083014",
+    "tmdb": 120849
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

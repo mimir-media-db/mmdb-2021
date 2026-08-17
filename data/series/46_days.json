@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_46_days",
+  "title": "46 Days",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107426241",
+    "imdb": "tt13660272",
+    "tmdb": 128747
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

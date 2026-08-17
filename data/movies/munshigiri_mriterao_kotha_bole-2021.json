@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munshigiri_mriterao_kotha_bole_2021",
+  "title": "Munshigiri: Mriterao Kotha Bole",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108551269",
+    "imdb": "tt15245506",
+    "tmdb": 872336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30"
+}

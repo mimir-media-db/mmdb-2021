@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackpink_the_movie_2021",
+  "title": "Blackpink: The Movie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107258216",
+    "imdb": "tt14880612",
+    "tmdb": 843388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-04",
+  "runtime_minutes": 99
+}

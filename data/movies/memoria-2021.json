@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memoria_2021",
+  "title": "Memoria",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67087116",
+    "imdb": "tt8399288",
+    "tmdb": 511819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15",
+  "runtime_minutes": 136
+}

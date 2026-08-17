@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happier_than_ever_a_love_letter_to_los_angeles_2021",
+  "title": "Happier Than Ever: A Love Letter to Los Angeles",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112943780",
+    "imdb": "tt15094392",
+    "tmdb": 853088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03",
+  "runtime_minutes": 65
+}

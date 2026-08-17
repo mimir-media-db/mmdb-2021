@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kojoten",
+  "title": "Kojoten",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109036329",
+    "imdb": "tt13847924",
+    "tmdb": 125676
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

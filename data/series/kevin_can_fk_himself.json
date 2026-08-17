@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kevin_can_fk_himself",
+  "title": "Kevin Can F**k Himself",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107203482",
+    "imdb": "tt9257258",
+    "tmdb": 99652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

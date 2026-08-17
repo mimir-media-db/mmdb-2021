@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sour_2021",
+  "title": "Sweet & Sour",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106416026",
+    "imdb": "tt14599938",
+    "tmdb": 662237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-04"
+}

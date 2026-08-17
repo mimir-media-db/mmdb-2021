@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tick_tick_boom_2021",
+  "title": "Tick, Tick... Boom!",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85323361",
+    "imdb": "tt8721424",
+    "tmdb": 537116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-12"
+}

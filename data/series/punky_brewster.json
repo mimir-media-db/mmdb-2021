@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_punky_brewster",
+  "title": "Punky Brewster",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105764490",
+    "imdb": "tt10436362",
+    "tmdb": 95192
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

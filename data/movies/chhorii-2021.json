@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhorii_2021",
+  "title": "Chhorii",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104879238",
+    "imdb": "tt12861212",
+    "tmdb": 711643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26"
+}

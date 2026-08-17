@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortal_kombat_legends_battle_of_the_realms_2021",
+  "title": "Mortal Kombat Legends: Battle of the Realms",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108361099",
+    "imdb": "tt14901058",
+    "tmdb": 841755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-31",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_g_storm_2021",
+  "title": "G Storm",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97168852",
+    "imdb": "tt10423286",
+    "tmdb": 814785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

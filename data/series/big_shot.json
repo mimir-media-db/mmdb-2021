@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_shot",
+  "title": "Big Shot",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85747111",
+    "imdb": "tt11238096",
+    "tmdb": 96716
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

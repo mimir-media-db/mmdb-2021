@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_we_were_2021",
+  "title": "Who We Were",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105581411",
+    "imdb": "tt12184602",
+    "tmdb": 795803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-27",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ordinary_joe",
+  "title": "Ordinary Joe",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107088086",
+    "imdb": "tt9288826",
+    "tmdb": 122198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

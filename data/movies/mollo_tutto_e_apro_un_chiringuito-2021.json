@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mollo_tutto_e_apro_un_chiringuito_2021",
+  "title": "Mollo tutto e apro un chiringuito",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110461032",
+    "imdb": "tt14859874",
+    "tmdb": 839287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 105
+}

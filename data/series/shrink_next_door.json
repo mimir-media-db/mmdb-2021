@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shrink_next_door",
+  "title": "The Shrink Next Door",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105560731",
+    "imdb": "tt11947248",
+    "tmdb": 102540
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

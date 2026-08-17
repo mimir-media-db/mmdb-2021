@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_witch_on_a_broomstick_2021",
+  "title": "Little Witch on a Broomstick",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12050995",
+    "imdb": "tt0969332",
+    "tmdb": 110813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-24",
+  "runtime_minutes": 90
+}

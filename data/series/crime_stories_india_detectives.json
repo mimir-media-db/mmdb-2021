@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_stories_india_detectives",
+  "title": "Crime Stories: India Detectives",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112255950",
+    "imdb": "tt14178956",
+    "tmdb": 132583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

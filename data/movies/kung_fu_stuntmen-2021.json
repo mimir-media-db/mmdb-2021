@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_stuntmen_2021",
+  "title": "Kung Fu Stuntmen",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274951",
+    "imdb": "tt15392272",
+    "tmdb": 868578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-28"
+}

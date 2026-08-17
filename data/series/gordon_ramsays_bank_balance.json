@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gordon_ramsays_bank_balance",
+  "title": "Gordon Ramsay's Bank Balance",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105742461",
+    "imdb": "tt13133726",
+    "tmdb": 119678
+  },
+  "last_updated": "2026-08-17"
+}

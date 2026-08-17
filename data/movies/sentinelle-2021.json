@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sentinelle_2021",
+  "title": "Sentinelle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105318632",
+    "imdb": "tt11734264",
+    "tmdb": 793723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-05",
+  "runtime_minutes": 80
+}

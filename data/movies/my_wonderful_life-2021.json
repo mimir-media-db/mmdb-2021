@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wonderful_life_2021",
+  "title": "My Wonderful Life",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129357271",
+    "imdb": "tt13164942",
+    "tmdb": 854537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-29",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_j2_j_retribusi_2021",
+  "title": "J2: J Retribusi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110054672",
+    "imdb": "tt11347406",
+    "tmdb": 838859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-01"
+}

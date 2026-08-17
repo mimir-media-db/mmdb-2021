@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_idol_the_coup",
+  "title": "Idol: The Coup",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108887397",
+    "imdb": "tt16236014",
+    "tmdb": 137215
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

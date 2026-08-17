@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aku_lupa_aku_luka_2021",
+  "title": "Aku Lupa Aku Luka",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109127411",
+    "imdb": "tt15418540",
+    "tmdb": 874753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-08",
+  "runtime_minutes": 60
+}

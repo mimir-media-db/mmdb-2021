@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bull_2021",
+  "title": "The Big Bull",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74560421",
+    "imdb": "tt9614452",
+    "tmdb": 660042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genitori_vs_influencer_2021",
+  "title": "Genitori vs influencer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106461608",
+    "imdb": "tt13051800",
+    "tmdb": 773147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-04",
+  "runtime_minutes": 94
+}

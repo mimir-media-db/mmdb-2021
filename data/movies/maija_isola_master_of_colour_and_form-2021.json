@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maija_isola_master_of_colour_and_form_2021",
+  "title": "Maija Isola, Master of Colour and Form",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803466",
+    "imdb": "tt12758804",
+    "tmdb": 807255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-18",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kim_jongboon_of_wangshimni_2021",
+  "title": "Kim Jong-boon of Wangshimni",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110118363",
+    "imdb": "tt15495098",
+    "tmdb": 877443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11"
+}

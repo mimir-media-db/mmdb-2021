@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tina_mobil",
+  "title": "Tina mobil",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108612343",
+    "imdb": "tt15475734",
+    "tmdb": 135449
+  },
+  "last_updated": "2026-08-17"
+}

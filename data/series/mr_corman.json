@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_corman",
+  "title": "Mr. Corman",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105773126",
+    "imdb": "tt10971064",
+    "tmdb": 124897
+  },
+  "last_updated": "2026-08-17"
+}

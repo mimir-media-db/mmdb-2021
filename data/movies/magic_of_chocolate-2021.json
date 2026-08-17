@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_of_chocolate_2021",
+  "title": "The Magic of Chocolate",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134915966",
+    "imdb": "tt13870714",
+    "tmdb": 833075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-18",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ba_da_bean",
+  "title": "Ba Da Bean",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137214253",
+    "imdb": "tt16591764",
+    "tmdb": 138555
+  },
+  "last_updated": "2026-08-17"
+}

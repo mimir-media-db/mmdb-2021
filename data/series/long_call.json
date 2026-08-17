@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_long_call",
+  "title": "The Long Call",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109536378",
+    "imdb": "tt13610872",
+    "tmdb": 136397
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

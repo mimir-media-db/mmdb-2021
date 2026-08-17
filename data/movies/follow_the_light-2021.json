@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_follow_the_light_2021",
+  "title": "Follow the Light",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109359560",
+    "imdb": "tt15106830",
+    "tmdb": 695214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01"
+}

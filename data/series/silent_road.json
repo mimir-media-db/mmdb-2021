@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_silent_road",
+  "title": "Silent Road",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q112798605",
+    "imdb": "tt14395312",
+    "tmdb": 114351
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

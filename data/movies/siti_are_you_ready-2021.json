@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_siti_are_you_ready_2021",
+  "title": "Siti: Are You Ready",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110542716"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-30",
+  "runtime_minutes": 80
+}

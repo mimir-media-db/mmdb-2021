@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dias_de_gallos",
+  "title": "Días de gallos",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105482934",
+    "imdb": "tt15444212",
+    "tmdb": 133423
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

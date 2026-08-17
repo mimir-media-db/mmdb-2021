@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hunters",
+  "title": "Hunters",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q55635302",
+    "imdb": "tt7456722",
+    "tmdb": 79622
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

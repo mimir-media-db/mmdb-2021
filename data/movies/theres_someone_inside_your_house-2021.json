@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theres_someone_inside_your_house_2021",
+  "title": "There's Someone Inside Your House",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66828791",
+    "imdb": "tt8150814",
+    "tmdb": 512025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

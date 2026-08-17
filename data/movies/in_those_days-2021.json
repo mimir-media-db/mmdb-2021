@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_those_days_2021",
+  "title": "In Those Days",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108915233",
+    "imdb": "tt14799066",
+    "tmdb": 794708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-19",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_to_soar_2021",
+  "title": "Spirit to Soar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108280903",
+    "imdb": "tt15452236",
+    "tmdb": 825747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-29"
+}

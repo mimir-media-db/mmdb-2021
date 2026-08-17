@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avvy_2021",
+  "title": "$avvy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106237879",
+    "imdb": "tt14207646",
+    "tmdb": 804216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-01",
+  "runtime_minutes": 79
+}

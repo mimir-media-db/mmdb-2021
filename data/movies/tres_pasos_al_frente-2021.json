@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tres_pasos_al_frente_2021",
+  "title": "Tres pasos al frente",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115316025",
+    "imdb": "tt15514434"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

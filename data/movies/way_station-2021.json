@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_station_2021",
+  "title": "A Way Station",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124317733",
+    "imdb": "tt21038832",
+    "tmdb": 784610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 101
+}

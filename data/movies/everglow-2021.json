@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everglow_2021",
+  "title": "Everglow",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109459613",
+    "imdb": "tt16360304",
+    "tmdb": 718596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-30"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macross_frontier_labyrinth_of_time_2021",
+  "title": "Macross Frontier: Labyrinth of Time",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131549880",
+    "imdb": "tt13997618",
+    "tmdb": 872865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30"
+}

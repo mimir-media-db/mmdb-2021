@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dehors_serge_dehors_2021",
+  "title": "Dehors Serge Dehors",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109668366",
+    "imdb": "tt16091736",
+    "tmdb": 889403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19",
+  "runtime_minutes": 68
+}

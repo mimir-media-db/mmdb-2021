@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_2021",
+  "title": "The Wedding",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110459378",
+    "imdb": "tt12869276",
+    "tmdb": 720318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

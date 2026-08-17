@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shiddat_2021",
+  "title": "Shiddat",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85800832",
+    "imdb": "tt11314148",
+    "tmdb": 824744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01"
+}

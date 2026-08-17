@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_layangan_putus",
+  "title": "Layangan Putus",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109797134",
+    "imdb": "tt16258352",
+    "tmdb": 138945
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

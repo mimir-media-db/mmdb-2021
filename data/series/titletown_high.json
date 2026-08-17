@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_titletown_high",
+  "title": "Titletown High",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108532376",
+    "imdb": "tt15192032",
+    "tmdb": 131114
+  },
+  "last_updated": "2026-08-17"
+}

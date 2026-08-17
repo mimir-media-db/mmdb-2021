@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spiked_2021",
+  "title": "Spiked",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104862205",
+    "imdb": "tt9051162",
+    "tmdb": 810546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

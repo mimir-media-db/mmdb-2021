@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_know_what_you_did_last_summer",
+  "title": "I Know What You Did Last Summer",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105100206",
+    "imdb": "tt10937180",
+    "tmdb": 129680
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

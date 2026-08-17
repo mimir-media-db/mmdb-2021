@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knights_of_valour_2021",
+  "title": "Knights of Valour",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598093",
+    "imdb": "tt14226282",
+    "tmdb": 795793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-11"
+}

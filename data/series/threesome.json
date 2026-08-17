@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_threesome",
+  "title": "Threesome",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112898366",
+    "imdb": "tt13839098",
+    "tmdb": 130467
+  },
+  "last_updated": "2026-08-17"
+}

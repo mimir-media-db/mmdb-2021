@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punalada_2021",
+  "title": "Puñalada",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114920483",
+    "imdb": "tt25390994",
+    "tmdb": 1022829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-14"
+}

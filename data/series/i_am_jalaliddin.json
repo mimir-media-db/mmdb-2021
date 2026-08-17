@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_jalaliddin",
+  "title": "I am Jalaliddin",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105620963",
+    "imdb": "tt14045562",
+    "tmdb": 118918
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

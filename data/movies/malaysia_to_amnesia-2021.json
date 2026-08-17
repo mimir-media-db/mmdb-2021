@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malaysia_to_amnesia_2021",
+  "title": "Malaysia to Amnesia",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107203287",
+    "imdb": "tt14591278",
+    "tmdb": 833401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-28"
+}

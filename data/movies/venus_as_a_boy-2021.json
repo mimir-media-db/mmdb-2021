@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_as_a_boy_2021",
+  "title": "Venus as a Boy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108435013",
+    "imdb": "tt8783130",
+    "tmdb": 825810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24",
+  "runtime_minutes": 104
+}

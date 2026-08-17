@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_trash_2021",
+  "title": "White Trash",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18334745",
+    "imdb": "tt3580332",
+    "tmdb": 794709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-04"
+}

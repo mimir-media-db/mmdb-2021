@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cargo",
+  "title": "Cargo",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108436887",
+    "imdb": "tt15361062",
+    "tmdb": 132856
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

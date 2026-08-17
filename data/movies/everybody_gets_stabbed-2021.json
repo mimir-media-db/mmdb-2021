@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_gets_stabbed_2021",
+  "title": "Everybody Gets Stabbed",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600023",
+    "imdb": "tt9050224",
+    "tmdb": 802066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 92
+}

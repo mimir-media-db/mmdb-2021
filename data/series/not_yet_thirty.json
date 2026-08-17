@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_not_yet_thirty",
+  "title": "Not Yet Thirty",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105635792",
+    "imdb": "tt14023304",
+    "tmdb": 118931
+  },
+  "last_updated": "2026-08-17"
+}

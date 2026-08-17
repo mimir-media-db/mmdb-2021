@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madder_red_2021",
+  "title": "A Madder Red",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106172249",
+    "imdb": "tt14316810",
+    "tmdb": 824410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lockdown",
+  "title": "Lockdown",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105117492",
+    "imdb": "tt12830262",
+    "tmdb": 115019
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_strays",
+  "title": "Strays",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106462635",
+    "imdb": "tt14456880",
+    "tmdb": 132528
+  },
+  "last_updated": "2026-08-17"
+}

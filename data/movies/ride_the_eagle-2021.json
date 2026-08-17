@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_the_eagle_2021",
+  "title": "Ride the Eagle",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107071651",
+    "imdb": "tt14673560",
+    "tmdb": 830991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 88
+}

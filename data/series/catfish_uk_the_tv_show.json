@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_catfish_uk_the_tv_show",
+  "title": "Catfish UK: The TV Show",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114165407",
+    "imdb": "tt14589246",
+    "tmdb": 124131
+  },
+  "last_updated": "2026-08-17"
+}

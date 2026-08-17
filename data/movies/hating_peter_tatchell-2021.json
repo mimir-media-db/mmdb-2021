@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hating_peter_tatchell_2021",
+  "title": "Hating Peter Tatchell",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107062555",
+    "imdb": "tt6076668",
+    "tmdb": 596252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

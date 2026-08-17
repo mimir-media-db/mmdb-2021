@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broadway_beyond_the_golden_age_2021",
+  "title": "Broadway: Beyond the Golden Age",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119100423",
+    "imdb": "tt2756046",
+    "tmdb": 859706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 81
+}

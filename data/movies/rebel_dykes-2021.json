@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_dykes_2021",
+  "title": "Rebel Dykes",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111321244",
+    "imdb": "tt8492826",
+    "tmdb": 797874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 89
+}

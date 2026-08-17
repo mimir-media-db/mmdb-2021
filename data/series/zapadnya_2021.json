@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zapadnya_2021",
+  "title": "Zapadnya (2021)",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111474455",
+    "imdb": "tt16103786",
+    "tmdb": 138652
+  },
+  "last_updated": "2026-08-17"
+}

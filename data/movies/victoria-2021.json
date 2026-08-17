@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_victoria_2021",
+  "title": "Victoria",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84953605",
+    "imdb": "tt7494506",
+    "tmdb": 665413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-17",
+  "runtime_minutes": 71
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_spades_2021",
+  "title": "Queen of Spades",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109558330",
+    "imdb": "tt10260844",
+    "tmdb": 829358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

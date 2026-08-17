@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_friends_race_for_the_sodor_cup_2021",
+  "title": "Thomas & Friends: Race for the Sodor Cup",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111048409",
+    "imdb": "tt15337666",
+    "tmdb": 875628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-17"
+}

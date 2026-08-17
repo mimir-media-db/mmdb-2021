@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beast_must_die",
+  "title": "The Beast Must Die",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107449566",
+    "imdb": "tt9062784",
+    "tmdb": 106348
+  },
+  "last_updated": "2026-08-17"
+}

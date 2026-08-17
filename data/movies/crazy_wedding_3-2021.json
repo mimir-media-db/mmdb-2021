@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_wedding_3_2021",
+  "title": "Crazy Wedding 3",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98536285",
+    "imdb": "tt14108464",
+    "tmdb": 792415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

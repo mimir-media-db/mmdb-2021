@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snowball_2021",
+  "title": "Snowball",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107515649",
+    "imdb": "tt13705714",
+    "tmdb": 668704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-01"
+}

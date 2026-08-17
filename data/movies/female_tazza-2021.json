@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_female_tazza_2021",
+  "title": "Female Tazza",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109768656",
+    "tmdb": 892856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-08"
+}

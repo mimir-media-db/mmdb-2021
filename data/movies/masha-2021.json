@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masha_2021",
+  "title": "Masha",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105904256",
+    "imdb": "tt11892302",
+    "tmdb": 575343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-01",
+  "runtime_minutes": 85
+}

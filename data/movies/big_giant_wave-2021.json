@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_giant_wave_2021",
+  "title": "Big Giant Wave",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108083861",
+    "imdb": "tt13653682",
+    "tmdb": 809680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-19"
+}

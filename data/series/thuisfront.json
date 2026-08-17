@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thuisfront",
+  "title": "Thuisfront",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107423680",
+    "imdb": "tt13322752",
+    "tmdb": 123752
+  },
+  "last_updated": "2026-08-17"
+}

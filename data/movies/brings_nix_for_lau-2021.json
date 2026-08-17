@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brings_nix_for_lau_2021",
+  "title": "Brings – nix för lau",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108704922",
+    "imdb": "tt20413430"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-27",
+  "runtime_minutes": 90
+}

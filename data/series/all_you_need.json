@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_you_need",
+  "title": "All You Need",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q106768304",
+    "imdb": "tt14576708",
+    "tmdb": 123424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

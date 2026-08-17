@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_almania",
+  "title": "Almania",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106434512",
+    "imdb": "tt14600498",
+    "tmdb": 121062
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_comes_from_the_beak_the_way_it_has_grown_2021",
+  "title": "Art Comes from the Beak the Way It Has Grown",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104883596",
+    "imdb": "tt11865154",
+    "tmdb": 665445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 106
+}

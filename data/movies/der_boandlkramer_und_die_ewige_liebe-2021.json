@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_boandlkramer_und_die_ewige_liebe_2021",
+  "title": "Der Boandlkramer und die ewige Liebe",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85205107",
+    "imdb": "tt11390656",
+    "tmdb": 672221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 87
+}

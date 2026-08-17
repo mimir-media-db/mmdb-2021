@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_alice",
+  "title": "Finding Alice",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105085661",
+    "imdb": "tt11127412",
+    "tmdb": 116620
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

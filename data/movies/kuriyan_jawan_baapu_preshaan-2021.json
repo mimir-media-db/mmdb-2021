@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuriyan_jawan_baapu_preshaan_2021",
+  "title": "Kuriyan Jawan Baapu Preshaan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108172373",
+    "imdb": "tt14303124",
+    "tmdb": 814952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

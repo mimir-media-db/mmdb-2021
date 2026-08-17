@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_around_the_world_in_80_days",
+  "title": "Around the World in 80 Days",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q87192600",
+    "imdb": "tt9174578",
+    "tmdb": 96228
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

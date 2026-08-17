@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_egalite_2021",
+  "title": "Égalité",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110086360",
+    "imdb": "tt14210640",
+    "tmdb": 894848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-28"
+}

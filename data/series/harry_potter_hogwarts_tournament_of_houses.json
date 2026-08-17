@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harry_potter_hogwarts_tournament_of_houses",
+  "title": "Harry Potter: Hogwarts Tournament of Houses",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q122662972",
+    "imdb": "tt15431326",
+    "tmdb": 133723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

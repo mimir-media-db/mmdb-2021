@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matter_of_trust_2021",
+  "title": "A Matter of Trust",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111309437",
+    "imdb": "tt15310458",
+    "tmdb": 897155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 120
+}

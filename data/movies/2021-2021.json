@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2021_2021",
+  "title": "Верить (фильм, 2021)",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136556205",
+    "imdb": "tt15409052",
+    "tmdb": 874240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-05",
+  "runtime_minutes": 65
+}

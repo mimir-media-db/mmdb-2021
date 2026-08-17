@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starling_2021",
+  "title": "The Starling",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74191603",
+    "imdb": "tt5164438",
+    "tmdb": 468225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 103
+}

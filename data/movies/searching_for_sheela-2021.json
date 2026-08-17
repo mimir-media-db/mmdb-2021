@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_for_sheela_2021",
+  "title": "Searching for Sheela",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106618222",
+    "imdb": "tt14167424",
+    "tmdb": 816836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

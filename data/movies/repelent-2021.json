@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_repelent_2021",
+  "title": "Repelent",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136373132",
+    "imdb": "tt38489802",
+    "tmdb": 1577656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-12",
+  "runtime_minutes": 8
+}

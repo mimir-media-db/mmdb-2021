@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_justin_bieber_our_world_2021",
+  "title": "Justin Bieber: Our World",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108704270",
+    "imdb": "tt15385930",
+    "tmdb": 871858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-08",
+  "runtime_minutes": 94
+}

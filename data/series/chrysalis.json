@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chrysalis",
+  "title": "Chrysalis",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106378941",
+    "imdb": "tt14014086",
+    "tmdb": 121435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_families_project",
+  "title": "Families Project",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109139764",
+    "imdb": "tt14544474"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 3
+}

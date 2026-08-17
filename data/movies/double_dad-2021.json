@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_dad_2021",
+  "title": "Double Dad",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104832618",
+    "imdb": "tt11821818",
+    "tmdb": 773998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lockdown_hauntings_2021",
+  "title": "The Lockdown Hauntings",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107994736",
+    "imdb": "tt12764606",
+    "tmdb": 732773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-03"
+}

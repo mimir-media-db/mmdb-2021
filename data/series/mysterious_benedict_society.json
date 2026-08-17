@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mysterious_benedict_society",
+  "title": "The Mysterious Benedict Society",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104902314",
+    "imdb": "tt11875316",
+    "tmdb": 104359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

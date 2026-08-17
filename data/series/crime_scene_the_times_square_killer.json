@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_scene_the_times_square_killer",
+  "title": "Crime Scene: The Times Square Killer",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110291632",
+    "imdb": "tt16027926",
+    "tmdb": 153588
+  },
+  "last_updated": "2026-08-17"
+}

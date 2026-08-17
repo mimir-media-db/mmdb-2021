@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contra_2021",
+  "title": "Contra",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100323656",
+    "imdb": "tt10628092",
+    "tmdb": 664698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-28",
+  "runtime_minutes": 108
+}

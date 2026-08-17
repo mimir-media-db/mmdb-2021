@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sk8r_grrl_2021",
+  "title": "Sk8r Grrl",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257029",
+    "imdb": "tt2705972",
+    "tmdb": 522772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31",
+  "runtime_minutes": 90
+}

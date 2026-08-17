@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_a_ghost_of_me_2021",
+  "title": "There is a Ghost of Me",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140709531",
+    "imdb": "tt14034570",
+    "tmdb": 778637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 6
+}

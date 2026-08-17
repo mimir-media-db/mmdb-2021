@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punch_9_for_harold_washington_2021",
+  "title": "Punch 9 for Harold Washington",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108909210",
+    "imdb": "tt8005886",
+    "tmdb": 876328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

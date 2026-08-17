@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mafia_is_no_longer_what_it_used_to_be_2021",
+  "title": "The Mafia Is No Longer What It Used to Be",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66776880",
+    "imdb": "tt10673846",
+    "tmdb": 618215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 105
+}

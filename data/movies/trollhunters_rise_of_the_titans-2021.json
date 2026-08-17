@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trollhunters_rise_of_the_titans_2021",
+  "title": "Trollhunters: Rise of the Titans",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107620059",
+    "imdb": "tt12851396",
+    "tmdb": 730840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-21",
+  "runtime_minutes": 106
+}

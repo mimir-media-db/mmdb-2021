@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_gon_be_alright_2021",
+  "title": "We Gon' Be Alright",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125054429",
+    "imdb": "tt21228424",
+    "tmdb": 636358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-31",
+  "runtime_minutes": 114
+}

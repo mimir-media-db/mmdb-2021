@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_singularity_2021",
+  "title": "Naked Singularity",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76656215",
+    "imdb": "tt9598214",
+    "tmdb": 624789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

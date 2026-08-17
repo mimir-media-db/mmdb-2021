@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fir_no_3390706_2021",
+  "title": "F.I.R No. 339/07/06",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108782197",
+    "imdb": "tt15698592",
+    "tmdb": 877324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-10"
+}

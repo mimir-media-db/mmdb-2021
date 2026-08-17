@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_auto_da_boa_mentira_2021",
+  "title": "O Auto da Boa Mentira",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106546999",
+    "imdb": "tt9480692",
+    "tmdb": 823031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-29",
+  "runtime_minutes": 100
+}

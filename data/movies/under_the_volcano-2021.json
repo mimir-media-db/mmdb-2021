@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_volcano_2021",
+  "title": "Under the Volcano",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108428043",
+    "imdb": "tt9598492",
+    "tmdb": 804013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

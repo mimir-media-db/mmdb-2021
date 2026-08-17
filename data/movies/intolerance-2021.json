@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intolerance_2021",
+  "title": "Intolerance",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108886426",
+    "imdb": "tt14605258",
+    "tmdb": 826702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23",
+  "runtime_minutes": 107
+}

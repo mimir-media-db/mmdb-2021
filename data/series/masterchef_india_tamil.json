@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_india_tamil",
+  "title": "MasterChef India Tamil",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107723155",
+    "imdb": "tt33049400",
+    "tmdb": 130386
+  },
+  "last_updated": "2026-08-17"
+}

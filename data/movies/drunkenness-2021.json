@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drunkenness_2021",
+  "title": "Drunkenness",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107123328",
+    "imdb": "tt13539152",
+    "tmdb": 777149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

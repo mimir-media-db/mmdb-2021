@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_funniest_home_videos_animal_edition",
+  "title": "America's Funniest Home Videos: Animal Edition",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108292848",
+    "imdb": "tt15758162",
+    "tmdb": 118681
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

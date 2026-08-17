@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kakegurui_twin",
+  "title": "Kakegurui Twin",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111187757",
+    "imdb": "tt15134114",
+    "tmdb": 121860
+  },
+  "last_updated": "2026-08-17"
+}

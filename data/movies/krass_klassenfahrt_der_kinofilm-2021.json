@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krass_klassenfahrt_der_kinofilm_2021",
+  "title": "Krass Klassenfahrt - Der Kinofilm",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109327809",
+    "imdb": "tt15762092",
+    "tmdb": 916507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

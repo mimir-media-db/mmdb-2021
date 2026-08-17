@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_cherry_pie_2021",
+  "title": "My Cherry Pie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600032",
+    "imdb": "tt13044858",
+    "tmdb": 886427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

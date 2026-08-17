@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hannibal_hopkins_sir_anthony_2021",
+  "title": "Hannibal Hopkins & Sir Anthony",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116961134",
+    "imdb": "tt14695214",
+    "tmdb": 846652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 53
+}

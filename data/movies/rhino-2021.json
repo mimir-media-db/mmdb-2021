@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rhino_2021",
+  "title": "Rhino",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16709427",
+    "imdb": "tt3781118",
+    "tmdb": 807888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 101
+}

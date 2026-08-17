@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_abbas_kiarostami_2021",
+  "title": "Abbas Kiarostami",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105635420",
+    "imdb": "tt13791250"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

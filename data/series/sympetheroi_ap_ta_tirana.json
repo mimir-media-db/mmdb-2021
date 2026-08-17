@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sympetheroi_ap_ta_tirana",
+  "title": "Sympetheroi ap' ta Tirana",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109319000",
+    "imdb": "tt15156760",
+    "tmdb": 136560
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

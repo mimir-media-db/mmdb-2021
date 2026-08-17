@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dp",
+  "title": "D.P.",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105226735",
+    "imdb": "tt13024974",
+    "tmdb": 110534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_can_you_hear_it_2021",
+  "title": "Silence... Can You Hear It?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105730524",
+    "imdb": "tt13698928",
+    "tmdb": 804005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26"
+}

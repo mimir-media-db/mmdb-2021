@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fable_the_killer_who_doesnt_kill_2021",
+  "title": "The Fable: The Killer Who Doesn't Kill",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109728201",
+    "imdb": "tt13017204",
+    "tmdb": 734519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-18",
+  "runtime_minutes": 132
+}

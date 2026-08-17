@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_santas_in_the_pigsty",
+  "title": "The Santas in the Pigsty",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q110063766",
+    "imdb": "tt16294840",
+    "tmdb": 136249
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

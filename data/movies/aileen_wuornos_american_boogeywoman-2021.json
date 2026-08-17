@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aileen_wuornos_american_boogeywoman_2021",
+  "title": "Aileen Wuornos: American Boogeywoman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106707239",
+    "imdb": "tt14265992",
+    "tmdb": 806804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 85
+}

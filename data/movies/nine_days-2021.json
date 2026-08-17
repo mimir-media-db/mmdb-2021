@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_days_2021",
+  "title": "Nine Days",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66688921",
+    "imdb": "tt10451852",
+    "tmdb": 607430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 124
+}

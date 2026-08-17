@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_kind_of_people",
+  "title": "Our Kind of People",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107122172",
+    "imdb": "tt10788750",
+    "tmdb": 128591
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

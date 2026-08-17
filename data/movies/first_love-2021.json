@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_love_2021",
+  "title": "First Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597873",
+    "imdb": "tt11252688",
+    "tmdb": 735409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-21"
+}

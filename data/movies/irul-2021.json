@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irul_2021",
+  "title": "Irul",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106310981",
+    "imdb": "tt13103212",
+    "tmdb": 807158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-02"
+}

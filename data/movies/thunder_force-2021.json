@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thunder_force_2021",
+  "title": "Thunder Force",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73541610",
+    "imdb": "tt10121392",
+    "tmdb": 615678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 105
+}

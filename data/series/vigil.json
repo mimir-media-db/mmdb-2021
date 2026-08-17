@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vigil",
+  "title": "Vigil",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106771241",
+    "imdb": "tt11846996",
+    "tmdb": 126167
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_thomas_2021",
+  "title": "Dear Thomas",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109630348",
+    "imdb": "tt14873088",
+    "tmdb": 835355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 156
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_all_i_know_so_far_2021",
+  "title": "Pink: All I Know So Far",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106417806",
+    "imdb": "tt14264844",
+    "tmdb": 807597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-21",
+  "runtime_minutes": 99
+}

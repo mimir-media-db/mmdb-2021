@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_samurai_battle_for_japan",
+  "title": "Age of Samurai: Battle for Japan",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105690705",
+    "imdb": "tt10551256",
+    "tmdb": 93736
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beckenrand_sheriff_2021",
+  "title": "Beckenrand Sheriff",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105488495",
+    "imdb": "tt15137876",
+    "tmdb": 856117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 113
+}

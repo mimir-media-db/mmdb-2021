@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loki",
+  "title": "Loki",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q64349029",
+    "imdb": "tt9140554",
+    "tmdb": 84958
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

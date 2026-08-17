@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiral_2021",
+  "title": "Spiral",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64590532",
+    "imdb": "tt10342730",
+    "tmdb": 602734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-21",
+  "runtime_minutes": 93
+}

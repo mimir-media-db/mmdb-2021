@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_debris",
+  "title": "Debris",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q97585868",
+    "imdb": "tt11640020",
+    "tmdb": 106159
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

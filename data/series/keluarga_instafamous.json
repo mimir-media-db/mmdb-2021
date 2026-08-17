@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_keluarga_instafamous",
+  "title": "Keluarga Instafamous",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108100351"
+  },
+  "last_updated": "2026-08-17"
+}

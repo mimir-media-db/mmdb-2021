@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_navillera",
+  "title": "Navillera",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98080934",
+    "imdb": "tt13885302",
+    "tmdb": 119464
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

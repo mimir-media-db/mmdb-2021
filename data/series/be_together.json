@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_be_together",
+  "title": "Be Together",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112572529",
+    "imdb": "tt15000762",
+    "tmdb": 128342
+  },
+  "last_updated": "2026-08-17"
+}

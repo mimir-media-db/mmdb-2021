@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dente_por_dente_2021",
+  "title": "Dente por Dente",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106321036",
+    "imdb": "tt13333998",
+    "tmdb": 752628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-28",
+  "runtime_minutes": 85
+}

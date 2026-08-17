@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_taste_of_her_2021",
+  "title": "Sweet Taste Of Her",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841436",
+    "tmdb": 910441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-01"
+}

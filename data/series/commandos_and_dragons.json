@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_commandos_and_dragons",
+  "title": "Commandos and Dragons",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112971525",
+    "imdb": "tt15192638",
+    "tmdb": 135112
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

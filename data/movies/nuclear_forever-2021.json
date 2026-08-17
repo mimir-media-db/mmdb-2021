@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuclear_forever_2021",
+  "title": "Nuclear Forever",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104883586",
+    "imdb": "tt14232314",
+    "tmdb": 751178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-16",
+  "runtime_minutes": 98
+}

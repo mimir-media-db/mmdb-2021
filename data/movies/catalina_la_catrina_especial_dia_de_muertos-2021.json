@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catalina_la_catrina_especial_dia_de_muertos_2021",
+  "title": "Catalina la Catrina: especial Día de Muertos",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120299724",
+    "imdb": "tt15515764",
+    "tmdb": 880009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

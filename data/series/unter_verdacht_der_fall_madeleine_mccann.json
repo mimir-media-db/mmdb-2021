@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unter_verdacht_der_fall_madeleine_mccann",
+  "title": "Unter Verdacht: Der Fall Madeleine McCann",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106226641",
+    "imdb": "tt15006772",
+    "tmdb": 119854
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

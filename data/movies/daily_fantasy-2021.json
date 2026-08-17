@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daily_fantasy_2021",
+  "title": "Daily Fantasy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109257588",
+    "imdb": "tt15465908",
+    "tmdb": 869536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-19"
+}

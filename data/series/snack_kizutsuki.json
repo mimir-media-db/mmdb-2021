@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_snack_kizutsuki",
+  "title": "Snack Kizutsuki",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110174451",
+    "imdb": "tt15724102"
+  },
+  "last_updated": "2026-08-17"
+}

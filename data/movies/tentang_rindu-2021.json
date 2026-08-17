@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tentang_rindu_2021",
+  "title": "Tentang Rindu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106043851",
+    "imdb": "tt14056442",
+    "tmdb": 794711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-13"
+}

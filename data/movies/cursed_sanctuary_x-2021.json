@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cursed_sanctuary_x_2021",
+  "title": "The Cursed Sanctuary X",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111653619",
+    "imdb": "tt15535428",
+    "tmdb": 950282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

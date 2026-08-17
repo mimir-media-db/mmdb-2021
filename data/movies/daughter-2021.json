@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daughter_2021",
+  "title": "The Daughter",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108133935",
+    "imdb": "tt11270054",
+    "tmdb": 661931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-16",
+  "runtime_minutes": 122
+}

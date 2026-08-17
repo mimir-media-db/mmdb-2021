@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_red_sleeve",
+  "title": "The Red Sleeve",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106945342",
+    "imdb": "tt14687200",
+    "tmdb": 132925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

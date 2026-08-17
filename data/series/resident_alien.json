@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_resident_alien",
+  "title": "Resident Alien",
+  "start_year": 2021,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q104532538",
+    "imdb": "tt8690918",
+    "tmdb": 96580
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 44
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aphid_and_ant_2021",
+  "title": "Aphid and Ant",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109627553",
+    "imdb": "tt13938062",
+    "tmdb": 891676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

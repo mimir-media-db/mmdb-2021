@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piedade_2021",
+  "title": "Piedade",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106547258",
+    "imdb": "tt6566846",
+    "tmdb": 440844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

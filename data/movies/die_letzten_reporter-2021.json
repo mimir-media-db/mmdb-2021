@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_letzten_reporter_2021",
+  "title": "Die letzten Reporter",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105070710",
+    "imdb": "tt14651292",
+    "tmdb": 748424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-24",
+  "runtime_minutes": 90
+}

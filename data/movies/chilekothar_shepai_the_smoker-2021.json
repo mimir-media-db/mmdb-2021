@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chilekothar_shepai_the_smoker_2021",
+  "title": "Chilekothar Shepai - The smoker",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108094808",
+    "imdb": "tt14687912"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-14",
+  "runtime_minutes": 4
+}

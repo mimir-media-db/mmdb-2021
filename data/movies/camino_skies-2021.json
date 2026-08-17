@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camino_skies_2021",
+  "title": "Camino Skies",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101435186",
+    "imdb": "tt8314390",
+    "tmdb": 614625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-29",
+  "runtime_minutes": 80
+}

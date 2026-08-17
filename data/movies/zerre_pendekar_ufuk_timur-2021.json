@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zerre_pendekar_ufuk_timur_2021",
+  "title": "Zerre: Pendekar Ufuk Timur",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108551306",
+    "tmdb": 878193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-07",
+  "runtime_minutes": 106
+}

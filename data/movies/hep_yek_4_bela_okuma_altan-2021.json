@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hep_yek_4_bela_okuma_altan_2021",
+  "title": "Hep Yek 4: Bela Okuma Altan",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109254387",
+    "imdb": "tt13057656",
+    "tmdb": 887107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

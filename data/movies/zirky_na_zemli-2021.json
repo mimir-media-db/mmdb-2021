@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zirky_na_zemli_2021",
+  "title": "Zirky na Zemli",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574075",
+    "imdb": "tt15446860",
+    "tmdb": 875446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-28"
+}

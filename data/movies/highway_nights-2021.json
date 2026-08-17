@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_highway_nights_2021",
+  "title": "Highway Nights",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115818885",
+    "imdb": "tt18349438"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01",
+  "runtime_minutes": 20
+}

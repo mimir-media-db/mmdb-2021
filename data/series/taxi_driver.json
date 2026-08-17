@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi_driver",
+  "title": "Taxi Driver",
+  "start_year": 2021,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q104607512",
+    "imdb": "tt13759970",
+    "tmdb": 119769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}

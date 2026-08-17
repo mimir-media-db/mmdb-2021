@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_um_tio_quase_perfeito_2_2021",
+  "title": "Um Tio Quase Perfeito 2",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106459507",
+    "imdb": "tt11057882",
+    "tmdb": 784117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 102
+}

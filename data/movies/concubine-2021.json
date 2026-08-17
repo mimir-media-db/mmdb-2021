@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_concubine_2021",
+  "title": "The Concubine",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491969",
+    "imdb": "tt2544120",
+    "tmdb": 122126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-30",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_misadventures_of_hedi_and_cokeman_2021",
+  "title": "The Misadventures of Hedi and Cokeman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105393664",
+    "imdb": "tt13669344",
+    "tmdb": 659063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

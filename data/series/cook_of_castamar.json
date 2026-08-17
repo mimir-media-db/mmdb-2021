@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cook_of_castamar",
+  "title": "The Cook of Castamar",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105616635",
+    "imdb": "tt12626014",
+    "tmdb": 115567
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinkhole_2021",
+  "title": "Sinkhole",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97216877",
+    "imdb": "tt12664618",
+    "tmdb": 623135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-11",
+  "runtime_minutes": 117
+}

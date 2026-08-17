@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_stand_2021",
+  "title": "One Night Stand",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131322014",
+    "imdb": "tt15788948",
+    "tmdb": 890624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crusade_2021",
+  "title": "The Crusade",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107439394",
+    "imdb": "tt13846352",
+    "tmdb": 842239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-22",
+  "runtime_minutes": 67
+}

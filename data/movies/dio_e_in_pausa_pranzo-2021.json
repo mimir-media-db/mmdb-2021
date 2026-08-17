@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dio_e_in_pausa_pranzo_2021",
+  "title": "Dio è in pausa pranzo",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051249",
+    "imdb": "tt18305430",
+    "tmdb": 979762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 96
+}

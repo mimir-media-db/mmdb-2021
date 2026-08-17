@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passing_2021",
+  "title": "Passing",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75034904",
+    "imdb": "tt8893974",
+    "tmdb": 541524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-30",
+  "runtime_minutes": 98
+}

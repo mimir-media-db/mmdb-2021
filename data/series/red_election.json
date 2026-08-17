@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_red_election",
+  "title": "Red Election",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107980378",
+    "imdb": "tt13696808",
+    "tmdb": 135386
+  },
+  "last_updated": "2026-08-17"
+}

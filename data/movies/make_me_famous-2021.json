@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_make_me_famous_2021",
+  "title": "Make Me Famous",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117061433",
+    "imdb": "tt4939232",
+    "tmdb": 834859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_ashin_of_the_north_2021",
+  "title": "Kingdom: Ashin of the North",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107639992",
+    "imdb": "tt13412252",
+    "tmdb": 845222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-23",
+  "runtime_minutes": 92
+}

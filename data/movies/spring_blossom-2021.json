@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_blossom_2021",
+  "title": "Spring Blossom",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97933360",
+    "imdb": "tt12444426",
+    "tmdb": 712134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-17",
+  "runtime_minutes": 73
+}

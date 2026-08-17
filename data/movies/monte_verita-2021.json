@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monte_verita_2021",
+  "title": "Monte Verità",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107197925",
+    "imdb": "tt12927920",
+    "tmdb": 846862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-07"
+}

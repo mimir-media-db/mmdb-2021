@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuvam_2021",
+  "title": "Yuvam",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105972815",
+    "imdb": "tt13986720",
+    "tmdb": 796816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12"
+}

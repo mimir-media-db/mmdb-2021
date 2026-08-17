@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pole",
+  "title": "The Pole",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106504765",
+    "imdb": "tt13212870",
+    "tmdb": 121127
+  },
+  "last_updated": "2026-08-17"
+}

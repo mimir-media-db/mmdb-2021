@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_survive_the_game_2021",
+  "title": "Survive the Game",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109236617",
+    "imdb": "tt12861508",
+    "tmdb": 787310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

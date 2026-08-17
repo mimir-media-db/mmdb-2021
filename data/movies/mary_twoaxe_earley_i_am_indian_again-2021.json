@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mary_twoaxe_earley_i_am_indian_again_2021",
+  "title": "Mary Two-Axe Earley: I Am Indian Again",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121549161",
+    "imdb": "tt13032736",
+    "tmdb": 826506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 34
+}

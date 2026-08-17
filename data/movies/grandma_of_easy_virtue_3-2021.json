@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grandma_of_easy_virtue_3_2021",
+  "title": "Grandma of Easy Virtue 3",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106641766",
+    "imdb": "tt13456266",
+    "tmdb": 680779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 87
+}

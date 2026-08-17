@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_mothers_penguins",
+  "title": "My Mother's Penguins",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125580996",
+    "imdb": "tt15302838",
+    "tmdb": 136463
+  },
+  "last_updated": "2026-08-17"
+}

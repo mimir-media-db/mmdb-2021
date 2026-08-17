@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burros_2021",
+  "title": "Burros",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112052163",
+    "imdb": "tt11246630",
+    "tmdb": 755016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-18"
+}

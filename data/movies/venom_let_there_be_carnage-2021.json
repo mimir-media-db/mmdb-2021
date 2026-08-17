@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venom_let_there_be_carnage_2021",
+  "title": "Venom: Let There Be Carnage",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60498064",
+    "imdb": "tt7097896",
+    "tmdb": 580489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 97
+}

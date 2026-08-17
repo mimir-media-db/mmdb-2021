@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsymbalist_petro_2021",
+  "title": "Tsymbalist Petro",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574040",
+    "imdb": "tt15036638",
+    "tmdb": 980633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-21",
+  "runtime_minutes": 80
+}

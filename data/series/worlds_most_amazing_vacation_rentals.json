@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_most_amazing_vacation_rentals",
+  "title": "The World's Most Amazing Vacation Rentals",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114276142",
+    "imdb": "tt14691382",
+    "tmdb": 127723
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

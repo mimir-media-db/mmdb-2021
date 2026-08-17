@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euphoria_of_being_2021",
+  "title": "The Euphoria of Being",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101091534",
+    "imdb": "tt9313040",
+    "tmdb": 616605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-30",
+  "runtime_minutes": 84
+}

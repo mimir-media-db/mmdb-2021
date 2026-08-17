@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krieg_und_frieden_2021",
+  "title": "Krieg und Frieden",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108607931",
+    "imdb": "tt3419292",
+    "tmdb": 612567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 45
+}

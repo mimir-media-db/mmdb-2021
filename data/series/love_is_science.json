@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_science",
+  "title": "Love is Science?",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106769093",
+    "imdb": "tt15413184",
+    "tmdb": 121200
+  },
+  "last_updated": "2026-08-17"
+}

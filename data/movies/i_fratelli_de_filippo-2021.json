@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_fratelli_de_filippo_2021",
+  "title": "I fratelli De Filippo",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110183353",
+    "imdb": "tt14234294",
+    "tmdb": 784374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-23"
+}

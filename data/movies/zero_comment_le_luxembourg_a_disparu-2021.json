@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_comment_le_luxembourg_a_disparu_2021",
+  "title": "An Zéro - Comment le Luxembourg a disparu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105808378",
+    "imdb": "tt14344738",
+    "tmdb": 786975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-07",
+  "runtime_minutes": 85
+}

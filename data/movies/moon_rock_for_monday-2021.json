@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_rock_for_monday_2021",
+  "title": "Moon Rock For Monday",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115516441",
+    "imdb": "tt6685476",
+    "tmdb": 748994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-08",
+  "runtime_minutes": 96
+}

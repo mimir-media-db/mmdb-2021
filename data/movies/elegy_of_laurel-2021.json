@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elegy_of_laurel_2021",
+  "title": "The Elegy of Laurel",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119571536",
+    "imdb": "tt15185122",
+    "tmdb": 855833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 93
+}

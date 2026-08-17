@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_are_fine_2021",
+  "title": "Kids Are Fine",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109461608",
+    "imdb": "tt14961578",
+    "tmdb": 803623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-05"
+}

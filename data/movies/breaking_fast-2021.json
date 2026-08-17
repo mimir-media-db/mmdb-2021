@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_fast_2021",
+  "title": "Breaking Fast",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245076",
+    "imdb": "tt9112712",
+    "tmdb": 680880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22",
+  "runtime_minutes": 92
+}

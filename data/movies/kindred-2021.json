@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kindred_2021",
+  "title": "The Kindred",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111913727",
+    "imdb": "tt10306450",
+    "tmdb": 854188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonders_of_the_sea_3d_2021",
+  "title": "Wonders of the Sea 3D",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738665",
+    "imdb": "tt5495792",
+    "tmdb": 476070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-07",
+  "runtime_minutes": 82
+}

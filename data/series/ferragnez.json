@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ferragnez",
+  "title": "The Ferragnez",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110027607",
+    "imdb": "tt15459278",
+    "tmdb": 153195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

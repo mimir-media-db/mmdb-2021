@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_misfit_the_series",
+  "title": "Misfit: The Series",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q108675706",
+    "imdb": "tt15517928",
+    "tmdb": 133304
+  },
+  "last_updated": "2026-08-17"
+}

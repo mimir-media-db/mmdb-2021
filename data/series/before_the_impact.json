@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_before_the_impact",
+  "title": "Before the Impact",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111169814",
+    "imdb": "tt15243078",
+    "tmdb": 137435
+  },
+  "last_updated": "2026-08-17"
+}

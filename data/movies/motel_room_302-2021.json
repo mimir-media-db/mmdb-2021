@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_motel_room_302_2021",
+  "title": "Motel Room 302",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140301556",
+    "tmdb": 921942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-28"
+}

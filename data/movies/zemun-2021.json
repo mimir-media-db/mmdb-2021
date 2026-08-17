@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zemun_2021",
+  "title": "Zemun",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115030324",
+    "imdb": "tt15382154",
+    "tmdb": 818877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-31",
+  "runtime_minutes": 86
+}

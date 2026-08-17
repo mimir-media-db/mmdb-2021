@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raise_the_bar_2021",
+  "title": "Raise the Bar",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105806112",
+    "imdb": "tt14413652",
+    "tmdb": 809613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-10",
+  "runtime_minutes": 70
+}

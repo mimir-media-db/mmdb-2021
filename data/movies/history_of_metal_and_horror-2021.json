@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_history_of_metal_and_horror_2021",
+  "title": "The History of Metal and Horror",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128643162",
+    "imdb": "tt14966042",
+    "tmdb": 591262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 154
+}

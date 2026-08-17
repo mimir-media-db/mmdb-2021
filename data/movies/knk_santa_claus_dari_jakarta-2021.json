@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knk_santa_claus_dari_jakarta_2021",
+  "title": "KNK: Santa Claus dari Jakarta?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109963343",
+    "imdb": "tt16350828",
+    "tmdb": 904129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentiles_2021",
+  "title": "The Gentiles",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103771",
+    "imdb": "tt14156930",
+    "tmdb": 807193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-07",
+  "runtime_minutes": 77
+}

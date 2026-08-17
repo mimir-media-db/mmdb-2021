@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mole_song_final_2021",
+  "title": "The Mole Song: Final",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123270071",
+    "imdb": "tt14941348",
+    "tmdb": 845611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sen_hic_ates_bocegi_gordun_mu_2021",
+  "title": "Sen Hiç Ates Böcegi Gördün Mü?",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6020277",
+    "imdb": "tt13317694",
+    "tmdb": 809236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 114
+}

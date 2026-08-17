@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_they_2021",
+  "title": "Beautiful They",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122890809",
+    "imdb": "tt11305914",
+    "tmdb": 822588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

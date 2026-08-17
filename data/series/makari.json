@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_makari",
+  "title": "Màkari",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105973217",
+    "imdb": "tt14255042",
+    "tmdb": 120954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 15
+}

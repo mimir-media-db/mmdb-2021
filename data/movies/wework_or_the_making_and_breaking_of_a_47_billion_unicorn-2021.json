@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wework_or_the_making_and_breaking_of_a_47_billion_unicorn_2021",
+  "title": "WeWork: Or the Making and Breaking of a $47 Billion Unicorn",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105686499",
+    "imdb": "tt11188154",
+    "tmdb": 795622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-17",
+  "runtime_minutes": 104
+}

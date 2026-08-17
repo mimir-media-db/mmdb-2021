@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_law",
+  "title": "Family Law",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97192070",
+    "imdb": "tt11873484",
+    "tmdb": 124643
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

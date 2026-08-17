@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shershaah_2021",
+  "title": "Shershaah",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65065643",
+    "imdb": "tt10295212",
+    "tmdb": 599925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12"
+}

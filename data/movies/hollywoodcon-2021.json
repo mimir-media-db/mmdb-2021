@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywoodcon_2021",
+  "title": "Hollywood.Con",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111169948",
+    "imdb": "tt8489384",
+    "tmdb": 735476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15"
+}

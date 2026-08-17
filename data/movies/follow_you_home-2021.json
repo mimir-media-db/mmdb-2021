@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_follow_you_home_2021",
+  "title": "Follow You Home",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311045",
+    "imdb": "tt14552768",
+    "tmdb": 816375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 75
+}

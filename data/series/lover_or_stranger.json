@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_lover_or_stranger",
+  "title": "Lover or Stranger",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109258115",
+    "tmdb": 129003
+  },
+  "last_updated": "2026-08-17"
+}

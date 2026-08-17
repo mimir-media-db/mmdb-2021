@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_generation_slash",
+  "title": "Generation Slash",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q99899256",
+    "tmdb": 123698
+  },
+  "last_updated": "2026-08-17"
+}

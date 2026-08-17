@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_con_tutto_il_cuore_2021",
+  "title": "Con tutto il cuore",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108850414",
+    "imdb": "tt15004078",
+    "tmdb": 776325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 100
+}

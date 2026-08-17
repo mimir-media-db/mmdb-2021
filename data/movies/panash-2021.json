@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panash_2021",
+  "title": "Panash",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112966832",
+    "imdb": "tt16288204",
+    "tmdb": 898036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-23",
+  "runtime_minutes": 89
+}

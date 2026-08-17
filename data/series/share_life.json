@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_share_life",
+  "title": "Share Life",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106520571",
+    "tmdb": 116397
+  },
+  "last_updated": "2026-08-17"
+}

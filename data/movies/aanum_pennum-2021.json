@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aanum_pennum_2021",
+  "title": "Aanum Pennum",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106372021",
+    "imdb": "tt14097924",
+    "tmdb": 799492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26"
+}

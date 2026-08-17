@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wipeout",
+  "title": "Wipeout",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104845227",
+    "imdb": "tt13117230",
+    "tmdb": 122458
+  },
+  "last_updated": "2026-08-17"
+}

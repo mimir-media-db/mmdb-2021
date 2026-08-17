@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ese_fin_de_semana_2021",
+  "title": "Ese fin de semana",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118228599",
+    "imdb": "tt11881018",
+    "tmdb": 813509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 67
+}

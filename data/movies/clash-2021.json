@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_2021",
+  "title": "Clash",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113356773",
+    "imdb": "tt14620732",
+    "tmdb": 848706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

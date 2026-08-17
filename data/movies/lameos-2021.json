@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lameos_2021",
+  "title": "Lame-os",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130250568",
+    "imdb": "tt15134626",
+    "tmdb": 789988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 101
+}

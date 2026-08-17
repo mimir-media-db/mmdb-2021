@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_glass_theory_2021",
+  "title": "The Broken Glass Theory",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109239205",
+    "imdb": "tt15476398",
+    "tmdb": 852113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 80
+}

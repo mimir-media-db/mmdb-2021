@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delete_history_2021",
+  "title": "Delete History",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83969215",
+    "imdb": "tt10627352",
+    "tmdb": 659699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-14",
+  "runtime_minutes": 109
+}

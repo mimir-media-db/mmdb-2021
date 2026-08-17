@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supercool_2021",
+  "title": "Supercool",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107389446",
+    "imdb": "tt10055546",
+    "tmdb": 514466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-31"
+}

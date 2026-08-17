@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superior_2021",
+  "title": "Superior",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105359560",
+    "imdb": "tt12373414",
+    "tmdb": 776514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

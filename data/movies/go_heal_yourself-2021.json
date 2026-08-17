@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_heal_yourself_2021",
+  "title": "Go Heal Yourself",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111244152",
+    "imdb": "tt10687258",
+    "tmdb": 890835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-27",
+  "runtime_minutes": 105
+}

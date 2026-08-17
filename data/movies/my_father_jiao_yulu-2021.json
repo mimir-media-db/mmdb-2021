@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_jiao_yulu_2021",
+  "title": "My Father Jiao Yulu",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109258151",
+    "imdb": "tt16277056",
+    "tmdb": 1313800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-06"
+}

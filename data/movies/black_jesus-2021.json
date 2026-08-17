@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_jesus_2021",
+  "title": "A Black Jesus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105403974",
+    "imdb": "tt11042432",
+    "tmdb": 751186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-20",
+  "runtime_minutes": 90
+}

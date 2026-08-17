@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ida_red_2021",
+  "title": "Ida Red",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104858854",
+    "imdb": "tt11388416",
+    "tmdb": 818192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

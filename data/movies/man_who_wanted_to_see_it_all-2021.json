@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_wanted_to_see_it_all_2021",
+  "title": "The Man Who Wanted to See It All",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116167277",
+    "imdb": "tt5451230",
+    "tmdb": 869200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 80
+}

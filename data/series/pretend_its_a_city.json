@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pretend_its_a_city",
+  "title": "Pretend It's a City",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104764029",
+    "imdb": "tt13660958",
+    "tmdb": 115497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

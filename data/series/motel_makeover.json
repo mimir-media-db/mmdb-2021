@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_motel_makeover",
+  "title": "Motel Makeover",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111936895",
+    "imdb": "tt15128558",
+    "tmdb": 130044
+  },
+  "last_updated": "2026-08-17"
+}

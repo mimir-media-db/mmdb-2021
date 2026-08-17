@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_of_sri_the_movie_2021",
+  "title": "The Woman of S.R.I.: The Movie",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108704432",
+    "imdb": "tt15102956",
+    "tmdb": 868707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03"
+}

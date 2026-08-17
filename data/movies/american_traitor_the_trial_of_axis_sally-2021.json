@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_traitor_the_trial_of_axis_sally_2021",
+  "title": "American Traitor: The Trial of Axis Sally",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032906",
+    "imdb": "tt7050946",
+    "tmdb": 603603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-28",
+  "runtime_minutes": 109
+}

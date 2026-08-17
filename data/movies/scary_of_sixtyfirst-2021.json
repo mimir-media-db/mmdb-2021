@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_of_sixtyfirst_2021",
+  "title": "The Scary of Sixty-First",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105972440",
+    "imdb": "tt12226872",
+    "tmdb": 723377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

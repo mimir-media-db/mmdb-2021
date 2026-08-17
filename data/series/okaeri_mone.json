@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_okaeri_mone",
+  "title": "Okaeri Mone",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q95740705",
+    "imdb": "tt16220214",
+    "tmdb": 123488
+  },
+  "last_updated": "2026-08-17"
+}

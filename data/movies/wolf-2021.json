@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_2021",
+  "title": "Wolf",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101078012",
+    "imdb": "tt10698174",
+    "tmdb": 673121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 98
+}

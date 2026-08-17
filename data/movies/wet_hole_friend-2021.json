@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_hole_friend_2021",
+  "title": "Wet hole friend",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841609",
+    "tmdb": 987875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

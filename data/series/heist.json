@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_heist",
+  "title": "Heist",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110608259",
+    "imdb": "tt14865290",
+    "tmdb": 127643
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_monarch_industry",
+  "title": "Monarch Industry",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85879420",
+    "imdb": "tt13795432",
+    "tmdb": 116293
+  },
+  "last_updated": "2026-08-17"
+}

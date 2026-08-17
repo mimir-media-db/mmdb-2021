@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spycraft",
+  "title": "Spycraft",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110370721",
+    "imdb": "tt13789092",
+    "tmdb": 116986
+  },
+  "last_updated": "2026-08-17"
+}

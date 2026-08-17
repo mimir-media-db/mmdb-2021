@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drifting_petals_2021",
+  "title": "Drifting Petals",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119518521",
+    "imdb": "tt15575176",
+    "tmdb": 889507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11"
+}

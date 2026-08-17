@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rurouni_kenshin_the_beginning_2021",
+  "title": "Rurouni Kenshin: The Beginning",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104870018",
+    "imdb": "tt11991748",
+    "tmdb": 672322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-04",
+  "runtime_minutes": 137
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falling_2021",
+  "title": "Falling",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65084732",
+    "imdb": "tt9143112",
+    "tmdb": 554761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-12",
+  "runtime_minutes": 112
+}

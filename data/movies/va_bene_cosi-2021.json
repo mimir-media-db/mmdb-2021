@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_va_bene_cosi_2021",
+  "title": "Va bene così",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106979074",
+    "imdb": "tt9160050",
+    "tmdb": 809039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26",
+  "runtime_minutes": 84
+}

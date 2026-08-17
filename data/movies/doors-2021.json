@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doors_2021",
+  "title": "Doors",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106350657",
+    "imdb": "tt12483708",
+    "tmdb": 798141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

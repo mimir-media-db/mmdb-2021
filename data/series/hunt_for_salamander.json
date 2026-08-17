@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hunt_for_salamander",
+  "title": "The Hunt for Salamander",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124845538",
+    "imdb": "tt14025322",
+    "tmdb": 119592
+  },
+  "last_updated": "2026-08-17"
+}

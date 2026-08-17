@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_trip_2021",
+  "title": "Bad Trip",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63248374",
+    "imdb": "tt9684220",
+    "tmdb": 578908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_eres_mi_problema_2021",
+  "title": "Tú eres mi problema",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110190217",
+    "imdb": "tt13804586",
+    "tmdb": 911071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 111
+}

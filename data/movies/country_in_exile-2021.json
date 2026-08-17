@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_country_in_exile_2021",
+  "title": "Country in Exile",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123737783",
+    "tmdb": 880199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-09",
+  "runtime_minutes": 86
+}

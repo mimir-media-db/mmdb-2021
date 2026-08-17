@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zone_414_2021",
+  "title": "Zone 414",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99938119",
+    "imdb": "tt8545482",
+    "tmdb": 675319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03",
+  "runtime_minutes": 98
+}

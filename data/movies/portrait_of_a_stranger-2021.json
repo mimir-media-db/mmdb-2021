@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_a_stranger_2021",
+  "title": "Portrait of a Stranger",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109652886",
+    "imdb": "tt8350400",
+    "tmdb": 587628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24",
+  "runtime_minutes": 107
+}

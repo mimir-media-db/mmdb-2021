@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rocco_schiavone",
+  "title": "Rocco Schiavone",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28671542",
+    "imdb": "tt6231158",
+    "tmdb": 67639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 24
+}

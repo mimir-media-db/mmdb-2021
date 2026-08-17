@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_superstar",
+  "title": "Superstar",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108101539",
+    "imdb": "tt15250058",
+    "tmdb": 131993
+  },
+  "last_updated": "2026-08-17"
+}

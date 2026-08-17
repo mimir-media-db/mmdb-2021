@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_painting_with_john",
+  "title": "Painting with John",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104830643",
+    "imdb": "tt13670374",
+    "tmdb": 114564
+  },
+  "last_updated": "2026-08-17"
+}

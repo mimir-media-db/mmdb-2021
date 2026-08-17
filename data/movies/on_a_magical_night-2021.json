@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_a_magical_night_2021",
+  "title": "On a Magical Night",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63247471",
+    "imdb": "tt10115562",
+    "tmdb": 595867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-14",
+  "runtime_minutes": 86
+}

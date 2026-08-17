@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_woman_has_a_man_2021",
+  "title": "My Woman Has A Man",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841585",
+    "tmdb": 888696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05"
+}

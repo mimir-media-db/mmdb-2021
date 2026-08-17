@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tililing_2021",
+  "title": "Tililing",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109973501",
+    "imdb": "tt14385274",
+    "tmdb": 667695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-05"
+}

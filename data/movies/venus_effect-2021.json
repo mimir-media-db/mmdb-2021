@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_effect_2021",
+  "title": "The Venus Effect",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108744469",
+    "imdb": "tt13225546",
+    "tmdb": 869166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-18",
+  "runtime_minutes": 104
+}

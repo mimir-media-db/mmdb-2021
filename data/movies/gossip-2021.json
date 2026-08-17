@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gossip_2021",
+  "title": "The Gossip",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126114238",
+    "imdb": "tt14787206",
+    "tmdb": 773962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bregus",
+  "title": "Bregus",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106152698",
+    "imdb": "tt14500844",
+    "tmdb": 122783
+  },
+  "last_updated": "2026-08-17"
+}

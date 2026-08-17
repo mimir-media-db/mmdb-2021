@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_ones_own_eyes_2021",
+  "title": "With One's Own Eyes",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104775765",
+    "imdb": "tt13736686",
+    "tmdb": 789159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-18",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cadet_1947_2021",
+  "title": "Cadet 1947",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97372928",
+    "imdb": "tt12593454",
+    "tmdb": 758379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-20",
+  "runtime_minutes": 111
+}

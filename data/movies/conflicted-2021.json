@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conflicted_2021",
+  "title": "Conflicted",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128600765",
+    "imdb": "tt13899082",
+    "tmdb": 786257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-15"
+}

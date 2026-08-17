@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_maktab_2021",
+  "title": "Maktab 2021",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121409707",
+    "imdb": "tt16528926"
+  },
+  "last_updated": "2026-08-17"
+}

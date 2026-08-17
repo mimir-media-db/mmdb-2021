@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_killers_three_cops_and_a_drug_baron_2021",
+  "title": "Four Killers, Three Cops and a Drug Baron",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575551",
+    "imdb": "tt15500778",
+    "tmdb": 878446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-23"
+}

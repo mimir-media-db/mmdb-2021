@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bert",
+  "title": "Bert",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106303408",
+    "imdb": "tt14091696",
+    "tmdb": 125339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

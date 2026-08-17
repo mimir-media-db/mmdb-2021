@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_introducing_selma_blair_2021",
+  "title": "Introducing, Selma Blair",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105959007",
+    "imdb": "tt14030526",
+    "tmdb": 795613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 106
+}

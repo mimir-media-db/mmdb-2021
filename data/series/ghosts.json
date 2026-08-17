@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghosts",
+  "title": "Ghosts",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107122133",
+    "imdb": "tt11379026",
+    "tmdb": 126027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 88
+}

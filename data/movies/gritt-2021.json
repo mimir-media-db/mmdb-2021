@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gritt_2021",
+  "title": "Gritt",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107299353",
+    "imdb": "tt11818426",
+    "tmdb": 660933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-18"
+}

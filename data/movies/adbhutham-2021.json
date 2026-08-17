@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adbhutham_2021",
+  "title": "Adbhutham",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109941667",
+    "imdb": "tt14994064",
+    "tmdb": 891479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tristezza_ha_il_sonno_leggero_2021",
+  "title": "La tristezza ha il sonno leggero",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110460710",
+    "imdb": "tt12782188",
+    "tmdb": 800195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-26"
+}

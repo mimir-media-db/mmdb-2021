@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_addio_al_nubilato_2021",
+  "title": "Addio al nubilato",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105715372",
+    "imdb": "tt13250314",
+    "tmdb": 771502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-24",
+  "runtime_minutes": 87
+}

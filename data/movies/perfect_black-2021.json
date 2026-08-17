@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_black_2021",
+  "title": "Perfect Black",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99527620",
+    "imdb": "tt9883336",
+    "tmdb": 663548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-17"
+}

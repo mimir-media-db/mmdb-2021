@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ibiza_affair",
+  "title": "The Ibiza Affair",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108300814",
+    "imdb": "tt13884528",
+    "tmdb": 135323
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

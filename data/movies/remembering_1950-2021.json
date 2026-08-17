@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remembering_1950_2021",
+  "title": "Remembering 1950",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108376872",
+    "imdb": "tt15386758",
+    "tmdb": 869543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-03"
+}

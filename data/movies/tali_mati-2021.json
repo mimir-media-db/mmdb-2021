@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tali_mati_2021",
+  "title": "Tali Mati",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109258867",
+    "imdb": "tt14892248",
+    "tmdb": 838941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-19"
+}

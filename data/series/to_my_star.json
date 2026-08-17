@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_to_my_star",
+  "title": "To My Star",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116251570",
+    "imdb": "tt13788764",
+    "tmdb": 115663
+  },
+  "last_updated": "2026-08-17"
+}

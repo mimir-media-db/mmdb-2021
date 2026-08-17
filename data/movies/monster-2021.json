@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_2021",
+  "title": "Monster",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47321771",
+    "imdb": "tt2850272",
+    "tmdb": 489932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-07"
+}
