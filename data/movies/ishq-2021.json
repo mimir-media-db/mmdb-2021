@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_2021",
+  "title": "Ishq",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106608604",
+    "imdb": "tt14449464",
+    "tmdb": 833422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-23",
+  "runtime_minutes": 115
+}

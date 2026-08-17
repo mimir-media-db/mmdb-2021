@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_increasing_echo_2021",
+  "title": "Increasing Echo",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135083828",
+    "imdb": "tt15488160",
+    "tmdb": 877246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-14"
+}

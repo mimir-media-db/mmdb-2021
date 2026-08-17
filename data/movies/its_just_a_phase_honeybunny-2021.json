@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_just_a_phase_honeybunny_2021",
+  "title": "It's Just a Phase, Honeybunny",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106797052",
+    "imdb": "tt13021476",
+    "tmdb": 871530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 105
+}

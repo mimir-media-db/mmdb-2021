@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intervencao_e_proibido_morrer_2021",
+  "title": "Intervenção, É Proibido Morrer",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110553089",
+    "imdb": "tt14368728",
+    "tmdb": 651915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-12-27",
+  "runtime_minutes": 90
+}

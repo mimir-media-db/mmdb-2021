@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_front_of_your_face_2021",
+  "title": "In Front of Your Face",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107508420",
+    "imdb": "tt14776918",
+    "tmdb": 820517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-15"
+}

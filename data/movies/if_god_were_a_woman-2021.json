@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_god_were_a_woman_2021",
+  "title": "If God Were a Woman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113148518",
+    "imdb": "tt14852088",
+    "tmdb": 837963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 71
+}

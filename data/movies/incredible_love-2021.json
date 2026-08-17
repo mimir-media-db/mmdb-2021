@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_love_2021",
+  "title": "Incredible Love",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105990123",
+    "imdb": "tt14986172",
+    "tmdb": 784171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-22"
+}

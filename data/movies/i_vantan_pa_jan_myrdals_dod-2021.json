@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_vantan_pa_jan_myrdals_dod_2021",
+  "title": "I väntan på Jan Myrdals död",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108770110",
+    "imdb": "tt15282266",
+    "tmdb": 876556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01"
+}
