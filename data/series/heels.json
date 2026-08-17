@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heels",
+  "title": "Heels",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104843266",
+    "imdb": "tt6554240",
+    "tmdb": 92553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

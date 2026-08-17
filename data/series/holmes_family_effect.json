@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_holmes_family_effect",
+  "title": "Holmes Family Effect",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105616527",
+    "imdb": "tt13836352",
+    "tmdb": 118394
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hart_to_heart",
+  "title": "Hart to Heart",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115518759",
+    "imdb": "tt14809614",
+    "tmdb": 129915
+  },
+  "last_updated": "2026-08-17"
+}

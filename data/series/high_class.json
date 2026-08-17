@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_class",
+  "title": "High Class",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107150001",
+    "imdb": "tt14596714",
+    "tmdb": 130655
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

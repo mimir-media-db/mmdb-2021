@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hard_knocks_in_season",
+  "title": "Hard Knocks In Season",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113470727",
+    "imdb": "tt21807980",
+    "tmdb": 138993
+  },
+  "last_updated": "2026-08-17"
+}

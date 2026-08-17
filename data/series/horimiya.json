@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_horimiya",
+  "title": "Horimiya",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111342113",
+    "imdb": "tt13521004",
+    "tmdb": 113980
+  },
+  "last_updated": "2026-08-17"
+}

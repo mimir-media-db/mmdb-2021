@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hpi",
+  "title": "HPI",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106648679",
+    "imdb": "tt14060708",
+    "tmdb": 112738
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

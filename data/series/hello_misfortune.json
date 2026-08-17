@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_misfortune",
+  "title": "Hello Misfortune",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108692758",
+    "imdb": "tt29880057",
+    "tmdb": 154195
+  },
+  "last_updated": "2026-08-17"
+}

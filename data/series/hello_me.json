@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_me",
+  "title": "Hello, Me!",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105044860",
+    "imdb": "tt13670090",
+    "tmdb": 116045
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

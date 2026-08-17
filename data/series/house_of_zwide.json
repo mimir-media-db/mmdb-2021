@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_zwide",
+  "title": "House of Zwide",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107568368"
+  },
+  "last_updated": "2026-08-17"
+}

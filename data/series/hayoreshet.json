@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hayoreshet",
+  "title": "HaYoreshet",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q107124513",
+    "imdb": "tt14820762"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

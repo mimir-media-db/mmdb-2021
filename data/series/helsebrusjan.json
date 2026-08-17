@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helsebrusjan",
+  "title": "Helsebrusjan",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105747199",
+    "imdb": "tt14273640"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}
