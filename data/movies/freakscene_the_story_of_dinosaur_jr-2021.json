@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freakscene_the_story_of_dinosaur_jr_2021",
+  "title": "Freakscene – The Story of Dinosaur Jr.",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105070567",
+    "imdb": "tt14781332",
+    "tmdb": 750120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09",
+  "runtime_minutes": 82
+}
