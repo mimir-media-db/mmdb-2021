@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sardar_ka_grandson_2021",
+  "title": "Sardar Ka Grandson",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106831272",
+    "imdb": "tt11213600",
+    "tmdb": 734780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-18"
+}

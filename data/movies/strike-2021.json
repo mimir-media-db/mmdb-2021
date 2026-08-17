@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strike_2021",
+  "title": "Strike",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117816418",
+    "imdb": "tt15830288",
+    "tmdb": 891471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_les_traces_de_gerda_taro_2021",
+  "title": "Sur les traces de Gerda Taro",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109588092",
+    "imdb": "tt15411158",
+    "tmdb": 922599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 52
+}

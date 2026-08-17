@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_senior_queen_2021",
+  "title": "Senior Queen",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109537189",
+    "tmdb": 825772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-05-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_curse_2021",
+  "title": "Sweet Curse",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115818299",
+    "imdb": "tt15151810",
+    "tmdb": 843186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-07-01"
+}

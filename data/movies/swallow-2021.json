@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swallow_2021",
+  "title": "Swallow",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108919460",
+    "imdb": "tt14391622",
+    "tmdb": 874562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01",
+  "runtime_minutes": 128
+}

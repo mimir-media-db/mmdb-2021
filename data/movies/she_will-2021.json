@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_will_2021",
+  "title": "She Will",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109286325",
+    "imdb": "tt9340916",
+    "tmdb": 852485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-29",
+  "runtime_minutes": 95
+}

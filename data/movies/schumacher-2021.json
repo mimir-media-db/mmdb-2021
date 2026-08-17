@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schumacher_2021",
+  "title": "Schumacher",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72992509",
+    "imdb": "tt10322274",
+    "tmdb": 855823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-15",
+  "runtime_minutes": 112
+}

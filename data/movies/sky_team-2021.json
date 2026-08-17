@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_team_2021",
+  "title": "Sky Team",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107473751",
+    "imdb": "tt15385760",
+    "tmdb": 820010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-09"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_streamline_2021",
+  "title": "Streamline",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106606563",
+    "imdb": "tt10801496",
+    "tmdb": 778256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

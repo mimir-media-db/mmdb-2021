@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_sweepers_2021",
+  "title": "Space Sweepers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65267432",
+    "imdb": "tt12838766",
+    "tmdb": 581389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-05",
+  "runtime_minutes": 136
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spoils_of_tamminiemi_2021",
+  "title": "The Spoils of Tamminiemi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110323751",
+    "imdb": "tt15468658",
+    "tmdb": 868905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

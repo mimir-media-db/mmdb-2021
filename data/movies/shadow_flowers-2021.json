@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_flowers_2021",
+  "title": "Shadow Flowers",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110114308",
+    "imdb": "tt13126844",
+    "tmdb": 649154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-27"
+}

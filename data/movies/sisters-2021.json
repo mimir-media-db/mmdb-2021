@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_2021",
+  "title": "Sisters",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104904964",
+    "imdb": "tt8832052",
+    "tmdb": 582884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-30",
+  "runtime_minutes": 99
+}

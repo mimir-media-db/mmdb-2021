@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stambul_garden_2021",
+  "title": "Stambul Garden",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86289233",
+    "imdb": "tt10526266",
+    "tmdb": 743921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-28"
+}

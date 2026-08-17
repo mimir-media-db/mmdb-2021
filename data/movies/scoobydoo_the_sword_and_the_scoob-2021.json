@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_the_sword_and_the_scoob_2021",
+  "title": "Scooby-Doo! The Sword and the Scoob",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105273917",
+    "imdb": "tt13676256",
+    "tmdb": 682254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-23",
+  "runtime_minutes": 76
+}

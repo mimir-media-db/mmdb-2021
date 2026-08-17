@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swordsman_2021",
+  "title": "The Swordsman",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612342",
+    "imdb": "tt7035004",
+    "tmdb": 492008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-26",
+  "runtime_minutes": 100
+}

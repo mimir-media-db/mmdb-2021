@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shook_2021",
+  "title": "Shook",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106828779",
+    "imdb": "tt7211648",
+    "tmdb": 786627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-18"
+}

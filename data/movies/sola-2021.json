@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sola_2021",
+  "title": "Sola",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60826538",
+    "imdb": "tt9584128",
+    "tmdb": 675799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 115
+}

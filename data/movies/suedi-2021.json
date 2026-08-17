@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suedi_2021",
+  "title": "Suedi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108761337",
+    "imdb": "tt13502736",
+    "tmdb": 872586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-10-01",
+  "runtime_minutes": 89
+}

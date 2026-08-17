@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scandal_at_huseby_2021",
+  "title": "The Scandal at Huseby",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110279081",
+    "imdb": "tt16867898",
+    "tmdb": 1299830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shades_of_the_heart_2021",
+  "title": "Shades of the Heart",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85981905",
+    "imdb": "tt14425000",
+    "tmdb": 589713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-31",
+  "runtime_minutes": 83
+}

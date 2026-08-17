@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_staffroom_2021",
+  "title": "The Staffroom",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108124173",
+    "imdb": "tt14950912",
+    "tmdb": 845956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-22",
+  "runtime_minutes": 126
+}

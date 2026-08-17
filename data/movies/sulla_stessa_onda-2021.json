@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sulla_stessa_onda_2021",
+  "title": "Sulla stessa onda",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105714284",
+    "imdb": "tt12013758",
+    "tmdb": 694256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-25",
+  "runtime_minutes": 99
+}

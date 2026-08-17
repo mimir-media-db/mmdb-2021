@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shugaley_3_2021",
+  "title": "Shugaley 3",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108616984",
+    "imdb": "tt17066696",
+    "tmdb": 870072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-02"
+}

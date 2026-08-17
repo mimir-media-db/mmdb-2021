@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_worthy_of_men_2021",
+  "title": "A Stand Worthy of Men",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104814965",
+    "imdb": "tt13758760",
+    "tmdb": 785861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-13",
+  "runtime_minutes": 112
+}

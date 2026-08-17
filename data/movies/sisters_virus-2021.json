@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_virus_2021",
+  "title": "Sisters Virus",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139841578",
+    "tmdb": 826945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-24"
+}

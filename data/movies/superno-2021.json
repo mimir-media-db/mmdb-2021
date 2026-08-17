@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superno_2021",
+  "title": "Superno",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119686518",
+    "imdb": "tt28498626",
+    "tmdb": 869722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

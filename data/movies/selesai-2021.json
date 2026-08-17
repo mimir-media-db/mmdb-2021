@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selesai_2021",
+  "title": "Selesai",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107640004",
+    "imdb": "tt15107990",
+    "tmdb": 853953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-13",
+  "runtime_minutes": 83
+}

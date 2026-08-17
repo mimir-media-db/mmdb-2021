@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_z_2021",
+  "title": "Super Z",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25381254",
+    "imdb": "tt3577618",
+    "tmdb": 884714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

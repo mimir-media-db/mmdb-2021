@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seaspiracy_2021",
+  "title": "Seaspiracy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106159613",
+    "imdb": "tt14152756",
+    "tmdb": 801058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-24",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salvation_of_the_world_as_we_know_it_2021",
+  "title": "The Salvation of The World as We Know It",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105488443",
+    "imdb": "tt13906424",
+    "tmdb": 896483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-11",
+  "runtime_minutes": 136
+}

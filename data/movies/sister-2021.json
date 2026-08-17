@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_2021",
+  "title": "Sister",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106369815",
+    "imdb": "tt12788426",
+    "tmdb": 798751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-02"
+}

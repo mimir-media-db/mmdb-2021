@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_short_vacation_2021",
+  "title": "Short Vacation",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109146854",
+    "imdb": "tt13995564",
+    "tmdb": 742750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-23",
+  "runtime_minutes": 79
+}

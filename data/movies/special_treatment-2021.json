@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_special_treatment_2021",
+  "title": "Special Treatment",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117829155",
+    "imdb": "tt15110792",
+    "tmdb": 862681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-08-26",
+  "runtime_minutes": 110
+}

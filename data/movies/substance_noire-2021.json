@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_substance_noire_2021",
+  "title": "Substance noire",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121812054",
+    "imdb": "tt11235222",
+    "tmdb": 1000678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

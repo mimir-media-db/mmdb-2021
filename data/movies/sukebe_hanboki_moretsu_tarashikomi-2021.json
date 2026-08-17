@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sukebe_hanboki_moretsu_tarashikomi_2021",
+  "title": "Sukebe hanbô-ki: Môretsu tarashikomi",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109600018",
+    "imdb": "tt16021106",
+    "tmdb": 1018960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-17"
+}

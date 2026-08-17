@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_vam_2021",
+  "title": "So Vam",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128191868",
+    "imdb": "tt14489988",
+    "tmdb": 820645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 73
+}

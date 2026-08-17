@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slaughterhouse_in_metamorphosis_2021",
+  "title": "Slaughterhouse in Metamorphosis",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106841290",
+    "imdb": "tt13357022",
+    "tmdb": 801687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-03-01"
+}

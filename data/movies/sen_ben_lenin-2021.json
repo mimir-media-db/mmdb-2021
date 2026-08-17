@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sen_ben_lenin_2021",
+  "title": "Sen Ben Lenin",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109755374",
+    "imdb": "tt14474588",
+    "tmdb": 819223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_monsters_once_upon_a_rhyme_2021",
+  "title": "Super Monsters: Once Upon a Rhyme",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111382913",
+    "imdb": "tt14586752",
+    "tmdb": 835739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 25
+}

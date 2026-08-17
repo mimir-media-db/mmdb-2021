@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spark_story_2021",
+  "title": "A Spark Story",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108730501",
+    "imdb": "tt11963126",
+    "tmdb": 852724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-24",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_super_boy_2021",
+  "title": "Super Boy",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109519719",
+    "imdb": "tt15949602"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12"
+}

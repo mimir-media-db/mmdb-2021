@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_social_hygiene_2021",
+  "title": "Social Hygiene",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105451630",
+    "imdb": "tt14038552",
+    "tmdb": 795587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

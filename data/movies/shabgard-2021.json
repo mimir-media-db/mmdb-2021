@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shabgard_2021",
+  "title": "Shabgard",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124630298",
+    "imdb": "tt27659991",
+    "tmdb": 1393296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepless_nights_and_kisses_for_breakfast_2021",
+  "title": "Sleepless Nights and Kisses for Breakfast",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051337",
+    "imdb": "tt15212614",
+    "tmdb": 826763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suga_suga_2021",
+  "title": "Suga Suga",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106900400",
+    "imdb": "tt15554614"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-04-30",
+  "runtime_minutes": 110
+}

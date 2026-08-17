@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sargnagel_der_film_2021",
+  "title": "Sargnagel – Der Film",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106917164",
+    "imdb": "tt14846178",
+    "tmdb": 838979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01"
+}

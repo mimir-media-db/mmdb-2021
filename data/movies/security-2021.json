@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_security_2021",
+  "title": "Security",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108874195",
+    "imdb": "tt11892916",
+    "tmdb": 666624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-06-07",
+  "runtime_minutes": 118
+}
