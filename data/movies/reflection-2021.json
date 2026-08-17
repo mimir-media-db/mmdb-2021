@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reflection_2021",
+  "title": "Reflection",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107662862",
+    "imdb": "tt14225832",
+    "tmdb": 828920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 125
+}

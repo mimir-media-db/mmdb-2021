@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_redder_than_yesterday_bluer_than_tomorrow_cinema_fighters_project_2021",
+  "title": "Redder Than Yesterday, Bluer Than Tomorrow: Cinema Fighters Project",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109360218",
+    "imdb": "tt23135398",
+    "tmdb": 1309166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-11-26"
+}

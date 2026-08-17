@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_life_after_isis_2021",
+  "title": "The Return: Life After ISIS",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106678840",
+    "imdb": "tt14030566",
+    "tmdb": 802365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 90
+}

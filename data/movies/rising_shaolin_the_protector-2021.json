@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rising_shaolin_the_protector_2021",
+  "title": "Rising Shaolin: The Protector",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109258903",
+    "imdb": "tt13936230",
+    "tmdb": 791137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-02-12"
+}

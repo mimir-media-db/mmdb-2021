@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_r_and_j_2021",
+  "title": "R and J",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105560534",
+    "imdb": "tt12330184",
+    "tmdb": 713377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 91
+}

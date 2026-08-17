@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_recon_2021",
+  "title": "The Recon",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597771",
+    "imdb": "tt15685576",
+    "tmdb": 871983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-09-29"
+}

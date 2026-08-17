@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_realidad_virtual_2021",
+  "title": "Realidad virtual",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110549746",
+    "imdb": "tt13491958",
+    "tmdb": 796278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 85
+}

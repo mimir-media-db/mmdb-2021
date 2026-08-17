@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_2021",
+  "title": "Rocky",
+  "year": 2021,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738272",
+    "imdb": "tt11772600",
+    "tmdb": 636901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2021-01-01",
+  "runtime_minutes": 189
+}
