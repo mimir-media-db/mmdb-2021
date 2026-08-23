@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_la_brea_2021",
+  "title": "La Brea",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q106726747",
+    "imdb": "tt11640018",
+    "tmdb": 128839
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

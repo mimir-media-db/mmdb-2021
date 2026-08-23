@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nhl_network_showcase_2021",
+  "title": "NHL Network Showcase",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113023531"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

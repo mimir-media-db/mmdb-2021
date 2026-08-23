@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_red_shoes_2021",
+  "title": "Red Shoes",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106729015"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 100,
+  "genres": [
+    "melodrama",
+    "romantic drama",
+    "family drama",
+    "revenge series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

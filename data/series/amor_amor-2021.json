@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_amor_2021",
+  "title": "Amor Amor",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q104668123",
+    "imdb": "tt13169872",
+    "tmdb": 115810
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 376,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

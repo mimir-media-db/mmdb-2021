@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_scaredy_cats_2021",
+  "title": "Scaredy Cats",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109116558",
+    "imdb": "tt15387774",
+    "tmdb": 133064
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

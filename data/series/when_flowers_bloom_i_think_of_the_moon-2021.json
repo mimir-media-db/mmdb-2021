@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_when_flowers_bloom_i_think_of_the_moon_2021",
+  "title": "When Flowers Bloom, I Think of the Moon",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106813214",
+    "imdb": "tt14609502",
+    "tmdb": 129889
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

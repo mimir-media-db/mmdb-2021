@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_light_the_night_2021",
+  "title": "Light the Night",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105065213",
+    "imdb": "tt15808044",
+    "tmdb": 130330
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

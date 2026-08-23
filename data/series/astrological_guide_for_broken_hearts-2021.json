@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_astrological_guide_for_broken_hearts_2021",
+  "title": "An Astrological Guide for Broken Hearts",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109348569",
+    "imdb": "tt14759406",
+    "tmdb": 135908
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

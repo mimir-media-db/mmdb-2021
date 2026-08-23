@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_jerma985_dollhouse_2021",
+  "title": "The Jerma985 Dollhouse",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q112030299",
+    "imdb": "tt15276484",
+    "tmdb": 331146
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

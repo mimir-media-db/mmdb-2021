@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_loving_her_2020",
+  "title": "Loving Her",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q107417114",
+    "imdb": "tt14267660",
+    "tmdb": 126627
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

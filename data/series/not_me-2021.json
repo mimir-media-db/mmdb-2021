@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_not_me_2021",
+  "title": "Not Me",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110021845",
+    "imdb": "tt13661118",
+    "tmdb": 122015
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Action",
+    "Crime",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

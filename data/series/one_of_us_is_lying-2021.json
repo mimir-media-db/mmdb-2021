@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_one_of_us_is_lying_2021",
+  "title": "One of Us Is Lying",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106797829",
+    "imdb": "tt8354062",
+    "tmdb": 118958
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

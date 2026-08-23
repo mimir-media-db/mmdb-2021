@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_cocaine_cowboys_the_kings_of_miami_2021",
+  "title": "Cocaine Cowboys: The Kings of Miami",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107928810",
+    "imdb": "tt15049206",
+    "tmdb": 129206
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

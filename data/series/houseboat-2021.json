@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_houseboat_2021",
+  "title": "The Houseboat",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107377110",
+    "imdb": "tt14019016",
+    "tmdb": 112860
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

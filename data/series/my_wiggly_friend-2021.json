@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_my_wiggly_friend_2021",
+  "title": "My Wiggly Friend",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115960023",
+    "tmdb": 132048
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sana_soz_2021",
+  "title": "Sana Söz",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q117314064",
+    "imdb": "tt15471788",
+    "tmdb": 137519
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

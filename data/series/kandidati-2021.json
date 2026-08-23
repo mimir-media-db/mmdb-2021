@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kandidati_2021",
+  "title": "Kandidati",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136447791",
+    "imdb": "tt34881848",
+    "tmdb": 279386
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AL"
+  ]
+}

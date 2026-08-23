@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_otajmat_2021",
+  "title": "Otajmat",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110320171",
+    "imdb": "tt16749946",
+    "tmdb": 157865
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_manyunya_2021",
+  "title": "Manyunya",
+  "start_year": 2021,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q112270215",
+    "imdb": "tt19883218",
+    "tmdb": 154148
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 40,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

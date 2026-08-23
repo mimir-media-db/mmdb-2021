@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_invisible_city_2021",
+  "title": "Invisible City",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86740705",
+    "imdb": "tt8878862",
+    "tmdb": 110529
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_pet_stars_2021",
+  "title": "Pet Stars",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106714613",
+    "imdb": "tt14318392",
+    "tmdb": 121629
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

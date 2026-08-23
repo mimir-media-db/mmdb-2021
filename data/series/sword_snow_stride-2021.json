@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sword_snow_stride_2021",
+  "title": "Sword Snow Stride",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109349890",
+    "imdb": "tt12740306",
+    "tmdb": 89614
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 38,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

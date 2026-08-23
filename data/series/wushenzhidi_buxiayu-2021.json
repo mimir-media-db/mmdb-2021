@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wushenzhidi_buxiayu_2021",
+  "title": "Wushenzhidi buxiayu",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109256855",
+    "imdb": "tt15750112",
+    "tmdb": 132814
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

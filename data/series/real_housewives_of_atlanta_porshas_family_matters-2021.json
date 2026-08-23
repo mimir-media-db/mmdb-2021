@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_atlanta_porshas_family_matters_2021",
+  "title": "The Real Housewives of Atlanta: Porsha's Family Matters",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109404379",
+    "imdb": "tt15801944",
+    "tmdb": 139703
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

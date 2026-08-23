@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_player_2021",
+  "title": "The Player",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110122286",
+    "imdb": "tt13662312",
+    "tmdb": 152539
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

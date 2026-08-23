@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_amanah_wali_5_2021",
+  "title": "Amanah Wali 5",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109829018"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 400,
+  "genres": [
+    "soap opera",
+    "Western",
+    "religious film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

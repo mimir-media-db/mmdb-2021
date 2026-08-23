@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_victoria_psicologa_vengadora_2021",
+  "title": "Victoria, psicóloga vengadora",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108299327",
+    "imdb": "tt15331666",
+    "tmdb": 129914
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

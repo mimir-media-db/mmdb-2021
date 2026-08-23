@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_oggy_oggy_2021",
+  "title": "Oggy Oggy",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108673340",
+    "imdb": "tt11194006",
+    "tmdb": 131721
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

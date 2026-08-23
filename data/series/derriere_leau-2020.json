@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_derriere_leau_2020",
+  "title": "Derrière l'eau",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138785923",
+    "imdb": "tt28420440"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CI"
+  ]
+}

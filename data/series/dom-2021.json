@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dom_2021",
+  "title": "Dom",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106628611",
+    "imdb": "tt13354188",
+    "tmdb": 123377
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

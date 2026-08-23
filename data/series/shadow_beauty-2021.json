@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_shadow_beauty_2021",
+  "title": "Shadow Beauty",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116251473",
+    "imdb": "tt16287444",
+    "tmdb": 137408
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

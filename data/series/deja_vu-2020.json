@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_deja_vu_2020",
+  "title": "Déjà Vu",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q106798068",
+    "imdb": "tt14127648",
+    "tmdb": 118539
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

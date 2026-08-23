@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_vendetta_truth_lies_and_the_mafia_2021",
+  "title": "Vendetta: Truth, Lies and The Mafia",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111915042",
+    "imdb": "tt14216574",
+    "tmdb": 132013
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mekif_milano_2020",
+  "title": "Mekif Milano",
+  "start_year": 2020,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q106592224",
+    "imdb": "tt15361392",
+    "tmdb": 230542
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 54,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

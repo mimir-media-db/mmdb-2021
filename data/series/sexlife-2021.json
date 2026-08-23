@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sexlife_2021",
+  "title": "Sex/Life",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q97671423",
+    "imdb": "tt10839422",
+    "tmdb": 126280
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

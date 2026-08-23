@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_hometown_2021",
+  "title": "Hometown",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108101924",
+    "imdb": "tt14687370",
+    "tmdb": 128184
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

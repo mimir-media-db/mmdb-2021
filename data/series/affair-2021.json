@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_affair_2021",
+  "title": "The Affair",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q119167856",
+    "imdb": "tt14433846",
+    "tmdb": 137320
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

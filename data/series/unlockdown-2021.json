@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_unlockdown_2021",
+  "title": "Unlockdown",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111597013",
+    "imdb": "tt15057234",
+    "tmdb": 203137
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

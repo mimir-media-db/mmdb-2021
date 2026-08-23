@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_white_lotus_2021",
+  "title": "The White Lotus",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106679014",
+    "imdb": "tt13406094",
+    "tmdb": 111803
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 21,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

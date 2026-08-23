@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lultima_nit_del_karaoke_2021",
+  "title": "L'última nit del karaoke",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108853156",
+    "imdb": "tt14303754",
+    "tmdb": 136893
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

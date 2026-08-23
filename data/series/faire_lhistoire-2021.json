@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_faire_lhistoire_2021",
+  "title": "Faire l’histoire",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110834689",
+    "imdb": "tt14524698",
+    "tmdb": 125287
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_cat_people_2021",
+  "title": "Cat People",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110608239",
+    "imdb": "tt14818454",
+    "tmdb": 127916
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_z_takm_2021",
+  "title": "Z Takımı",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106817692"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "countries": [
+    "TR"
+  ]
+}

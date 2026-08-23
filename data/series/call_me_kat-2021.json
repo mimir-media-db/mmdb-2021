@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_call_me_kat_2021",
+  "title": "Call Me Kat",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q85750158",
+    "imdb": "tt10985096",
+    "tmdb": 113627
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 53,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

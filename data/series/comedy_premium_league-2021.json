@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_premium_league_2021",
+  "title": "Comedy Premium League",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115813304",
+    "imdb": "tt14167428",
+    "tmdb": 131594
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

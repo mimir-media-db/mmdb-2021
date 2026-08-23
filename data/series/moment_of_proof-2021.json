@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_moment_of_proof_2021",
+  "title": "The Moment of Proof",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124670051",
+    "imdb": "tt13691282",
+    "tmdb": 116322
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

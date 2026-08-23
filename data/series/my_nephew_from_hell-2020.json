@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_my_nephew_from_hell_2020",
+  "title": "My Nephew from Hell",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111842195",
+    "imdb": "tt16744184",
+    "tmdb": 139683
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

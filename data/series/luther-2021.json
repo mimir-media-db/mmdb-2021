@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_luther_2021",
+  "title": "Luther",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109043878",
+    "imdb": "tt14180156",
+    "tmdb": 124888
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

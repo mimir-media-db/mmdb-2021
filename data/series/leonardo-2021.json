@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "s_leonardo_2021",
+  "title": "Leonardo",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q87202748",
+    "imdb": "tt7950706",
+    "tmdb": 96230
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES",
+    "FR",
+    "GB",
+    "IT",
+    "US"
+  ]
+}

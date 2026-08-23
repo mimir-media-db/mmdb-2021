@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_wall_duet_2021",
+  "title": "The Wall Duet",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106309808"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 51,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

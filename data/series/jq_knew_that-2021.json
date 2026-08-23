@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jq_knew_that_2021",
+  "title": "JQ Knew That",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111327683",
+    "imdb": "tt14385526",
+    "tmdb": 124080
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TZ"
+  ]
+}

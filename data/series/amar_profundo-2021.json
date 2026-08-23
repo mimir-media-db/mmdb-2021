@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_amar_profundo_2021",
+  "title": "Amar profundo",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109638512",
+    "imdb": "tt15685422",
+    "tmdb": 138506
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

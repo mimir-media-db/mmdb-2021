@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_jaguar_2021",
+  "title": "Jaguar",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q100273082",
+    "imdb": "tt11698590",
+    "tmdb": 127425
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_feels_like_ishq_2021",
+  "title": "Feels Like Ishq",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108377660",
+    "imdb": "tt14163838",
+    "tmdb": 128115
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

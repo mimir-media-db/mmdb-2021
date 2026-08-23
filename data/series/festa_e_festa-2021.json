@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_festa_e_festa_2021",
+  "title": "Festa é Festa",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106234180",
+    "imdb": "tt14156608",
+    "tmdb": 124201
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 411,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

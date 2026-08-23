@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dag_dokter_2021",
+  "title": "Dag Dokter",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105692693"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_store_that_has_it_all_2021",
+  "title": "The Store That Has It All",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111842208",
+    "imdb": "tt26450804"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

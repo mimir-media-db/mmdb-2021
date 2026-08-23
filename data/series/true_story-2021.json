@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_true_story_2021",
+  "title": "True Story",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109297644",
+    "imdb": "tt13655456",
+    "tmdb": 134029
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

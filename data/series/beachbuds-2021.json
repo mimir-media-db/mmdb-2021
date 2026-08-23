@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_beachbuds_2021",
+  "title": "The Beachbuds",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132066394"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

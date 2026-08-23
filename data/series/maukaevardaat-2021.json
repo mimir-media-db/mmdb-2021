@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_maukaevardaat_2021",
+  "title": "Mauka-E-Vardaat",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105678430",
+    "imdb": "tt14063302"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

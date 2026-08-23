@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_devil_may_care_2021",
+  "title": "Devil May Care",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105753426",
+    "imdb": "tt11868868",
+    "tmdb": 117744
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_buddy_2021",
+  "title": "Bad Buddy",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108906662",
+    "imdb": "tt13660938",
+    "tmdb": 122009
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_penghulu_interim_2021",
+  "title": "Penghulu Interim",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108133843"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Western"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MY"
+  ]
+}

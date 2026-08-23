@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_reservation_dogs_2021",
+  "title": "Reservation Dogs",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104902493",
+    "imdb": "tt13623580",
+    "tmdb": 95215
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 28,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_tuttle_twins_2021",
+  "title": "Tuttle Twins",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131378478",
+    "imdb": "tt14330440",
+    "tmdb": 135805
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 33,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

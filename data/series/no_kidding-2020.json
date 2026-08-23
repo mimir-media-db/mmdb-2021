@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_no_kidding_2020",
+  "title": "No Kidding",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111594079",
+    "imdb": "tt12112474",
+    "tmdb": 110555
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

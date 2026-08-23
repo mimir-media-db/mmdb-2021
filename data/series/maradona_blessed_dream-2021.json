@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_maradona_blessed_dream_2021",
+  "title": "Maradona: Blessed Dream",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96195800",
+    "imdb": "tt8431322",
+    "tmdb": 113901
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "MX"
+  ]
+}

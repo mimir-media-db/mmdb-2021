@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_let_me_be_your_knight_2021",
+  "title": "Let Me Be Your Knight",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108764882",
+    "imdb": "tt15729630",
+    "tmdb": 134071
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

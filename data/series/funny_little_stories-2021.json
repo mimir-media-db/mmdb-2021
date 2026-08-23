@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_funny_little_stories_2021",
+  "title": "Funny Little Stories",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111918089",
+    "imdb": "tt14161736",
+    "tmdb": 120592
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}
