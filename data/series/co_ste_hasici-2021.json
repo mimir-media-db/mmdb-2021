@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_co_ste_hasici_2021",
+  "title": "Co ste hasiči",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122383292",
+    "imdb": "tt14899840",
+    "tmdb": 128886
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_big_shot_2021",
+  "title": "Big Shot",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85747111",
+    "imdb": "tt11238096",
+    "tmdb": 96716
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

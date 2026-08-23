@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_2021",
+  "title": "Animal",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109726939",
+    "imdb": "tt15674216",
+    "tmdb": 137646
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

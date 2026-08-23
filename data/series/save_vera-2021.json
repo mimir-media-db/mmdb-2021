@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_save_vera_2021",
+  "title": "Save Vera",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109264580",
+    "imdb": "tt14304382",
+    "tmdb": 157109
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "UA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_police_university_2021",
+  "title": "Police University",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106582948",
+    "imdb": "tt14518136",
+    "tmdb": 127356
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

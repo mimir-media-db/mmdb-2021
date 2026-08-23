@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_cruel_summer_2021",
+  "title": "Cruel Summer",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105742610",
+    "imdb": "tt11083696",
+    "tmdb": 98201
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

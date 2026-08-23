@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_arnoldos_ristorantino_2021",
+  "title": "Arnoldo's Ristorantino",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105661215",
+    "imdb": "tt13849262",
+    "tmdb": 112132
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

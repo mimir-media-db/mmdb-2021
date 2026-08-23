@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_elkz_2021",
+  "title": "Elkızı",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110287474",
+    "imdb": "tt15281706",
+    "tmdb": 136890
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

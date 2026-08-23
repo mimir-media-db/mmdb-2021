@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_tic_tac_toc_el_reencuentro_2021",
+  "title": "Tic Tac Toc: El reencuentro",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106471541"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

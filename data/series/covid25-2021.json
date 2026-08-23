@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_covid25_2021",
+  "title": "Covid-25",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106645061",
+    "imdb": "tt14544588",
+    "tmdb": 113433
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EG"
+  ]
+}

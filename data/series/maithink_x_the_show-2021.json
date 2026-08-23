@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_maithink_x_the_show_2021",
+  "title": "MaiThink X – The Show",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109201031",
+    "imdb": "tt15407348",
+    "tmdb": 137059
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

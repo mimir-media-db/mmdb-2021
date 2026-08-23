@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mine_2020",
+  "title": "Mine",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105940076",
+    "imdb": "tt14023192",
+    "tmdb": 124426
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

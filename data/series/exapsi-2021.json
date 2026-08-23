@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_exapsi_2021",
+  "title": "Exapsi",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109325013",
+    "imdb": "tt13788874",
+    "tmdb": 116003
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 72,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

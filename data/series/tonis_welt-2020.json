@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tonis_welt_2020",
+  "title": "Tonis Welt",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106500439",
+    "imdb": "tt13160408",
+    "tmdb": 122926
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

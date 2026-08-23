@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_csi_vegas_2021",
+  "title": "CSI: Vegas",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106910380",
+    "imdb": "tt12887536",
+    "tmdb": 122194
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 41,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

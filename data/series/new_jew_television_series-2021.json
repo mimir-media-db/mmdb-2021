@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_new_jew_television_series_2021",
+  "title": "The New Jew (television series)",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109139766",
+    "imdb": "tt14697286",
+    "tmdb": 123796
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

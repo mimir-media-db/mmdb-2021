@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_storia_di_una_famiglia_perbene_2021",
+  "title": "Storia di una famiglia perbene",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109192280",
+    "imdb": "tt15852666",
+    "tmdb": 137924
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

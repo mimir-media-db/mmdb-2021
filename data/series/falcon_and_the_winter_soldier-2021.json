@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_falcon_and_the_winter_soldier_2021",
+  "title": "The Falcon and the Winter Soldier",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65979734",
+    "imdb": "tt9208876",
+    "tmdb": 88396
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

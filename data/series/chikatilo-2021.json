@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chikatilo_2021",
+  "title": "Chikatilo",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105668766",
+    "imdb": "tt14298980",
+    "tmdb": 109356
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

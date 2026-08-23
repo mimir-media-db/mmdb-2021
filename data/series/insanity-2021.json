@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_insanity_2021",
+  "title": "Insanity",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108843373",
+    "imdb": "tt13407060",
+    "tmdb": 127509
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

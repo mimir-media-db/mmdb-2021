@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kardeslerim_2021",
+  "title": "Kardeşlerim",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106421366",
+    "imdb": "tt13550498",
+    "tmdb": 119267
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 94,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

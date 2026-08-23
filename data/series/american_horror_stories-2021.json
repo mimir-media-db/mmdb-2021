@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_american_horror_stories_2021",
+  "title": "American Horror Stories",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107187662",
+    "imdb": "tt12306692",
+    "tmdb": 113036
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 15,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

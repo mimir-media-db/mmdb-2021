@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_nfl_slimetime_2021",
+  "title": "NFL Slimetime",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110612586",
+    "imdb": "tt15409276",
+    "tmdb": 135878
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

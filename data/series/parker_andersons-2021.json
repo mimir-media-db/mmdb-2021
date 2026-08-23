@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_parker_andersons_2021",
+  "title": "The Parker Andersons",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109539042",
+    "imdb": "tt14359536",
+    "tmdb": 155656
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

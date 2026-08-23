@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_countrymen_2021",
+  "title": "Countrymen",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109623636",
+    "imdb": "tt13782250",
+    "tmdb": 136086
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

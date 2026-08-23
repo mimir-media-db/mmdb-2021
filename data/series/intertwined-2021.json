@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_intertwined_2021",
+  "title": "Intertwined",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104986989",
+    "imdb": "tt13891870",
+    "tmdb": 115304
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

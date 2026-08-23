@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cuori_2021",
+  "title": "Cuori",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109569198",
+    "imdb": "tt14915596",
+    "tmdb": 136658
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

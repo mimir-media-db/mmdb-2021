@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_penthouse_2_war_in_life_2021",
+  "title": "The Penthouse 2: War in Life",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q104698851",
+    "imdb": "tt14055524"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

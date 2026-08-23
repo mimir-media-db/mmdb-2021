@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_chance_to_change_life_2021",
+  "title": "Chance to Change Life",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q106152492"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "reality television",
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

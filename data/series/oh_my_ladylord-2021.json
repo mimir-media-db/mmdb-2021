@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_ladylord_2021",
+  "title": "Oh My Ladylord",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104903632",
+    "imdb": "tt13715346",
+    "tmdb": 119368
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

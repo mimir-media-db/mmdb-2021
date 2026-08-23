@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_sinkut_paljaana_2020",
+  "title": "Sinkut paljaana",
+  "start_year": 2020,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104035780",
+    "imdb": "tt13760942",
+    "tmdb": 116685
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

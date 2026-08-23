@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ossans_love_2021",
+  "title": "Ossan's Love",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105425382",
+    "imdb": "tt15094728",
+    "tmdb": 128351
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

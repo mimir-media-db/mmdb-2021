@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_love_you_as_the_world_ends_2021",
+  "title": "Love You as the World Ends",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104369607",
+    "imdb": "tt14300330",
+    "tmdb": 114905
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

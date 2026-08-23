@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_newsreader_2021",
+  "title": "The Newsreader",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104874404",
+    "imdb": "tt13925142",
+    "tmdb": 130842
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

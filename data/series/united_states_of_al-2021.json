@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_united_states_of_al_2021",
+  "title": "United States of Al",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105334567",
+    "imdb": "tt11116204",
+    "tmdb": 117910
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 35,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

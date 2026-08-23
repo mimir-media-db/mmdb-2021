@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_generation_56k_2021",
+  "title": "Generation 56k",
+  "start_year": 2021,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q107418355",
+    "imdb": "tt13524842",
+    "tmdb": 126304
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

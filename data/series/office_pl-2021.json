@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_office_pl_2021",
+  "title": "The Office PL",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118215364",
+    "imdb": "tt15019916",
+    "tmdb": 128822
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

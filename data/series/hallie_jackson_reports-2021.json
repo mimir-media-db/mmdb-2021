@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hallie_jackson_reports_2021",
+  "title": "Hallie Jackson Reports",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106429230",
+    "imdb": "tt14352818",
+    "tmdb": 202735
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

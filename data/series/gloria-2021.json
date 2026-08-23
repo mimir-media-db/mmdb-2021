@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_gloria_2021",
+  "title": "Glória",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109466544",
+    "imdb": "tt13064634",
+    "tmdb": 109369
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

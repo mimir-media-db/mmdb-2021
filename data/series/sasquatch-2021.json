@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sasquatch_2021",
+  "title": "Sasquatch",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107619097",
+    "imdb": "tt14035948",
+    "tmdb": 118556
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

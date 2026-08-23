@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sukuni_salat_2021",
+  "title": "Sukuni salat",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105518977"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television",
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

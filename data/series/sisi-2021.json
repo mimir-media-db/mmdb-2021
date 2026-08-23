@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_sisi_2021",
+  "title": "Sisi",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108909070",
+    "imdb": "tt11269100",
+    "tmdb": 153282
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "DE"
+  ]
+}

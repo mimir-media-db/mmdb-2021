@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_awakening_2020",
+  "title": "The Awakening",
+  "start_year": 2020,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q111594161",
+    "imdb": "tt11006850",
+    "tmdb": 128502
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_freezing_embrace_2021",
+  "title": "Freezing Embrace",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112210781",
+    "imdb": "tt16991810",
+    "tmdb": 153512
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

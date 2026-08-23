@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nos_tempos_do_imperador_2021",
+  "title": "Nos Tempos do Imperador",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q85312754",
+    "imdb": "tt15204826",
+    "tmdb": 100127
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 154,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

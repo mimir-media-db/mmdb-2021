@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mel_giedroyc_unforgivable_2021",
+  "title": "Mel Giedroyc: Unforgivable",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106255415",
+    "imdb": "tt11847138",
+    "tmdb": 117587
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

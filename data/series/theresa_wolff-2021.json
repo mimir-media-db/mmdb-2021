@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_theresa_wolff_2021",
+  "title": "Theresa Wolff",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113053268"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_even_closer_2021",
+  "title": "Even Closer",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105747259",
+    "imdb": "tt13890486",
+    "tmdb": 118198
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

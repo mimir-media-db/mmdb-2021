@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_klara_sonntag_2021",
+  "title": "Klara Sonntag",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q106606227"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

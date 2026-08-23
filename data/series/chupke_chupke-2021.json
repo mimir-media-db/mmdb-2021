@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_chupke_chupke_2021",
+  "title": "Chupke Chupke",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106618489",
+    "imdb": "tt14521600",
+    "tmdb": 124807
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

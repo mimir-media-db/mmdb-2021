@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_seiten_wo_tsuke_2021",
+  "title": "Seiten wo Tsuke",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q67207191",
+    "imdb": "tt14606002",
+    "tmdb": 112446
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 41,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

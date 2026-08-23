@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_irregulars_2021",
+  "title": "The Irregulars",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q79784974",
+    "imdb": "tt10893694",
+    "tmdb": 98187
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_sport_2021",
+  "title": "Bad Sport",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110300658",
+    "imdb": "tt15402912",
+    "tmdb": 133358
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

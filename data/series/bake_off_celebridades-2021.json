@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_bake_off_celebridades_2021",
+  "title": "Bake Off Celebridades",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106624910",
+    "imdb": "tt26687839",
+    "tmdb": 118680
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

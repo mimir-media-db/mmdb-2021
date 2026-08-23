@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kontakt_2021",
+  "title": "Kontakt",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108057223",
+    "imdb": "tt12082390",
+    "tmdb": 134068
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mousa_2021",
+  "title": "Mousa",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106841255"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "countries": [
+    "EG"
+  ]
+}

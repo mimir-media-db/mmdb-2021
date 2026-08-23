@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_alice_2021",
+  "title": "Finding Alice",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105085661",
+    "imdb": "tt11127412",
+    "tmdb": 116620
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

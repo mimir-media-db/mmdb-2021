@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_reality_shore_2021",
+  "title": "Reality Shore",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111950358",
+    "imdb": "tt24851318",
+    "tmdb": 153246
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

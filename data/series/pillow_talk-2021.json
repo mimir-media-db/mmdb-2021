@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pillow_talk_2021",
+  "title": "Pillow Talk",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108372833",
+    "imdb": "tt15575778",
+    "tmdb": 133924
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 57,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

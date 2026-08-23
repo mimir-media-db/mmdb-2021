@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_masumiyet_2021",
+  "title": "Masumiyet",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q105998583",
+    "imdb": "tt13726244",
+    "tmdb": 117829
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

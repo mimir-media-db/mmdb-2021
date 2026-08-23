@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_baking_it_2021",
+  "title": "Baking It",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108456411",
+    "imdb": "tt15294684",
+    "tmdb": 139004
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

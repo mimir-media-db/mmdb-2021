@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_aziz_2021",
+  "title": "Aziz",
+  "start_year": 2021,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110141334",
+    "imdb": "tt14872600",
+    "tmdb": 137840
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 28,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

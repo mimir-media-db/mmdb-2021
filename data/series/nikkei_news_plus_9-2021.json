@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_nikkei_news_plus_9_2021",
+  "title": "Nikkei News Plus 9",
+  "start_year": 2021,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q119343886"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_checklist_mr_right_2021",
+  "title": "Checklist Mr. Right",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108254682"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Western"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MY"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_voskresensky_2020",
+  "title": "Voskresensky",
+  "start_year": 2020,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q109539058",
+    "imdb": "tt12082332",
+    "tmdb": 138212
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

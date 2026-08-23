@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_cleaning_lady_2021",
+  "title": "The Cleaning Lady",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85806793",
+    "imdb": "tt14675456",
+    "tmdb": 126120
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

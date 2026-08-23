@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_belle_collective_2021",
+  "title": "Belle Collective",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104871990",
+    "imdb": "tt13606226",
+    "tmdb": 116911
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

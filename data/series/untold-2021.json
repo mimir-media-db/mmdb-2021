@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_untold_2021",
+  "title": "Untold",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113954047",
+    "imdb": "tt15402976",
+    "tmdb": 327750
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 19,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}
