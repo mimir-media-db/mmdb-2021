@@ -17,5 +17,13 @@
     "Drama",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI"
+  ]
 }

@@ -12,5 +12,8 @@
   "genres": [
     "experimental music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
 }

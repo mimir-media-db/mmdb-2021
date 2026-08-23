@@ -13,5 +13,10 @@
   "genres": [
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AE",
+    "GB",
+    "LB"
+  ]
 }

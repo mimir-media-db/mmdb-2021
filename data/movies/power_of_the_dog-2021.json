@@ -16,5 +16,13 @@
     "Drama",
     "Western"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CA",
+    "GB",
+    "GR",
+    "NZ",
+    "US"
+  ]
 }

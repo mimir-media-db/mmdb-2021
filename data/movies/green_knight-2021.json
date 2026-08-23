@@ -17,5 +17,11 @@
     "Drama",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "GB",
+    "IE",
+    "US"
+  ]
 }

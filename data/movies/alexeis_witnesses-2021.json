@@ -14,5 +14,8 @@
     "investigative journalism",
     "documentary television film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
 }

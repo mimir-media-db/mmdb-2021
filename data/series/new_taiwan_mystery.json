@@ -14,5 +14,8 @@
     "period drama film",
     "theme music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
 }
