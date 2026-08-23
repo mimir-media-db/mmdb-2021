@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q108254682"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Western"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,10 @@
     "imdb": "tt14644364",
     "tmdb": 824974
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-01-01",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

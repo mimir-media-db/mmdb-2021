@@ -7,6 +7,13 @@
   "external_ids": {
     "wikidata": "Q125422888"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 27
+  "last_updated": "2026-08-23",
+  "total_episodes": 27,
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "romantic drama",
+    "LGBTQ-related film"
+  ],
+  "is_adult": false
 }

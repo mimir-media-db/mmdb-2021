@@ -7,6 +7,12 @@
   "external_ids": {
     "wikidata": "Q137848541"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 33
+  "last_updated": "2026-08-23",
+  "total_episodes": 33,
+  "genres": [
+    "Drama",
+    "period drama film",
+    "theme music"
+  ],
+  "is_adult": false
 }

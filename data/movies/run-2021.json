@@ -9,6 +9,12 @@
     "imdb": "tt8633478",
     "tmdb": 546121
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-01-15"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-01-15",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,11 @@
     "imdb": "tt13212870",
     "tmdb": 121127
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

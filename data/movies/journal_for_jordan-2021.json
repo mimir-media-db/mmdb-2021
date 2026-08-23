@@ -9,7 +9,13 @@
     "imdb": "tt0995854",
     "tmdb": 501841
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-12-10",
-  "runtime_minutes": 131
+  "runtime_minutes": 131,
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "is_adult": false
 }

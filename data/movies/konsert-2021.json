@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q104081667"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-01-29"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-01-29",
+  "genres": [
+    "concert film"
+  ],
+  "is_adult": false
 }

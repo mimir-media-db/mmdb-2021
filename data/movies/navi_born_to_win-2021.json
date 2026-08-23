@@ -8,6 +8,11 @@
     "wikidata": "Q139573795",
     "imdb": "tt29536397"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-04-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-04-23",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

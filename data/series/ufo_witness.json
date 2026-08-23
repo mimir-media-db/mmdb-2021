@@ -9,5 +9,10 @@
     "imdb": "tt11916116",
     "tmdb": 116504
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

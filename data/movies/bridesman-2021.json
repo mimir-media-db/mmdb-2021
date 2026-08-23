@@ -8,7 +8,11 @@
     "wikidata": "Q130532082",
     "imdb": "tt14450020"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-01-01",
-  "runtime_minutes": 50
+  "runtime_minutes": 50,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

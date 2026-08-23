@@ -9,6 +9,10 @@
     "imdb": "tt14764886",
     "tmdb": 834350
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-05-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-05-27",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

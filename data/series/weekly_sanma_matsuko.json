@@ -8,5 +8,10 @@
     "wikidata": "Q106685874",
     "tmdb": 123647
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show",
+    "talk show"
+  ],
+  "is_adult": false
 }

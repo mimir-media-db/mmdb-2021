@@ -8,7 +8,11 @@
     "wikidata": "Q124154885",
     "tmdb": 785506
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-01-28",
-  "runtime_minutes": 80
+  "runtime_minutes": 80,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false
 }

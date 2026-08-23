@@ -9,5 +9,9 @@
     "imdb": "tt11301420",
     "tmdb": 107004
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

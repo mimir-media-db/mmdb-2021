@@ -9,6 +9,11 @@
     "imdb": "tt3577618",
     "tmdb": 884714
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-01-01",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt11647104",
     "tmdb": 666267
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-04-27",
-  "runtime_minutes": 89
+  "runtime_minutes": 89,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

@@ -8,5 +8,9 @@
     "wikidata": "Q105641631",
     "imdb": "tt14044958"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false
 }
