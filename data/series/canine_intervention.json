@@ -9,5 +9,10 @@
     "imdb": "tt13932598",
     "tmdb": 117656
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

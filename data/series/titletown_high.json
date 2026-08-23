@@ -9,5 +9,10 @@
     "imdb": "tt15192032",
     "tmdb": 131114
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV",
+    "Sport"
+  ],
+  "is_adult": false
 }

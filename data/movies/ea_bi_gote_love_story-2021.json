@@ -8,6 +8,10 @@
     "wikidata": "Q109519706",
     "imdb": "tt15723696"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-06-20"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-06-20",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

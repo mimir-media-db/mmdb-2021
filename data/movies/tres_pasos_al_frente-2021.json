@@ -8,6 +8,10 @@
     "wikidata": "Q115316025",
     "imdb": "tt15514434"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-01-01",
+  "genres": [
+    "War"
+  ],
+  "is_adult": false
 }

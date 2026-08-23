@@ -9,7 +9,13 @@
     "imdb": "tt12887536",
     "tmdb": 122194
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 41
+  "total_episodes": 41,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false
 }

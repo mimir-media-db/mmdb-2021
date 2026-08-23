@@ -9,7 +9,12 @@
     "imdb": "tt13938338",
     "tmdb": 614637
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-03-16",
-  "runtime_minutes": 194
+  "runtime_minutes": 194,
+  "genres": [
+    "Documentary",
+    "Horror"
+  ],
+  "is_adult": false
 }

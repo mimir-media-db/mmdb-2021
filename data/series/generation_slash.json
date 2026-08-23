@@ -8,5 +8,12 @@
     "wikidata": "Q99899256",
     "tmdb": 123698
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "comedy",
+    "detective fiction",
+    "drama television series",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

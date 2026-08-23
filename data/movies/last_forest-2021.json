@@ -9,7 +9,12 @@
     "imdb": "tt14029622",
     "tmdb": 795780
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-09-09",
-  "runtime_minutes": 74
+  "runtime_minutes": 74,
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt12017738",
     "tmdb": 856369
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-01-01",
-  "runtime_minutes": 69
+  "runtime_minutes": 69,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

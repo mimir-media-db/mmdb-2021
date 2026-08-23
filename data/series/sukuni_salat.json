@@ -7,5 +7,10 @@
   "external_ids": {
     "wikidata": "Q105518977"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television",
+    "documentary television program"
+  ],
+  "is_adult": false
 }

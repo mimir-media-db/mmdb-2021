@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q131270108"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2021-11-04",
-  "runtime_minutes": 58
+  "runtime_minutes": 58,
+  "genres": [
+    "investigative journalism",
+    "documentary television film"
+  ],
+  "is_adult": false
 }

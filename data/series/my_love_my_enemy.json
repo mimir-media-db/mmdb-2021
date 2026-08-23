@@ -8,5 +8,11 @@
     "wikidata": "Q109529975",
     "tmdb": 138658
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "soap opera",
+    "Drama",
+    "Spy"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,10 @@
     "imdb": "tt13654726",
     "tmdb": 116136
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

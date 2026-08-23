@@ -7,5 +7,10 @@
   "external_ids": {
     "wikidata": "Q114777565"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality show",
+    "music program"
+  ],
+  "is_adult": false
 }

@@ -7,6 +7,13 @@
   "external_ids": {
     "wikidata": "Q108308001"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 320
+  "last_updated": "2026-08-23",
+  "total_episodes": 320,
+  "genres": [
+    "soap opera",
+    "Disaster",
+    "Adult",
+    "Sport"
+  ],
+  "is_adult": true
 }

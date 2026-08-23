@@ -9,7 +9,13 @@
     "imdb": "tt15402976",
     "tmdb": 327750
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 19
+  "total_episodes": 19,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

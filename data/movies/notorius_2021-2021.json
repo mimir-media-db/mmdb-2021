@@ -8,6 +8,14 @@
     "wikidata": "Q140814474",
     "tmdb": 1520112
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2021-03-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2021-03-18",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Crime",
+    "Martial Arts",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }
