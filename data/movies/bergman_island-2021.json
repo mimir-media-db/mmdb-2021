@@ -17,5 +17,14 @@
     "Drama",
     "Romance"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "BR",
+    "DE",
+    "FR",
+    "GB",
+    "MX",
+    "SE"
+  ]
 }

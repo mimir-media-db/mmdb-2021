@@ -17,5 +17,15 @@
     "Fantasy",
     "Horror"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BG",
+    "CA",
+    "DK",
+    "FI",
+    "FR",
+    "GB",
+    "NO",
+    "SE"
+  ]
 }

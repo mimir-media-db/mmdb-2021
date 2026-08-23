@@ -17,5 +17,15 @@
     "History",
     "War"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "BA",
+    "DE",
+    "FR",
+    "NO",
+    "PL",
+    "RO",
+    "TR"
+  ]
 }

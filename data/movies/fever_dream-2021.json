@@ -17,5 +17,11 @@
     "Horror",
     "Mystery"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CL",
+    "ES",
+    "PE",
+    "US"
+  ]
 }

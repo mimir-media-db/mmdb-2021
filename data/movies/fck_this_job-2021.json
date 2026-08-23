@@ -16,5 +16,10 @@
     "Documentary",
     "News"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "GB",
+    "RU"
+  ]
 }

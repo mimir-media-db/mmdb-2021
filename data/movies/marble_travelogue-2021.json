@@ -15,5 +15,13 @@
   "genres": [
     "Documentary"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN",
+    "FR",
+    "GR",
+    "JP",
+    "KR",
+    "US"
+  ]
 }
